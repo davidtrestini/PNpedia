@@ -12,6 +12,7 @@ The repository currently contains two main directories:
     * "arXiv", containing preprints on arXiv, which is used by default
     * "publications", containing peer-reviewed journal publications which either predate arXiv or have results that differ from the arXiv version 
 * "Gauge-invariant quantities at future null infinity", which aims to contain machine-readable files corresponding to the state of the art of post-Newtonian predictions for gravitational waveforms. It is structured using nested directories.
+
 In the future, I intend to include gauge-dependent post-Newtonian results, such as the equations of motions, or gauge-independent results that are not strictly speaking observables at future null infinity, such as the invariant quantities of the conservative problem.
 
 
@@ -25,4 +26,9 @@ Currently, the results are quite scarce, because it is intended to be a *collabo
 * upload a missing machine-readable file
 * endorse an available machine-readable file
 * raise an issue if they have a disagreement with an available machine-readable file
+
 Suggestions are also welcome.
+
+If you have used this repository for you academic work, please acknowledge it by citing the repository. For this, just click on "Cite this repository" in the "About" section of the right-hand side of the page, and copy-paste the BibTeX file.
+
+
