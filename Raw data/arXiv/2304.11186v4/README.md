@@ -8,4 +8,4 @@ L. Blanchet, G. Faye, Q. Henry, F. Larrouturou, D. Trestini, *"Gravitational-wav
 
 ## Endorsers
 
-[David Trestini](https://github.com/davidtrestini) [orcid:[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
+[David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
