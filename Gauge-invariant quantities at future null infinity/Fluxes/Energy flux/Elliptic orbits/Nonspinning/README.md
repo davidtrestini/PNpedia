@@ -9,7 +9,7 @@ We use the following notations:
 * ``c`` is the speed of light
 * ``x`` is the dimensionless frequency of the (2,2) mode of the GW
 * ``\[Nu]`` is the symmetric mass ratio
-* ``et`` is the time-eccentricity $e_t$ from the quasi-Keplerian parametrization
+* ``et`` is the time-eccentricity $e_t$ from the quasi-Keplerian parametrization **in modified harmonic coordinates**
 
 We also introduce the following *enhancement functions* defined in (6.1) of arXiv:0711.0250v2:
 * ``\[CurlyPhi][et]`` is defined as $\varphi(e_t)$
@@ -25,19 +25,13 @@ It is common to perform the small eccentricity ($e_t \ll 1$) expansion  of the e
 * ``zeta_expanded.txt`` corresponds to $\zeta(e_t)$, see (7.1 c) of arXiv:0908.3854v2 or (B7g) of arXiv:1906.06263v2
 * ``kappa_expanded.txt`` corresponds to $\kappa_(e_t)$, see (7.1 d) of arXiv:0908.3854v2 or (B7e) of arXiv:1906.06263v2
 
-The result is given at 4.5PN accuracy.
+The result is given at 3PN accuracy.
 
 ## Sources
 
 This result was obtained:
-* at 4.5PN in
-    * (6.11) of arXiv:2304.11186v4
-    * (4) of arXiv:2304.11185v4
-* at 3.5PN in
-    * (12.9) of arXiv:gr-qc/0105098v3
-* at 3PN in 
-    * (4.11) of arXiv:2406.03457v2
-
+* at 3PN in
+    * (8.8) and (8.11) of arXiv:0711.0302v2
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
