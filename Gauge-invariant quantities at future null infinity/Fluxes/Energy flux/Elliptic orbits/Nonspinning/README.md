@@ -9,7 +9,7 @@ We use the following notations:
 * ``c`` is the speed of light
 * ``x`` is the dimensionless frequency of the (2,2) mode of the GW
 * ``\[Nu]`` is the symmetric mass ratio
-* ``et`` is the time-eccentricity from the quasi-Keplerian parametrization
+* ``et`` is the time-eccentricity $e_t$ from the quasi-Keplerian parametrization
 
 We also introduce the following *enhancement functions* defined in (6.1) of arXiv:0711.0250v2:
 * ``\[CurlyPhi][et]`` is defined as $\varphi(e_t)$
