@@ -12,10 +12,10 @@ We use the following notations:
 * ``et`` is the time-eccentricity from the quasi-Keplerian parametrization
 
 We also introduce the following *enhancement functions* defined in (6.1) of arXiv:0711.0250v2:
-* ``\[CurlyPhi][et]`` is defined as $$\varphi(e_t) = \frac{13696}{8191} \sum_{p=0}^\infty  - \frac{16403*20}{24573*49209}\sum_{p=0}^\infty$$
-* ``\[Psi][et]`` is defined as $\psi(e_t) = \sum_{p=0}^\infty$
-*  ``\[Zeta][et]`` is defined as $\zeta(e_t) = \sum_{p=0}^\infty$
-*  ``\[Kappa][et]`` is defined as $\kappa(e_t) = \sum_{p=0}^\infty$
+* ``\[CurlyPhi][et]`` is defined as $\varphi(e_t)$
+* ``\[Psi][et]`` is defined as $\psi(e_t) = \frac{13696}{8191}\alpha(e_t) - \frac{16403}{24573}\beta(e_t) - \frac{112}{24573}\gamma(e_t)$
+*  ``\[Zeta][et]`` is defined as $\zeta(e_t) = -\frac{1424}{4081}\theta(e_t) + \frac{16403}{12243}\beta(e_t) + \frac{16}{1749}\gamma(e_t)$
+*  ``\[Kappa][et]`` is defined as $\kappa(e_t) = \frac{1}{(1-e_t^2)^{13/2}}\left(1 + \frac{85}{6}e_t^2 + \frac{5171}{192} e_t^4 + \frac{1751}{192}e_t^6 + \frac{297}{1024} e_t^8\right)+ \frac{59920}{116761} \chi(e_t)
 
 The result is given at 4.5PN accuracy.
 
