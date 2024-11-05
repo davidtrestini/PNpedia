@@ -11,9 +11,9 @@ The repository currently contains two main directories:
 * "Raw data", which is compendium of publications and the machine-readable post-Newtonian results associated to them. It is itself subvided into two directories:
     * "arXiv", containing preprints on arXiv, which is used by default
     * "publications", containing peer-reviewed journal publications which either predate arXiv or have results that differ from the arXiv version 
-* "Gauge-invariant quantities at future null infinity", which aims to contain machine-readable files corresponding to the state of the art of post-Newtonian predictions for gravitational waveforms. It is structured using nested directories.
+* "Quantities at future null infinity", which aims to contain machine-readable files corresponding to the state of the art of post-Newtonian predictions for gravitational waveforms. It is structured using nested directories.
 
-In the future, I intend to include gauge-dependent post-Newtonian results, such as the equations of motions, or gauge-independent results that are not strictly speaking observables at future null infinity, such as the invariant quantities of the conservative problem.
+In the future, I intend to include other post-Newtonian results, such as the equations of motions, Poincaré invariants, source moments, etc.
 
 
 Alongside each machine-readable file (or collection of files), there should be a README.md file. This file should contain:
