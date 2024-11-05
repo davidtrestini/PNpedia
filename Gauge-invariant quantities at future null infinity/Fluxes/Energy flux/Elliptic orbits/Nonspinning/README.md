@@ -17,6 +17,8 @@ We also introduce the following *enhancement functions* defined in (6.1) of arXi
 *  ``\[Zeta][et]`` is defined as $\zeta(e_t) = -\frac{1424}{4081}\theta(e_t) + \frac{16403}{12243}\beta(e_t) + \frac{16}{1749}\gamma(e_t)$
 *  ``\[Kappa][et]`` is defined as $\kappa(e_t) = \frac{1 + \frac{85}{6}e_t^2 + \frac{5171}{192} e_t^4 + \frac{1751}{192}e_t^6 + \frac{297}{1024} e_t^8}{(1-e_t^2)^{13/2}} + \frac{59920}{116761} \chi(e_t)$
 
+The intermediate enhancement functions $\varphi(e_t)$, $\alpha(e_t)$, $\beta(e_t)$, $gamma(e_t)$, $\theta(e_t)$, $\chi(et_)$ are defined in (92-102) of arXiv:1607.05409v3 in terms of the Fourier decomposition of the multipolar moments. 
+
 The result is given at 4.5PN accuracy.
 
 ## Sources
