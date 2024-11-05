@@ -1,14 +1,14 @@
 # Flux of energy for nonspinning compact binaries on circular orbits
 
-The file <tt>flux.txt</tt> contains the flux of energy for nonspinning compact binaries on circular orbits.
+The file ``flux.txt`` contains the flux of energy for nonspinning compact binaries on circular orbits.
 
 ## Notations
 
 We use the following notations:
-* G is Newton's constant of gravitation
-* c is the speed of light
-* x is the dimensionless frequency of the (2,2) mode of the GW
-* \\[Nu] is the symmetric mass ratio
+* ``G`` is Newton's constant of gravitation
+* ``c`` is the speed of light
+* ``x`` is the dimensionless frequency of the (2,2) mode of the GW
+* ``\\[Nu]`` is the symmetric mass ratio
 
 The result is given at 4.5PN accuracy.
 
