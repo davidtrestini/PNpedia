@@ -8,10 +8,10 @@ This repository was created to make lengthy post-Newtonian results:
 The scope of this repository is complete, fully analytical, post-Newtonian results for the two-body problem. Partial results, semi-analytical or many-body results are outside the scope of this repository.
 
 The repository currently contains two main directories:
-* "Raw data", which is compendium of publications and the machine-readable post-Newtonian results associated to them. It is itself subvided into two directories:
-    * "arXiv", containing preprints on arXiv, which is used by default
-    * "publications", containing peer-reviewed journal publications which either predate arXiv or have results that differ from the arXiv version 
-* "Quantities at future null infinity", which aims to contain machine-readable files corresponding to the state of the art of post-Newtonian predictions for gravitational waveforms. It is structured using nested directories.
+* ``Raw data``, which is compendium of publications and the machine-readable post-Newtonian results associated to them. It is itself subvided into two directories:
+    * ``arXiv``, containing preprints on arXiv, which is used by default
+    * ``publications``, containing peer-reviewed journal publications which either predate arXiv or have results that differ from the arXiv version 
+* ``Quantities at future null infinity``, which aims to contain machine-readable files corresponding to the state of the art of post-Newtonian predictions for gravitational waveforms. It is structured using nested directories.
 
 In the future, I intend to include other post-Newtonian results, such as the equations of motions, Poincaré invariants, source moments, etc.
 
@@ -29,6 +29,6 @@ Currently, the results are quite scarce, because it is intended to be a *collabo
 
 Suggestions are also welcome.
 
-If you have used this repository for you academic work, please acknowledge it by citing the repository. For this, just click on "Cite this repository" in the "About" section of the right-hand side of the page, and copy-paste the BibTeX file.
+If you have used this repository for you academic work, please acknowledge it by citing the repository. For this, just click on ``Cite this repository`` in the ``About`` section of the right-hand side of the page, and copy-paste the BibTeX file.
 
 
