@@ -1,6 +1,6 @@
 # Flux of angular momentum for nonspinning compact binaries on elliptic orbits
 
-The file ``flux.txt`` contains the flux of angular momentum for nonspinning compact binaries on elliptic orbits.
+The file ``flux.txt`` contains the *orbit averaged* flux of angular momentum for nonspinning compact binaries on elliptic orbits.
 
 ## Notations
 

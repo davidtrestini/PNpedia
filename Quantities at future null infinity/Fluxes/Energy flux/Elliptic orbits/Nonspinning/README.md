@@ -1,6 +1,6 @@
 # Flux of energy for nonspinning compact binaries on elliptic orbits
 
-The file ``flux.txt`` contains the flux of energy for nonspinning compact binaries on elliptic orbits.
+The file ``flux.txt`` contains the *orbit averaged* flux of energy for nonspinning compact binaries on elliptic orbits.
 
 ## Notations
 
