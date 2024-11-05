@@ -13,6 +13,9 @@ We use the following notations:
 
 We also introduce the following *enhancement functions*:
 * ``\[CurlyPhi][et]`` is defined as $\varphi(e_t) = \sum_{p=0}^\infty$
+* ``\[Psi][et]`` is defined as $\psi(e_t) = \sum_{p=0}^\infty$
+*  ``\[Zeta][et]`` is defined as $\zeta(e_t) = \sum_{p=0}^\infty$
+*  ``\[Kappa][et]`` is defined as $\kappa(e_t) = \sum_{p=0}^\infty$
 
 The result is given at 4.5PN accuracy.
 
