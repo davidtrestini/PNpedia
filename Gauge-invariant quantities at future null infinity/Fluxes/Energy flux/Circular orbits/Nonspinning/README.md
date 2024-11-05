@@ -15,7 +15,7 @@ The result is given at 4.5PN accuracy.
 ## Sources
 
 This result was obtained:
-* at 4PN in
+* at 4.5PN in
     * (6.11) of arXiv:2304.11186v4
     * (4) of arXiv:2304.11185v4
 * at 3.5PN in
