@@ -5,7 +5,7 @@ This repository was created to make lengthy post-Newtonian results:
 * more user-friendly, by including associated machine-readable files (in Wolfram language format)
 * more reliable, by allowing users to *endorse* a result they agree with, and raise issues when typos or disagreements have been identified
 
-The scope of this repository is complete, fully analytical, post-Newtonian results for the two-body problem. Partial results, semi-analytical or many-body results are outside the scope of this repository.
+Currently, the scope of this repository is complete, fully analytical, post-Newtonian results for the two-body problem in general relativity. Partial results, semi-analytical, many-body results or alternative theories of gravity are at this stage outside the scope of this repository.
 
 The repository currently contains two main directories:
 * ``Raw data``, which is compendium of publications and the machine-readable post-Newtonian results associated to them. It is itself subvided into two directories:
