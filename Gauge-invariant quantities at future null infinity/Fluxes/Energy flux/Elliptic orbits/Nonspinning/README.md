@@ -12,7 +12,7 @@ We use the following notations:
 * ``et`` is the time-eccentricity from the quasi-Keplerian parametrization
 
 We also introduce the following *enhancement functions* defined in (6.1) of arXiv:0711.0250v2:
-* ``\[CurlyPhi][et]`` is defined as $$\varphi(e_t) = \frac{13696}{8191} \sum_{p=0}^\infty$$
+* ``\[CurlyPhi][et]`` is defined as $$\varphi(e_t) = \frac{13696}{8191} \sum_{p=0}^\infty  - \frac{16403*20}{24573*49209}\sum_{p=0}^\infty$$
 * ``\[Psi][et]`` is defined as $\psi(e_t) = \sum_{p=0}^\infty$
 *  ``\[Zeta][et]`` is defined as $\zeta(e_t) = \sum_{p=0}^\infty$
 *  ``\[Kappa][et]`` is defined as $\kappa(e_t) = \sum_{p=0}^\infty$
