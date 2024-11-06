@@ -1,6 +1,6 @@
 # Flux of energy for spinning, non-precessing, structureless compact binaries on elliptic orbits
 
-The file ``flux.txt`` contains the *orbit averaged* flux of energy for spinning, non-precessing (i.e. aligned or antialigned spin), structureless (no tidal effects) compact binaries on elliptic orbits
+The file ``flux.txt`` contains the flux of energy for spinning, non-precessing (i.e. aligned or antialigned spin), structureless (no tidal effects) compact binaries on elliptic orbits
 
 ## Notations
 
