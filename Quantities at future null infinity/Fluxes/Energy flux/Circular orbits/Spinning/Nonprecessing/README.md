@@ -12,10 +12,10 @@ We use the following notations:
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{m^2}$
 * ``\[Delta]`` is the relative mass difference, $\delta = \frac{m_1-m_2}{m}$ such that $\delta^2=1-4\nu$
 * we adopt PN-counting convention which assumes that the black holes are maximally spinning, with spins $S_1$ and $S_2$ having dimension $[ML^3T^{-2}]$
-* we define the dimensionless spin parameters $s_1 = \frac{S_1}{G m_1^2}$ and $s_2 = \frac{S_2}{G m_2^2}$, such that maximally spinning black holes satisfy $s_{1,2} = 1$.
-* we define $S = S_1 + S_2 = G (m_1^2 s_1+m_2^2 s_2)$ and $\Sigma = m\left(\frac{S_2}{m_2}-\frac{S_1}{m_1}\right) = G m\left(m_2 s_2 - m_1 s_1\right)$
-* ``s`` is one of the reduced spin parameters, $s = \frac{S}{G m^2} = \frac{m_1^2 s_1 + m_2^2 s_2}{m^2}$
-* ``\[Sigma]`` is the other reduced spin parameter, $\sigma = \frac{\Sigma}{G m^2} = \frac{m_2 s_2 - m_1 s_1}{m}$
+* we define the dimensionless spin parameters $\chi_1 = \frac{S_1}{G m_1^2}$ and $\chi_2 = \frac{S_2}{G m_2^2}$, such that maximally spinning black holes satisfy $s_{1,2} = 1$.
+* we define $S = S_1 + S_2 = G (m_1^2 \chi_1+m_2^2 \chi_2)$ and $\Sigma = m\left(\frac{S_2}{m_2}-\frac{S_1}{m_1}\right) = G m\left(m_2 \chi_2 - m_1 \chi_1\right)$
+* ``s`` is one of the reduced spin parameters, $s = \frac{S}{G m^2} = \frac{m_1^2 \chi_1 + m_2^2 \chi_2}{m^2}$
+* ``\[Sigma]`` is the other reduced spin parameter, $\sigma = \frac{\Sigma}{G m^2} = \frac{m_2 \chi_2 - m_1 \chi_1}{m}$
 
 The result is given at 4PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
 
@@ -28,10 +28,11 @@ This result was obtained:
         * (4) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
     * in the spin-orbit sector in
         * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
-    *in the spin-spin sector in
+    * in the spin-spin sector in
         * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the cubic-in-spin sector in
         * (6.18)-(6.19) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
+        
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
