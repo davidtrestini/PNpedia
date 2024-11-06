@@ -16,12 +16,12 @@ We use the following notations:
 * we define $S = S_1 + S_2 = G (m_1^2 \chi_1+m_2^2 \chi_2)$ and $\Sigma = m\left(\frac{S_2}{m_2}-\frac{S_1}{m_1}\right) = G m\left(m_2 \chi_2 - m_1 \chi_1\right)$
 * ``s`` is one of the reduced spin parameters, $s = \frac{S}{G m^2} = \frac{m_1^2 \chi_1 + m_2^2 \chi_2}{m^2}$
 * ``\[Sigma]`` is the other reduced spin parameter, $\sigma = \frac{\Sigma}{G m^2} = \frac{m_2 \chi_2 - m_1 \chi_1}{m}$
-* we introduce the spin-induced quadrupolar deformability of the bodies, $\kappa_$ and $\kappa_2$, which are equal to $1$ for black holes
+* we introduce the spin-induced quadrupolar deformability of the bodies, $\kappa_1$ and $\kappa_2$, which are equal to $1$ for black holes
 * ``\[Kappa]p`` is defined as $\kappa_+ = \kappa_1 + \kappa_2$
 * ``\[Kappa]m`` is defined as $\kappa_- = \kappa_1 - \kappa_2$
-* we introduce the spin-induced octupolar deformability of the bodies, $\lambda_$ and $\lambda_2$, which are equal to $1$ for black holes
-* ``\[Lambda]p`` is defined as $\lambda+ = \lambda + \lambda$
-* ``\[Lambda]m`` is defined as $\lambda- = \lambda - \lambda$
+* we introduce the spin-induced octupolar deformability of the bodies, $\lambda_1$ and $\lambda_2$, which are equal to $1$ for black holes
+* ``\[Lambda]p`` is defined as $\lambda_+ = \lambda_1 + \lambda_2$
+* ``\[Lambda]m`` is defined as $\lambda_- = \lambda_1 - \lambda_2$
 
 The result is given at 4PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
 
