@@ -2,7 +2,7 @@
 
 We decompose the waveform into $(\ell,m)$ modes as follows:
 
-$$h = h_+ - i h_- = \sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell} h_{\ell m} e^{i m \psi}$$
+$$h = h_+ - i h_- = \frac{1}{R}\sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell} h_{\ell m} e^{- i m \psi}\ \_{-2}Y_{\ell m}(\theta,\phi)Y$$
 
 The phase $\psi$ (given in ``phase.txt``) and the amplitudes $h_{\ell m}$ (given in ``h22.txt``,``h21.txt``, etc.) are expressed in terms of the dimensionless waveform frequency $x$. The time evolution of the waveform frequency is itself given ``chirp.txt``, in which $x$ is expressed in terms of the dimensionless time variable $\tau$.
 
@@ -11,6 +11,9 @@ The phase $\phi(x)$ and the chirp $\x(\tau)$ are given at 4.5PN accuracy. The $h
 ## Notations
 
 We use the following notations:
+* ``i`` is the imaginary unit $i$
+* ``\[Pi]`` is $\pi \approx 3.14$
+* ``EulerGamma`` is the Euler's constant $\gamma_\text{E} \approx 0.58$
 * ``G`` is Newton's constant of gravitation
 * ``c`` is the speed of light
 * ``x`` is the dimensionless frequency of the (2,2) mode of the GW
