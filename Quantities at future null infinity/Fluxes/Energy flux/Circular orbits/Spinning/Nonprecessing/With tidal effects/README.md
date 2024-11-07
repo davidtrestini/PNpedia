@@ -5,6 +5,8 @@ The file ``flux.txt`` contains the flux of energy for spinning, non-precessing (
 ## Notations
 
 We use the following notations:
+* ``Pi`` is $\pi \approx 3.14$
+* ``EulerGamma`` is the Euler's constant $\gamma_\text{E} \approx 0.58$
 * ``G`` is Newton's constant of gravitation
 * ``c`` is the speed of light
 * ``x`` is the dimensionless frequency of the (2,2) mode of the GW
