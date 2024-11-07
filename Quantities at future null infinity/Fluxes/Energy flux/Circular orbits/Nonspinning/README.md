@@ -8,7 +8,7 @@ We use the following notations:
 * ``G`` is Newton's constant of gravitation
 * ``c`` is the speed of light
 * ``x`` is the dimensionless frequency of the (2,2) mode of the GW
-* ``\[Nu]`` is the symmetric mass ratio
+* ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
 
 The result is given at 4.5PN accuracy.
 
