@@ -32,7 +32,7 @@ The chirp was obtained:
 * at 4.5PN in 
     * (6) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
     
-The $h_22$ mode was obtained:
+The $h_{22}$ mode was obtained:
 * at 4PN in:
     * (6.17) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
     * (11) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
