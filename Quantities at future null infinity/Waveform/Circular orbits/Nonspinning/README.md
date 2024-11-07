@@ -2,7 +2,7 @@
 
 We decompose the waveform into $(\ell,m)$ modes as follows:
 
-$$h = h_+ - i h_- = \frac{1}{R}\sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell} h_{\ell m} e^{- i m \psi}\ \_{-2}Y_{\ell m}(\theta,\phi)Y$$
+$$h = h_+ - i h_- = \frac{1}{R}\sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell} h_{\ell m} e^{- i m \psi}\ \_{-2}Y_{\ell m}(\theta,\phi)$$
 
 The phase $\psi$ (given in ``phase.txt``) and the amplitudes $h_{\ell m}$ (given in ``h22.txt``,``h21.txt``, etc.) are expressed in terms of the dimensionless waveform frequency $x$. The time evolution of the waveform frequency is itself given ``chirp.txt``, in which $x$ is expressed in terms of the dimensionless time variable $\tau$.
 
@@ -37,15 +37,17 @@ The $h_22$ mode was obtained:
     * (6.17) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
     * (11) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
 
-The $h_{l0}$ modes were obtained:
+The $h_{\ell 0}$ modes were obtained:
 * at 3.5PN in:
     * (39) and (26) of [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2)
 * at 3PN in:
     * (4.3) and (4.1) of [arXiv:0812.0069v2](https://arxiv.org/abs/0812.0069v2)
 
-The other $h_{lm}$ modes were obtained
+The other $h_{\ell m}$ modes (for $m>0$) were obtained
 * at 3.5PN in:
     * (3.4) and (3.2) of [arXiv:2210.15602v2](https://arxiv.org/abs/2210.15602v2)
+    
+The $h_{\ell m}$ modes for $m<0$ were obtained from the modes $m>0$ using the relation $h_{\ell (-m)} = (-1)^\ell (h_{\ell m})^*$, where the star denotes a complex conjugate
 
 ## Endorsers
 
