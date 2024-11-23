@@ -17,7 +17,7 @@ The result is given at 4.5PN accuracy.
 
 ## Sources
 
-The angular momentum flux for circular orbits is obtained by dividing the energy flux by frequency of the (2,2) mode $\omega_{22} = c^3 x^{3/2}/(G m)$. The flux of energy for nonspinning circular orbits was obtained:
+The angular momentum flux for circular orbits is obtained by dividing the energy flux by frequency of the (2,2) mode $\omega_{22} = \frac{c^3 x^{3/2}}{G m}$. The flux of energy for nonspinning circular orbits was obtained:
 * at 4.5PN in
     * (6.11) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
     * (4) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
