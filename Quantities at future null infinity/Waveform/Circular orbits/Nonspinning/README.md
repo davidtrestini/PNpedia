@@ -11,7 +11,7 @@ The phase $\phi(x)$ and the chirp $x(\tau)$ are given at 4.5PN accuracy. The $h_
 ## Notations
 
 We use the following notations:
-* ``i`` is the imaginary unit $i$
+* ``I`` is the imaginary unit $i$
 * ``Pi`` is $\pi \approx 3.14$
 * ``EulerGamma`` is the Euler's constant $\gamma_\text{E} \approx 0.58$
 * ``G`` is Newton's constant of gravitation
