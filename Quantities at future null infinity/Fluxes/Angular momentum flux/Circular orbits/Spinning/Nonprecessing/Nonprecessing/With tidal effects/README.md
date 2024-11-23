@@ -29,7 +29,7 @@ The result is given at 4PN accuracy, including all non-spinning, spin-orbit, spi
 
 ## Sources
 
-The angular momentum flux for circular orbits is obtained from the energy flux via the relation $\mathcal{G}_\text{circ}  = \frac{G m}{c^3 x^{3/2}} \mathcal{F}_\text{circ}$, and the energy flux was obtained:
+The angular momentum flux for circular orbits is obtained from the energy flux via the relation $\mathcal{G}_\mathrm{circ}  = \frac{G m}{c^3 x^{3/2}} \mathcal{F}_\mathrm{circ}$, and the energy flux was obtained:
 * at 4PN
     * in the nonspinning sector in
         * (6.11) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
