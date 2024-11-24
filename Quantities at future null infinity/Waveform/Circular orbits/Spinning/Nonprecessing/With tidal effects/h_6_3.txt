@@ -1,0 +1,1 @@
+((-81*I)/385)*Sqrt[Pi/13]*x^(7/2)*\[Nu]*(\[Delta] - 4*\[Delta]*\[Nu] + 3*\[Delta]*\[Nu]^2 + x*((-133*\[Delta])/24 + (301*\[Delta]*\[Nu])/12 - (329*\[Delta]*\[Nu]^2)/12 + 7*\[Delta]*\[Nu]^3) + Sqrt[x]*((7*s*\[Delta])/2 + \[Nu]*(-7*s*\[Delta] - (35*\[Sigma])/2) + (7*\[Sigma])/2 + (35*\[Nu]^2*\[Sigma])/2))
