@@ -6,7 +6,7 @@ $$h = h_+ - i h_- = \frac{1}{R}\sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell} h_{\
 
 The phase $\psi$ (given in ``phase.txt``) and the amplitudes $h_{\ell m}$ (given in ``h_2_2.txt``,``h_2_1.txt``, etc.) are expressed in terms of the dimensionless waveform frequency $x$. The time evolution of the waveform frequency is itself given ``chirp.txt``, in which $x$ is expressed in terms of the dimensionless time variable $\tau =  \frac{\nu c^3(t-t_0)}{5 G m}$. The $h_{\ell m}$ modes for $m<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $h_{\ell (-m)} = (-1)^\ell (h_{\ell m})^*$, where the star denotes a complex conjugate.
 
-The phase $\phi(x)$ and the chirp $x(\tau)$ are given at 4.5PN accuracy. The $h_{22}$ mode is given with 4PN accuracy, and all the others are given at 3.5PN accuracy.
+The phase $\phi(x)$ and the chirp $x(\tau)$ are given at 3.5PN accuracy. The $h_{lm}$ modes for $m>0$ are given with 3.5PN accuracy, and the others $h_{l0} modes are unknown.
 
 Currently, the presented results do not include effects due to black hole absorption or tidal heating.
 
@@ -31,30 +31,33 @@ We use the following notations:
 
 ## Sources
 
-The phase was obtained in the nonspinning sector:
-* at 4.5PN in
-    * (8) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
+The phase was obtained:
+* in the nonspinning sector:
+    * at 4.5PN in
+        * (8) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
+* in the spin-orbit sector:
+    * at 4PN in
+        * (14) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
+* in the spin-spin sector:
+    * at 4PN in
+        * (14) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
+* in the cubic-in-spin sector
+    * at 4PN in
+        * (6.20)-(6.21) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
     
-The chirp was obtained in the nonspinning sector:
-* at 4.5PN in 
-    * (6) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
+The chirp was obtained:
+* in the nonspinning sector:
+    * at 4.5PN in 
+        * (6) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
+    * at 3.5PN in the spinning sector by computing it directly from the fluxes and energy at 3.5PN, see the relevant sections of PNpedia
     
-The $h_{22}$ mode was obtained in the nonspinning sector:
-* at 4PN in:
-    * (6.17) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
-    * (11) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
-
-The $h_{\ell 0}$ modes were obtained in the nonspinning sector:
-* at 3.5PN in:
-    * (39) and (26) of [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2)
-* at 3PN in:
-    * (4.3) and (4.1) of [arXiv:0812.0069v2](https://arxiv.org/abs/0812.0069v2)
-
-The other $h_{\ell m}$ modes (for $m>0$) were obtained 
-* at 3.5PN in the nonspinning sector:
-    * (3.4) and (3.2) of [arXiv:2210.15602v2](https://arxiv.org/abs/2210.15602v2)
-    
-
+The $h_{\ell m}$ modes (for $m>0$) were obtained:
+* in the nonspinning sector:
+    * at 3.5PN in:
+        * (3.4) and (3.2) of [arXiv:2210.15602v2](https://arxiv.org/abs/2210.15602v2)
+* in the spinning sector:
+    * at 3.5PN in:
+        * the ancillary file ``modes_PNexp_full_35PN.dat.m`` of [arXiv:2210.15602v2](https://arxiv.org/abs/2210.15602v2)  
 
 ## Endorsers
 
