@@ -8,6 +8,8 @@ The phase $\psi$ (given in ``phase.txt``) and the amplitudes $h_{\ell m}$ (given
 
 The phase $\phi(x)$ and the chirp $x(\tau)$ are given at 4.5PN accuracy. The $h_{22}$ mode is given with 4PN accuracy, and all the others are given at 3.5PN accuracy.
 
+Currently, the presented results do not include effects due to black hole absorption or tidal heating.
+
 ## Notations
 
 We use the following notations:
