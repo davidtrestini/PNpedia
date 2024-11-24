@@ -19,7 +19,7 @@ We use the following notations:
 * ``s`` is one of the reduced spin parameters, $s = \frac{S}{G m^2} = \frac{m_1^2 \chi_1 + m_2^2 \chi_2}{m^2}$
 * ``\[Sigma]`` is the other reduced spin parameter, $\sigma = \frac{\Sigma}{G m^2} = \frac{m_2 \chi_2 - m_1 \chi_1}{m}$
 
-The result is given at 4PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
+The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
 
 ## Sources
 
@@ -34,6 +34,7 @@ This result was obtained:
         * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the cubic-in-spin sector in
         * (6.18)-(6.19) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
+        
 However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented.
 ## Endorsers
 

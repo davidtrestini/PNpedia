@@ -25,7 +25,7 @@ We use the following notations:
 * ``\[Lambda]p`` is defined as $\lambda_+ = \lambda_1 + \lambda_2$
 * ``\[Lambda]m`` is defined as $\lambda_- = \lambda_1 - \lambda_2$
 
-The result is given at 4PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
+The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
 
 ## Sources
 
@@ -40,6 +40,7 @@ This result was obtained:
         * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the cubic-in-spin sector in
         * (6.18)-(6.19) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
+        
 However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented.
 
 
