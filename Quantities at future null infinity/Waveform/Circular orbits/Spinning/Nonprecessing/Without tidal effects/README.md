@@ -4,11 +4,10 @@ We decompose the waveform into $(\ell,m)$ modes as follows:
 
 $$h = h_+ - i h_- = \frac{1}{R}\sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell} h_{\ell m} e^{- i m \psi}\ \_{-2}Y_{\ell m}(\theta,\phi)$$
 
-The phase $\psi$ (given in ``phase.txt``) and the amplitudes $h_{\ell m}$ (given in ``h_2_2.txt``,``h_2_1.txt``, etc.) are expressed in terms of the dimensionless waveform frequency $x$. The time evolution of the waveform frequency is itself given ``chirp.txt``, in which $x$ is expressed in terms of the dimensionless time variable $\tau =  \frac{\nu c^3(t-t_0)}{5 G m}$. The $h_{\ell m}$ modes for $m<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $h_{\ell (-m)} = (-1)^\ell (h_{\ell m})^*$, where the star denotes a complex conjugate.
+The phase $\psi$ and the amplitudes $h_{\ell m}$ (given in ``h_2_2.txt``,``h_2_1.txt``, etc.) are expressed in terms of the dimensionless waveform frequency $x$. The time evolution of the waveform frequency is itself given ``chirp.txt``, in which $x$ is expressed in terms of the dimensionless time variable $\tau =  \frac{\nu c^3(t-t_0)}{5 G m}$. The $h_{\ell m}$ modes for $m<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $h_{\ell (-m)} = (-1)^\ell (h_{\ell m})^*$, where the star denotes a complex conjugate.
 
-The phase $\phi(x)$ and the chirp $x(\tau)$ are given at 3.5PN accuracy. The $h_{lm}$ modes for $m>0$ are given with 3.5PN accuracy, and the $h_{l0}$ modes are unknown.
+Expressions for the phase $\psi(x)$ and chirp $x(\tau)$ are known with 3.5PN when ignoring the contribution of the horizon fluxes or tidal heating, and are given, respectively, by ``phase_ignoring_horizon_flux.txt`` and ``chirp_ignoring_horizon_flux.txt``. Since the horizon flux contribution start at 2.5PN, the full phase and chirp are only known at 2PN, and are given in ``phase.txt`` and ``chirp.txt``. The $h_{lm}$ modes for $m>0$ are given with 3.5PN accuracy, and the $h_{l0}$ modes are unknown.
 
-Currently, the presented results do not include effects due to black hole absorption or tidal heating.
 
 ## Notations
 
