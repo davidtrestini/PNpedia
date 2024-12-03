@@ -26,11 +26,11 @@ We use the following notations:
 
 ## Sources
 
-The phase was obtained:
+The phase (ignoring horizon fluxes) was obtained:
 * at 4.5PN in
     * (8) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
     
-The chirp was obtained:
+The chirp (ignoring horizon fluxes) was obtained:
 * at 4.5PN in 
     * (6) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
     

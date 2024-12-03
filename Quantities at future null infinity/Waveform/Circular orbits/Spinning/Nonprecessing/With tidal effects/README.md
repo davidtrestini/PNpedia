@@ -35,7 +35,7 @@ We use the following notations:
 
 ## Sources
 
-The phase was obtained:
+The phase (ignoring horizon fluxes) was obtained:
 * in the nonspinning sector:
     * at 4.5PN in
         * (8) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
@@ -45,11 +45,11 @@ The phase was obtained:
 * in the spin-spin sector:
     * at 4PN in
         * (14) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
-* in the cubic-in-spin sector
+* in the cubic-in-spin sector:
     * at 4PN in
         * (6.20)-(6.21) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
     
-The chirp was obtained:
+The chirp (ignoring horizon fluxes) was obtained:
 * in the nonspinning sector:
     * at 4.5PN in 
         * (6) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
