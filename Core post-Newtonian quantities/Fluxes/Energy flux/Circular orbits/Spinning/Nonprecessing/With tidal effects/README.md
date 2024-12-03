@@ -1,6 +1,6 @@
-# Flux of energy for spinning, non-precessing, compact binaries with tidal deformation on elliptic orbits
+# Flux of energy for spinning, non-precessing, compact binaries with tidal deformation on circular orbits
 
-The file ``flux.txt`` contains the flux of energy for spinning, non-precessing (i.e. aligned or antialigned spin) compact binaries with tidal deformation (i.e. *not* a binary black hole system) on elliptic orbits
+The file ``flux.txt`` contains the flux of energy for spinning, non-precessing (i.e. aligned or antialigned spin) compact binaries with tidal deformation on circular orbits
 
 ## Notations
 
