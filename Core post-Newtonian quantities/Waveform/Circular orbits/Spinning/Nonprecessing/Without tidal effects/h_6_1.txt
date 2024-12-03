@@ -1,0 +1,1 @@
+(I/2079)*Sqrt[(2*Pi)/65]*x^(7/2)*\[Nu]*(\[Delta] - 4*\[Delta]*\[Nu] + 3*\[Delta]*\[Nu]^2 + x*((-125*\[Delta])/24 + (277*\[Delta]*\[Nu])/12 - (289*\[Delta]*\[Nu]^2)/12 + (17*\[Delta]*\[Nu]^3)/3) + Sqrt[x]*((7*s*\[Delta])/2 + \[Nu]*(-7*s*\[Delta] - (35*\[Sigma])/2) + (7*\[Sigma])/2 + (35*\[Nu]^2*\[Sigma])/2))
