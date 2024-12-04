@@ -2,6 +2,7 @@
 
 This repository was created to make lengthy post-Newtonian results:
 * easier to find, by putting all known results in one place
+* more traceable, by collecting the various references in the literature in one place and flagging known discrepencies and typos
 * more user-friendly, by including associated machine-readable files (in Wolfram language format)
 * more reliable, by allowing users to *endorse* a result they agree with, and raise issues when typos or disagreements have been identified
 
