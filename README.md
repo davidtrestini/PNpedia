@@ -24,7 +24,7 @@ Currently, the results are quite scarce, because it is intended to be a *collabo
 * upload a missing machine-readable file
 * endorse an available machine-readable file
 * add or correct references or notations in the README.md files
-* raise an issue if they have a disagreement with an available machine-readable file
+* raise an *issue* if they have a disagreement with an available machine-readable file
 
 Suggestions are also welcome.
 
