@@ -20,7 +20,7 @@ Alongside each machine-readable file (or collection of files), there should be a
 * the reference(s) of the result, and potential known typos and disagreements
 * a list of endorsers
 
-Currently, the results are quite scarce, because it is intended to be a *collaborative* effort. Users are encourage to raise *pull request* to:
+Currently, the results are quite scarce, because it is intended to be a *collaborative* effort. Users are encourage to raise a *pull request* to:
 * upload a missing machine-readable file
 * endorse an available machine-readable file
 * add or correct references or notations in the README.md files
