@@ -1,4 +1,4 @@
-# Flux of energy for nonspinning compact binaries on circular orbits
+# Flux of angular momentum for nonspinning compact binaries on circular orbits
 
 The file ``flux.txt`` contains the flux of angular momentum for nonspinning compact binaries on circular orbits.
 
@@ -25,7 +25,13 @@ The angular momentum flux for circular orbits is obtained by dividing the energy
     * (12.9) of [arXiv:gr-qc/0105098v3](https://arxiv.org/abs/gr-qc/0105098v3)
 * at 3PN in 
     * (4.11) of [arXiv:2406.03457v2](https://arxiv.org/abs/2406.03457v2)
- 
+
+The angular momentum flux for circular orbits has been explicitly computed:
+* at 4.5PN in
+    * (20) of [arXiv:2410.16373](https://arxiv.org/abs/2410.16373)
+
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
+
+[Aniket Khairnar](https://github.com/akhairna) [[0000-0001-5138-572X](https://orcid.org/0000-0001-5138-572X)]
