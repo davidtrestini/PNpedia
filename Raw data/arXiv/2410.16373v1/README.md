@@ -1,6 +1,6 @@
 # arXiv:2410.16373v1
 
-Khairnar, Aniket and Stein, Leo C. and Boyle, Michael, *"Approximate helical symmetry in compact binaries"*, arXiv:2410.16373v1
+Aniket Khairnar, Leo C. Stein, Michael Boyle, *"Approximate helical symmetry in compact binaries"*, arXiv:2410.16373v1
     
 ## Presentation of results
 
