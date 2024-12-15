@@ -33,7 +33,7 @@ If you have used this repository for your academic work, please acknowledge it b
 ## Tree structure
 
 .
- * [Core post-Newtonian quantities](./Core post-Newtonian quantities)
+ * [Core post-Newtonian quantities](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities)
    * [Fluxes](./Core post-Newtonian quantities/Fluxes)
      * [Energy flux](./Core post-Newtonian quantities/Fluxes/Energy flux)
        * [Circular orbits](./Core post-Newtonian quantities/Fluxes/Energy flux/Circular orbits)
