@@ -32,192 +32,194 @@ If you have used this repository for your academic work, please acknowledge it b
 
 ## Tree structure
 
+```bash
 .
- * [Core post-Newtonian quantities](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities)
-   * [Fluxes](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes)
-     * [Energy flux](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux)
-       * [Circular orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Circular%20orbits)
-         * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Circular%20orbits/Spinning)
-           * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Circular%20orbits/Spinning/Nonprecessing)
-             * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Circular%20orbits/Spinning/Nonprecessing/With%20tidal%20effects)
-             * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Circular%20orbits/Spinning/Nonprecessing/Without%20tidal%20effects)
-           * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Circular%20orbits/Spinning/Precessing)
-           * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Circular%20orbits/Spinning/Precessing/With%20tidal%20effects)
-           * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Circular%20orbits/Spinning/Precessing/Without%20tidal%20effects)
-         * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Circular%20orbits/Nonspinning)
-       * [Elliptic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Elliptic%20orbits)
-         * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Elliptic%20orbits/Spinning)
-           * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Elliptic%20orbits/Spinning/Precessing)
-             * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Elliptic%20orbits/Spinning/Precessing/With%20tidal%20effects)
-             * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Elliptic%20orbits/Spinning/Precessing/Without%20tidal%20effects)
-           * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Elliptic%20orbits/Spinning/Nonprecessing)
-           * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Elliptic%20orbits/Spinning/Nonprecessing/With%20tidal%20effects)
-           * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Elliptic%20orbits/Spinning/Nonprecessing/Without%20tidal%20effects)
-         * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Elliptic%20orbits/Nonspinning)
-       * [Hyperbolic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Hyperbolic%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Hyperbolic%20orbits/Spinning)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Hyperbolic%20orbits/Spinning/Nonprecessing)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Hyperbolic%20orbits/Spinning/Precessing)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Hyperbolic%20orbits/Nonspinning)
-     * [Center-of-mass position flux](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux)
-       * [Circular orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Circular%20orbits)
-         * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Circular%20orbits/Spinning)
-           * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Circular%20orbits/Spinning/Nonprecessing)
-           * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Circular%20orbits/Spinning/Precessing)
-         * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Circular%20orbits/Nonspinning)
-       * [Elliptic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Elliptic%20orbits)
-         * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Elliptic%20orbits/Spinning)
-           * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Elliptic%20orbits/Spinning/Nonprecessing)
-           * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Elliptic%20orbits/Spinning/Precessing)
-         * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Elliptic%20orbits/Nonspinning)
-       * [Hyperbolic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Hyperbolic%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Hyperbolic%20orbits/Spinning)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Hyperbolic%20orbits/Spinning/Nonprecessing)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Hyperbolic%20orbits/Spinning/Precessing)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Center-of-mass%20position%20flux/Hyperbolic%20orbits/Nonspinning)
-     * [Angular momentum flux](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux)
-       * [Circular orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Circular%20orbits)
-         * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Circular%20orbits/Spinning)
-           * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Circular%20orbits/Spinning/Precessing)
-             * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Circular%20orbits/Spinning/Precessing/Without%20tidal%20effects)
-             * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Circular%20orbits/Spinning/Precessing/With%20tidal%20effects)
-           * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Circular%20orbits/Spinning/Nonprecessing)
-           * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Circular%20orbits/Spinning/Nonprecessing/With%20tidal%20effects)
-           * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Circular%20orbits/Spinning/Nonprecessing/Without%20tidal%20effects)
-         * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Circular%20orbits/Nonspinning)
-       * [Elliptic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Elliptic%20orbits)
-         * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Elliptic%20orbits/Spinning)
-           * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Elliptic%20orbits/Spinning/Nonprecessing)
-           * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Elliptic%20orbits/Spinning/Precessing)
-         * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Elliptic%20orbits/Nonspinning)
-       * [Hyperbolic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Hyperbolic%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Hyperbolic%20orbits/Spinning)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Hyperbolic%20orbits/Spinning/Nonprecessing)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Hyperbolic%20orbits/Spinning/Precessing)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Angular%20momentum%20flux/Hyperbolic%20orbits/Nonspinning)
-     * [Linear momentum flux](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux)
-     * [Circular orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Circular%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Circular%20orbits/Spinning)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Circular%20orbits/Spinning/Nonprecessing)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Circular%20orbits/Spinning/Precessing)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Circular%20orbits/Nonspinning)
-     * [Elliptic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Elliptic%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Elliptic%20orbits/Spinning)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Elliptic%20orbits/Spinning/Nonprecessing)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Elliptic%20orbits/Spinning/Precessing)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Elliptic%20orbits/Nonspinning)
-     * [Hyperbolic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Hyperbolic%20orbits)
-     * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Hyperbolic%20orbits/Spinning)
-       * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Hyperbolic%20orbits/Spinning/Nonprecessing)
-       * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Hyperbolic%20orbits/Spinning/Precessing)
-     * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Linear%20momentum%20flux/Hyperbolic%20orbits/Nonspinning)
-   * [Waveform](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform)
-     * [Circular orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Circular%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Circular%20orbits/Spinning)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Circular%20orbits/Spinning/Nonprecessing)
-           * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Circular%20orbits/Spinning/Nonprecessing/With%20tidal%20effects)
-           * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Circular%20orbits/Spinning/Nonprecessing/Without%20tidal%20effects)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Circular%20orbits/Spinning/Precessing)
-         * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Circular%20orbits/Spinning/Precessing/With%20tidal%20effects)
-         * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Circular%20orbits/Spinning/Precessing/Without%20tidal%20effects)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Circular%20orbits/Nonspinning)
-     * [Elliptic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Elliptic%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Elliptic%20orbits/Spinning)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Elliptic%20orbits/Spinning/Precessing)
-           * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Elliptic%20orbits/Spinning/Precessing/With%20tidal%20effects)
-           * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Elliptic%20orbits/Spinning/Precessing/Without%20tidal%20effects)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Elliptic%20orbits/Spinning/Nonprecessing)
-         * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Elliptic%20orbits/Spinning/Nonprecessing/Without%20tidal%20effects)
-         * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Elliptic%20orbits/Spinning/Nonprecessing/With%20tidal%20effects)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Elliptic%20orbits/Nonspinning)
-     * [Hyperbolic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Hyperbolic%20orbits)
-     * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Hyperbolic%20orbits/Spinning)
-       * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Hyperbolic%20orbits/Spinning/Nonprecessing)
-       * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Hyperbolic%20orbits/Spinning/Precessing)
-     * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Waveform/Hyperbolic%20orbits/Nonspinning)
-   * [Conserved quantities](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities)
-   * [Energy](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy)
-     * [Circular orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Circular%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Circular%20orbits/Spinning)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Circular%20orbits/Spinning/Nonprecessing)
-           * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Circular%20orbits/Spinning/Nonprecessing/With%20tidal%20effects)
-           * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Circular%20orbits/Spinning/Nonprecessing/Without%20tidal%20effects)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Circular%20orbits/Spinning/Precessing)
-         * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Circular%20orbits/Spinning/Precessing/With%20tidal%20effects)
-         * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Circular%20orbits/Spinning/Precessing/Without%20tidal%20effects)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Circular%20orbits/Nonspinning)
-     * [Elliptic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Elliptic%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Elliptic%20orbits/Spinning)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Elliptic%20orbits/Spinning/Precessing)
-           * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Elliptic%20orbits/Spinning/Precessing/With%20tidal%20effects)
-           * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Elliptic%20orbits/Spinning/Precessing/Without%20tidal%20effects)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Elliptic%20orbits/Spinning/Nonprecessing)
-         * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Elliptic%20orbits/Spinning/Nonprecessing/With%20tidal%20effects)
-         * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Elliptic%20orbits/Spinning/Nonprecessing/Without%20tidal%20effects)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Elliptic%20orbits/Nonspinning)
-     * [Hyperbolic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Hyperbolic%20orbits)
-     * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Hyperbolic%20orbits/Spinning)
-       * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Hyperbolic%20orbits/Spinning/Nonprecessing)
-       * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Hyperbolic%20orbits/Spinning/Precessing)
-     * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Energy/Hyperbolic%20orbits/Nonspinning)
-   * [Center-of-mass position](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position)
-     * [Circular orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Circular%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Circular%20orbits/Spinning)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Circular%20orbits/Spinning/Nonprecessing)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Circular%20orbits/Spinning/Precessing)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Circular%20orbits/Nonspinning)
-     * [Elliptic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Elliptic%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Elliptic%20orbits/Spinning)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Elliptic%20orbits/Spinning/Nonprecessing)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Elliptic%20orbits/Spinning/Precessing)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Elliptic%20orbits/Nonspinning)
-     * [Hyperbolic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Hyperbolic%20orbits)
-     * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Hyperbolic%20orbits/Spinning)
-       * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Hyperbolic%20orbits/Spinning/Nonprecessing)
-       * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Hyperbolic%20orbits/Spinning/Precessing)
-     * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Center-of-mass%20position/Hyperbolic%20orbits/Nonspinning)
-   * [Angular momentum](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum)
-     * [Circular orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits/Spinning)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits/Spinning/Precessing)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits/Spinning/Nonprecessing)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits/Spinning/Nonprecessing/Nonprecessing)
-           * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits/Spinning/Nonprecessing/Nonprecessing/Without%20tidal%20effects)
-           * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits/Spinning/Nonprecessing/Nonprecessing/With%20tidal%20effects)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits/Spinning/Nonprecessing/Precessing)
-         * [With tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits/Spinning/Nonprecessing/Precessing/With%20tidal%20effects)
-         * [Without tidal effects](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits/Spinning/Nonprecessing/Precessing/Without%20tidal%20effects)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Circular%20orbits/Nonspinning)
-     * [Elliptic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Elliptic%20orbits)
-       * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Elliptic%20orbits/Spinning)
-         * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Elliptic%20orbits/Spinning/Nonprecessing)
-         * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Elliptic%20orbits/Spinning/Precessing)
-       * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Elliptic%20orbits/Nonspinning)
-     * [Hyperbolic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Hyperbolic%20orbits)
-     * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Hyperbolic%20orbits/Spinning)
-       * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Hyperbolic%20orbits/Spinning/Nonprecessing)
-       * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Hyperbolic%20orbits/Spinning/Precessing)
-     * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Angular%20momentum/Hyperbolic%20orbits/Nonspinning)
-   * [Linear momentum](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum)
-   * [Circular orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Circular%20orbits)
-     * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Circular%20orbits/Spinning)
-       * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Circular%20orbits/Spinning/Nonprecessing)
-       * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Circular%20orbits/Spinning/Precessing)
-     * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Circular%20orbits/Nonspinning)
-   * [Elliptic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Elliptic%20orbits)
-     * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Elliptic%20orbits/Spinning)
-       * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Elliptic%20orbits/Spinning/Nonprecessing)
-       * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Elliptic%20orbits/Spinning/Precessing)
-     * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Elliptic%20orbits/Nonspinning)
-   * [Hyperbolic orbits](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Hyperbolic%20orbits)
-   * [Spinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Hyperbolic%20orbits/Spinning)
-     * [Nonprecessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Hyperbolic%20orbits/Spinning/Nonprecessing)
-     * [Precessing](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Hyperbolic%20orbits/Spinning/Precessing)
-   * [Nonspinning](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Conserved%20quantities/Linear%20momentum/Hyperbolic%20orbits/Nonspinning)
- * [Raw data](https://github.com/davidtrestini/PNpedia/tree/main/Raw%20data)
-     * [publications](https://github.com/davidtrestini/PNpedia/tree/main/Raw%20data/publications)
-     * [arXiv](https://github.com/davidtrestini/PNpedia/tree/main/Raw%20data/arXiv)
-         * [0711.0302v2](https://github.com/davidtrestini/PNpedia/tree/main/Raw%20data/arXiv/0711.0302v2)
-         * [2304.11186v4](https://github.com/davidtrestini/PNpedia/tree/main/Raw%20data/arXiv/2304.11186v4)
-         * [2304.11185v4](https://github.com/davidtrestini/PNpedia/tree/main/Raw%20data/arXiv/2304.11185v4)
-         * [2410.16373v1](https://github.com/davidtrestini/PNpedia/tree/main/Raw%20data/arXiv/2410.16373v1)
+|-- Core post-Newtonian quantities
+|   |-- Fluxes
+|   |   |-- Energy flux
+|   |   |   |-- Circular orbits
+|   |   |   |   |-- Spinning
+|   |   |   |   |   |-- Nonprecessing
+|   |   |   |   |   |   |-- With tidal effects
+|   |   |   |   |   |   `-- Without tidal effects
+|   |   |   |   |   `-- Precessing
+|   |   |   |   |       |-- Without tidal effects
+|   |   |   |   |       `-- With tidal effects
+|   |   |   |   `-- Nonspinning
+|   |   |   |-- Elliptic orbits
+|   |   |   |   |-- Spinning
+|   |   |   |   |   |-- Precessing
+|   |   |   |   |   |   |-- Without tidal effects
+|   |   |   |   |   |   `-- With tidal effects
+|   |   |   |   |   `-- Nonprecessing
+|   |   |   |   |       |-- Without tidal effects
+|   |   |   |   |       `-- With tidal effects
+|   |   |   |   `-- Nonspinning
+|   |   |   `-- Hyperbolic orbits
+|   |   |       |-- Spinning
+|   |   |       |   |-- Nonprecessing
+|   |   |       |   `-- Precessing
+|   |   |       `-- Nonspinning
+|   |   |-- Center-of-mass position flux
+|   |   |   |-- Circular orbits
+|   |   |   |   |-- Spinning
+|   |   |   |   |   |-- Nonprecessing
+|   |   |   |   |   `-- Precessing
+|   |   |   |   `-- Nonspinning
+|   |   |   |-- Elliptic orbits
+|   |   |   |   |-- Spinning
+|   |   |   |   |   |-- Nonprecessing
+|   |   |   |   |   `-- Precessing
+|   |   |   |   `-- Nonspinning
+|   |   |   `-- Hyperbolic orbits
+|   |   |       |-- Spinning
+|   |   |       |   |-- Nonprecessing
+|   |   |       |   `-- Precessing
+|   |   |       `-- Nonspinning
+|   |   |-- Angular momentum flux
+|   |   |   |-- Circular orbits
+|   |   |   |   |-- Spinning
+|   |   |   |   |   |-- Precessing
+|   |   |   |   |   |   |-- With tidal effects
+|   |   |   |   |   |   `-- Without tidal effects
+|   |   |   |   |   `-- Nonprecessing
+|   |   |   |   |       |-- With tidal effects
+|   |   |   |   |       `-- Without tidal effects
+|   |   |   |   `-- Nonspinning
+|   |   |   |-- Elliptic orbits
+|   |   |   |   |-- Spinning
+|   |   |   |   |   |-- Nonprecessing
+|   |   |   |   |   `-- Precessing
+|   |   |   |   `-- Nonspinning
+|   |   |   `-- Hyperbolic orbits
+|   |   |       |-- Spinning
+|   |   |       |   |-- Nonprecessing
+|   |   |       |   `-- Precessing
+|   |   |       `-- Nonspinning
+|   |   `-- Linear momentum flux
+|   |       |-- Circular orbits
+|   |       |   |-- Spinning
+|   |       |   |   |-- Nonprecessing
+|   |       |   |   `-- Precessing
+|   |       |   `-- Nonspinning
+|   |       |-- Elliptic orbits
+|   |       |   |-- Spinning
+|   |       |   |   |-- Nonprecessing
+|   |       |   |   `-- Precessing
+|   |       |   `-- Nonspinning
+|   |       `-- Hyperbolic orbits
+|   |           |-- Spinning
+|   |           |   |-- Nonprecessing
+|   |           |   `-- Precessing
+|   |           `-- Nonspinning
+|   |-- Waveform
+|   |   |-- Circular orbits
+|   |   |   |-- Spinning
+|   |   |   |   |-- Nonprecessing
+|   |   |   |   |   |-- With tidal effects
+|   |   |   |   |   `-- Without tidal effects
+|   |   |   |   `-- Precessing
+|   |   |   |       |-- Without tidal effects
+|   |   |   |       `-- With tidal effects
+|   |   |   `-- Nonspinning
+|   |   |-- Elliptic orbits
+|   |   |   |-- Spinning
+|   |   |   |   |-- Precessing
+|   |   |   |   |   |-- Without tidal effects
+|   |   |   |   |   `-- With tidal effects
+|   |   |   |   `-- Nonprecessing
+|   |   |   |       |-- Without tidal effects
+|   |   |   |       `-- With tidal effects
+|   |   |   `-- Nonspinning
+|   |   `-- Hyperbolic orbits
+|   |       |-- Spinning
+|   |       |   |-- Nonprecessing
+|   |       |   `-- Precessing
+|   |       `-- Nonspinning
+|   `-- Conserved quantities
+|       |-- Energy
+|       |   |-- Circular orbits
+|       |   |   |-- Spinning
+|       |   |   |   |-- Nonprecessing
+|       |   |   |   |   |-- With tidal effects
+|       |   |   |   |   `-- Without tidal effects
+|       |   |   |   `-- Precessing
+|       |   |   |       |-- Without tidal effects
+|       |   |   |       `-- With tidal effects
+|       |   |   `-- Nonspinning
+|       |   |-- Elliptic orbits
+|       |   |   |-- Spinning
+|       |   |   |   |-- Precessing
+|       |   |   |   |   |-- Without tidal effects
+|       |   |   |   |   `-- With tidal effects
+|       |   |   |   `-- Nonprecessing
+|       |   |   |       |-- Without tidal effects
+|       |   |   |       `-- With tidal effects
+|       |   |   `-- Nonspinning
+|       |   `-- Hyperbolic orbits
+|       |       |-- Spinning
+|       |       |   |-- Nonprecessing
+|       |       |   `-- Precessing
+|       |       `-- Nonspinning
+|       |-- Center-of-mass position
+|       |   |-- Circular orbits
+|       |   |   |-- Spinning
+|       |   |   |   |-- Nonprecessing
+|       |   |   |   `-- Precessing
+|       |   |   `-- Nonspinning
+|       |   |-- Elliptic orbits
+|       |   |   |-- Spinning
+|       |   |   |   |-- Nonprecessing
+|       |   |   |   `-- Precessing
+|       |   |   `-- Nonspinning
+|       |   `-- Hyperbolic orbits
+|       |       |-- Spinning
+|       |       |   |-- Nonprecessing
+|       |       |   `-- Precessing
+|       |       `-- Nonspinning
+|       |-- Angular momentum
+|       |   |-- Circular orbits
+|       |   |   |-- Spinning
+|       |   |   |   |-- Nonprecessing
+|       |   |   |   |   |-- Nonprecessing
+|       |   |   |   |   |   |-- With tidal effects
+|       |   |   |   |   |   `-- Without tidal effects
+|       |   |   |   |   `-- Precessing
+|       |   |   |   |       |-- Without tidal effects
+|       |   |   |   |       `-- With tidal effects
+|       |   |   |   `-- Precessing
+|       |   |   `-- Nonspinning
+|       |   |-- Elliptic orbits
+|       |   |   |-- Spinning
+|       |   |   |   |-- Nonprecessing
+|       |   |   |   `-- Precessing
+|       |   |   `-- Nonspinning
+|       |   `-- Hyperbolic orbits
+|       |       |-- Spinning
+|       |       |   |-- Nonprecessing
+|       |       |   `-- Precessing
+|       |       `-- Nonspinning
+|       `-- Linear momentum
+|           |-- Circular orbits
+|           |   |-- Spinning
+|           |   |   |-- Nonprecessing
+|           |   |   `-- Precessing
+|           |   `-- Nonspinning
+|           |-- Elliptic orbits
+|           |   |-- Spinning
+|           |   |   |-- Nonprecessing
+|           |   |   `-- Precessing
+|           |   `-- Nonspinning
+|           `-- Hyperbolic orbits
+|               |-- Spinning
+|               |   |-- Nonprecessing
+|               |   `-- Precessing
+|               `-- Nonspinning
+`-- Raw data
+    |-- publications
+    `-- arXiv
+        |-- 0711.0302v2
+        |-- 2304.11186v4
+        |-- 2304.11185v4
+        `-- 2410.16373v1
+```
