@@ -1,185 +1,227 @@
 .
 |-- Core post-Newtonian quantities
+|   |-- Conserved quantities
+|   |   |-- Angular momentum [empty]
+|   |   |   |-- Circular orbits [empty]
+|   |   |   |   |-- Nonspinning [empty]
+|   |   |   |   `-- Spinning [empty]
+|   |   |   |       |-- Precessing [empty]
+|   |   |   |       |   |-- With tidal effects [empty]
+|   |   |   |       |   `-- Without tidal effects [empty]
+|   |   |   |       `-- Nonprecessing [empty]
+|   |   |   |           |-- With tidal effects [empty]
+|   |   |   |           `-- Without tidal effects [empty]
+|   |   |   |-- Elliptic orbits [empty]
+|   |   |   |   |-- Nonspinning [empty]
+|   |   |   |   `-- Spinning [empty]
+|   |   |   |       |-- Nonprecessing [empty]
+|   |   |   |       |   |-- With tidal effects [empty]
+|   |   |   |       |   `-- Without tidal effects [empty]
+|   |   |   |       `-- Precessing [empty]
+|   |   |   |           |-- With tidal effects [empty]
+|   |   |   |           `-- Without tidal effects [empty]
+|   |   |   `-- Hyperbolic orbits [empty]
+|   |   |       |-- Nonspinning [empty]
+|   |   |       `-- Spinning [empty]
+|   |   |           |-- Nonprecessing [empty]
+|   |   |           |   |-- With tidal effects [empty]
+|   |   |           |   `-- Without tidal effects [empty]
+|   |   |           `-- Precessing [empty]
+|   |   |               |-- With tidal effects [empty]
+|   |   |               `-- Without tidal effects [empty]
+|   |   |-- Center-of-mass position [empty]
+|   |   |   |-- Circular orbits [empty]
+|   |   |   |   |-- Nonspinning [empty]
+|   |   |   |   `-- Spinning [empty]
+|   |   |   |       |-- Precessing [empty]
+|   |   |   |       |   |-- With tidal effects [empty]
+|   |   |   |       |   `-- Without tidal effects [empty]
+|   |   |   |       `-- Nonprecessing [empty]
+|   |   |   |           |-- With tidal effects [empty]
+|   |   |   |           `-- Without tidal effects [empty]
+|   |   |   |-- Elliptic orbits [empty]
+|   |   |   |   |-- Nonspinning [empty]
+|   |   |   |   `-- Spinning [empty]
+|   |   |   |       |-- Nonprecessing [empty]
+|   |   |   |       |   |-- With tidal effects [empty]
+|   |   |   |       |   `-- Without tidal effects [empty]
+|   |   |   |       `-- Precessing [empty]
+|   |   |   |           |-- With tidal effects [empty]
+|   |   |   |           `-- Without tidal effects [empty]
+|   |   |   `-- Hyperbolic orbits [empty]
+|   |   |       |-- Nonspinning [empty]
+|   |   |       `-- Spinning [empty]
+|   |   |           |-- Nonprecessing [empty]
+|   |   |           |   |-- With tidal effects [empty]
+|   |   |           |   `-- Without tidal effects [empty]
+|   |   |           `-- Precessing [empty]
+|   |   |               |-- With tidal effects [empty]
+|   |   |               `-- Without tidal effects [empty]
+|   |   |-- Linear momentum [empty]
+|   |   |   |-- Circular orbits [empty]
+|   |   |   |   |-- Nonspinning [empty]
+|   |   |   |   `-- Spinning [empty]
+|   |   |   |       |-- Precessing [empty]
+|   |   |   |       |   |-- With tidal effects [empty]
+|   |   |   |       |   `-- Without tidal effects [empty]
+|   |   |   |       `-- Nonprecessing [empty]
+|   |   |   |           |-- With tidal effects [empty]
+|   |   |   |           `-- Without tidal effects [empty]
+|   |   |   |-- Elliptic orbits [empty]
+|   |   |   |   |-- Nonspinning [empty]
+|   |   |   |   `-- Spinning [empty]
+|   |   |   |       |-- Nonprecessing [empty]
+|   |   |   |       |   |-- With tidal effects [empty]
+|   |   |   |       |   `-- Without tidal effects [empty]
+|   |   |   |       `-- Precessing [empty]
+|   |   |   |           |-- With tidal effects [empty]
+|   |   |   |           `-- Without tidal effects [empty]
+|   |   |   `-- Hyperbolic orbits [empty]
+|   |   |       |-- Nonspinning [empty]
+|   |   |       `-- Spinning [empty]
+|   |   |           |-- Nonprecessing [empty]
+|   |   |           |   |-- With tidal effects [empty]
+|   |   |           |   `-- Without tidal effects [empty]
+|   |   |           `-- Precessing [empty]
+|   |   |               |-- With tidal effects [empty]
+|   |   |               `-- Without tidal effects [empty]
+|   |   `-- Energy
+|   |       |-- Circular orbits
+|   |       |   |-- Nonspinning
+|   |       |   `-- Spinning
+|   |       |       |-- Nonprecessing
+|   |       |       |   |-- With tidal effects
+|   |       |       |   `-- Without tidal effects
+|   |       |       `-- Precessing [empty]
+|   |       |           |-- Without tidal effects [empty]
+|   |       |           `-- With tidal effects [empty]
+|   |       |-- Elliptic orbits [empty]
+|   |       |   |-- Nonspinning [empty]
+|   |       |   `-- Spinning [empty]
+|   |       |       |-- Nonprecessing [empty]
+|   |       |       |   |-- With tidal effects [empty]
+|   |       |       |   `-- Without tidal effects [empty]
+|   |       |       `-- Precessing [empty]
+|   |       |           |-- With tidal effects [empty]
+|   |       |           `-- Without tidal effects [empty]
+|   |       `-- Hyperbolic orbits [empty]
+|   |           |-- Nonspinning [empty]
+|   |           `-- Spinning [empty]
+|   |               |-- Nonprecessing [empty]
+|   |               |   |-- With tidal effects [empty]
+|   |               |   `-- Without tidal effects [empty]
+|   |               `-- Precessing [empty]
+|   |                   |-- With tidal effects [empty]
+|   |                   `-- Without tidal effects [empty]
 |   |-- Fluxes
+|   |   |-- Center-of-mass position flux [empty]
+|   |   |   |-- Circular orbits [empty]
+|   |   |   |   |-- Spinning [empty]
+|   |   |   |   |   |-- Nonprecessing
+|   |   |   |   |   `-- Precessing
+|   |   |   |   `-- Nonspinning [empty]
+|   |   |   |-- Elliptic orbits [empty]
+|   |   |   |   |-- Spinning [empty]
+|   |   |   |   |   |-- Nonprecessing
+|   |   |   |   |   `-- Precessing
+|   |   |   |   `-- Nonspinning [empty]
+|   |   |   `-- Hyperbolic orbits [empty]
+|   |   |       |-- Spinning [empty]
+|   |   |       |   |-- Nonprecessing
+|   |   |       |   `-- Precessing
+|   |   |       `-- Nonspinning [empty]
+|   |   |-- Linear momentum flux [empty]
+|   |   |   |-- Circular orbits [empty]
+|   |   |   |   |-- Spinning [empty]
+|   |   |   |   |   |-- Nonprecessing
+|   |   |   |   |   `-- Precessing
+|   |   |   |   `-- Nonspinning [empty]
+|   |   |   |-- Elliptic orbits [empty]
+|   |   |   |   |-- Spinning [empty]
+|   |   |   |   |   |-- Nonprecessing
+|   |   |   |   |   `-- Precessing
+|   |   |   |   `-- Nonspinning [empty]
+|   |   |   `-- Hyperbolic orbits [empty]
+|   |   |       |-- Spinning [empty]
+|   |   |       |   |-- Nonprecessing
+|   |   |       |   `-- Precessing
+|   |   |       `-- Nonspinning [empty]
 |   |   |-- Energy flux
 |   |   |   |-- Circular orbits
-|   |   |   |   |-- Spinning
-|   |   |   |   |   |-- Nonprecessing
-|   |   |   |   |   |   |-- With tidal effects
-|   |   |   |   |   |   `-- Without tidal effects
-|   |   |   |   |   `-- Precessing
-|   |   |   |   |       |-- Without tidal effects
-|   |   |   |   |       `-- With tidal effects
-|   |   |   |   `-- Nonspinning
+|   |   |   |   |-- Nonspinning
+|   |   |   |   `-- Spinning
+|   |   |   |       |-- Nonprecessing
+|   |   |   |       |   |-- With tidal effects
+|   |   |   |       |   `-- Without tidal effects
+|   |   |   |       `-- Precessing [empty]
+|   |   |   |           |-- Without tidal effects [empty]
+|   |   |   |           `-- With tidal effects [empty]
 |   |   |   |-- Elliptic orbits
-|   |   |   |   |-- Spinning
-|   |   |   |   |   |-- Precessing
-|   |   |   |   |   |   |-- Without tidal effects
-|   |   |   |   |   |   `-- With tidal effects
-|   |   |   |   |   `-- Nonprecessing
-|   |   |   |   |       |-- Without tidal effects
-|   |   |   |   |       `-- With tidal effects
-|   |   |   |   `-- Nonspinning
-|   |   |   `-- Hyperbolic orbits
-|   |   |       |-- Spinning
-|   |   |       |   |-- Nonprecessing
-|   |   |       |   `-- Precessing
-|   |   |       `-- Nonspinning
-|   |   |-- Center-of-mass position flux
-|   |   |   |-- Circular orbits
-|   |   |   |   |-- Spinning
-|   |   |   |   |   |-- Nonprecessing
-|   |   |   |   |   `-- Precessing
-|   |   |   |   `-- Nonspinning
-|   |   |   |-- Elliptic orbits
-|   |   |   |   |-- Spinning
-|   |   |   |   |   |-- Nonprecessing
-|   |   |   |   |   `-- Precessing
-|   |   |   |   `-- Nonspinning
-|   |   |   `-- Hyperbolic orbits
-|   |   |       |-- Spinning
-|   |   |       |   |-- Nonprecessing
-|   |   |       |   `-- Precessing
-|   |   |       `-- Nonspinning
-|   |   |-- Angular momentum flux
-|   |   |   |-- Circular orbits
-|   |   |   |   |-- Spinning
-|   |   |   |   |   |-- Precessing
-|   |   |   |   |   |   |-- With tidal effects
-|   |   |   |   |   |   `-- Without tidal effects
-|   |   |   |   |   `-- Nonprecessing
-|   |   |   |   |       |-- With tidal effects
-|   |   |   |   |       `-- Without tidal effects
-|   |   |   |   `-- Nonspinning
-|   |   |   |-- Elliptic orbits
-|   |   |   |   |-- Spinning
-|   |   |   |   |   |-- Nonprecessing
-|   |   |   |   |   `-- Precessing
-|   |   |   |   `-- Nonspinning
-|   |   |   `-- Hyperbolic orbits
-|   |   |       |-- Spinning
-|   |   |       |   |-- Nonprecessing
-|   |   |       |   `-- Precessing
-|   |   |       `-- Nonspinning
-|   |   `-- Linear momentum flux
+|   |   |   |   |-- Nonspinning
+|   |   |   |   `-- Spinning [empty]
+|   |   |   |       |-- Nonprecessing [empty]
+|   |   |   |       |   |-- Without tidal effects [empty]
+|   |   |   |       |   `-- With tidal effects [empty]
+|   |   |   |       `-- Precessing [empty]
+|   |   |   |           |-- Without tidal effects [empty]
+|   |   |   |           `-- With tidal effects [empty]
+|   |   |   `-- Hyperbolic orbits [empty]
+|   |   |       |-- Nonspinning [empty]
+|   |   |       `-- Spinning [empty]
+|   |   |           |-- Nonprecessing [empty]
+|   |   |           |   |-- Without tidal effects [empty]
+|   |   |           |   `-- With tidal effects [empty]
+|   |   |           `-- Precessing [empty]
+|   |   |               |-- Without tidal effects [empty]
+|   |   |               `-- With tidal effects [empty]
+|   |   `-- Angular momentum flux
 |   |       |-- Circular orbits
-|   |       |   |-- Spinning
+|   |       |   |-- Nonspinning
+|   |       |   `-- Spinning
+|   |       |       |-- Nonprecessing
+|   |       |       |   |-- With tidal effects
+|   |       |       |   `-- Without tidal effects
+|   |       |       `-- Precessing [empty]
+|   |       |           |-- With tidal effects [empty]
+|   |       |           `-- Without tidal effects [empty]
+|   |       |-- Hyperbolic orbits [empty]
+|   |       |   |-- Spinning [empty]
 |   |       |   |   |-- Nonprecessing
 |   |       |   |   `-- Precessing
-|   |       |   `-- Nonspinning
-|   |       |-- Elliptic orbits
-|   |       |   |-- Spinning
-|   |       |   |   |-- Nonprecessing
-|   |       |   |   `-- Precessing
-|   |       |   `-- Nonspinning
-|   |       `-- Hyperbolic orbits
-|   |           |-- Spinning
+|   |       |   `-- Nonspinning [empty]
+|   |       `-- Elliptic orbits
+|   |           |-- Spinning [empty]
 |   |           |   |-- Nonprecessing
 |   |           |   `-- Precessing
 |   |           `-- Nonspinning
-|   |-- Waveform
-|   |   |-- Circular orbits
-|   |   |   |-- Spinning
-|   |   |   |   |-- Nonprecessing
-|   |   |   |   |   |-- With tidal effects
-|   |   |   |   |   `-- Without tidal effects
-|   |   |   |   `-- Precessing
-|   |   |   |       |-- Without tidal effects
-|   |   |   |       `-- With tidal effects
-|   |   |   `-- Nonspinning
-|   |   |-- Elliptic orbits
-|   |   |   |-- Spinning
-|   |   |   |   |-- Precessing
-|   |   |   |   |   |-- Without tidal effects
-|   |   |   |   |   `-- With tidal effects
-|   |   |   |   `-- Nonprecessing
-|   |   |   |       |-- Without tidal effects
-|   |   |   |       `-- With tidal effects
-|   |   |   `-- Nonspinning
-|   |   `-- Hyperbolic orbits
-|   |       |-- Spinning
-|   |       |   |-- Nonprecessing
-|   |       |   `-- Precessing
-|   |       `-- Nonspinning
-|   `-- Conserved quantities
-|       |-- Energy
-|       |   |-- Circular orbits
-|       |   |   |-- Spinning
-|       |   |   |   |-- Nonprecessing
-|       |   |   |   |   |-- With tidal effects
-|       |   |   |   |   `-- Without tidal effects
-|       |   |   |   `-- Precessing
-|       |   |   |       |-- Without tidal effects
-|       |   |   |       `-- With tidal effects
-|       |   |   `-- Nonspinning
-|       |   |-- Elliptic orbits
-|       |   |   |-- Spinning
-|       |   |   |   |-- Precessing
-|       |   |   |   |   |-- Without tidal effects
-|       |   |   |   |   `-- With tidal effects
-|       |   |   |   `-- Nonprecessing
-|       |   |   |       |-- Without tidal effects
-|       |   |   |       `-- With tidal effects
-|       |   |   `-- Nonspinning
-|       |   `-- Hyperbolic orbits
-|       |       |-- Spinning
-|       |       |   |-- Nonprecessing
-|       |       |   `-- Precessing
-|       |       `-- Nonspinning
-|       |-- Center-of-mass position
-|       |   |-- Circular orbits
-|       |   |   |-- Spinning
-|       |   |   |   |-- Nonprecessing
-|       |   |   |   `-- Precessing
-|       |   |   `-- Nonspinning
-|       |   |-- Elliptic orbits
-|       |   |   |-- Spinning
-|       |   |   |   |-- Nonprecessing
-|       |   |   |   `-- Precessing
-|       |   |   `-- Nonspinning
-|       |   `-- Hyperbolic orbits
-|       |       |-- Spinning
-|       |       |   |-- Nonprecessing
-|       |       |   `-- Precessing
-|       |       `-- Nonspinning
-|       |-- Angular momentum
-|       |   |-- Circular orbits
-|       |   |   |-- Spinning
-|       |   |   |   |-- Nonprecessing
-|       |   |   |   |   |-- Nonprecessing
-|       |   |   |   |   |   |-- With tidal effects
-|       |   |   |   |   |   `-- Without tidal effects
-|       |   |   |   |   `-- Precessing
-|       |   |   |   |       |-- Without tidal effects
-|       |   |   |   |       `-- With tidal effects
-|       |   |   |   `-- Precessing
-|       |   |   `-- Nonspinning
-|       |   |-- Elliptic orbits
-|       |   |   |-- Spinning
-|       |   |   |   |-- Nonprecessing
-|       |   |   |   `-- Precessing
-|       |   |   `-- Nonspinning
-|       |   `-- Hyperbolic orbits
-|       |       |-- Spinning
-|       |       |   |-- Nonprecessing
-|       |       |   `-- Precessing
-|       |       `-- Nonspinning
-|       `-- Linear momentum
-|           |-- Circular orbits
-|           |   |-- Spinning
-|           |   |   |-- Nonprecessing
-|           |   |   `-- Precessing
-|           |   `-- Nonspinning
-|           |-- Elliptic orbits
-|           |   |-- Spinning
-|           |   |   |-- Nonprecessing
-|           |   |   `-- Precessing
-|           |   `-- Nonspinning
-|           `-- Hyperbolic orbits
-|               |-- Spinning
-|               |   |-- Nonprecessing
-|               |   `-- Precessing
-|               `-- Nonspinning
+|   `-- Waveform
+|       |-- Circular orbits
+|       |   |-- Nonspinning
+|       |   `-- Spinning
+|       |       |-- Nonprecessing
+|       |       |   |-- With tidal effects
+|       |       |   `-- Without tidal effects
+|       |       `-- Precessing [empty]
+|       |           |-- Without tidal effects [empty]
+|       |           `-- With tidal effects [empty]
+|       |-- Elliptic orbits [empty]
+|       |   |-- Nonspinning [empty]
+|       |   `-- Spinning [empty]
+|       |       |-- Nonprecessing [empty]
+|       |       |   |-- Without tidal effects [empty]
+|       |       |   `-- With tidal effects [empty]
+|       |       `-- Precessing [empty]
+|       |           |-- Without tidal effects [empty]
+|       |           `-- With tidal effects [empty]
+|       `-- Hyperbolic orbits [empty]
+|           |-- Nonspinning [empty]
+|           `-- Spinning [empty]
+|               |-- Nonprecessing [empty]
+|               |   |-- Without tidal effects [empty]
+|               |   `-- With tidal effects [empty]
+|               `-- Precessing [empty]
+|                   |-- Without tidal effects [empty]
+|                   `-- With tidal effects [empty]
 `-- Raw data
     |-- publications
     `-- arXiv
