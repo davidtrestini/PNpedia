@@ -28,6 +28,9 @@ Suggestions are also welcome.
 
 If you have used this repository for your academic work, please acknowledge it by citing the repository. For this, just click on ``Cite this repository`` in the ``About`` section of the right-hand side of the page, and copy-paste the BibTeX file.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15002834.svg)](https://doi.org/10.5281/zenodo.15002834)
+
+
 ## Tree structure
 
 Directories that do not contain any information yet are flagged as ``[empty]``.
