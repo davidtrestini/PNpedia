@@ -6,3 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-4140-0591"
 title: "PNpedia"
 url: "https://github.com/davidtrestini/PNpedia"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15002834
