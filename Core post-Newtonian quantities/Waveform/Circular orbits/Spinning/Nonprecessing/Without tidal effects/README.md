@@ -47,6 +47,7 @@ The phase was obtained:
     * in the cubic-in-spin sector
         * at 4PN in
             * (6.20)-(6.21) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
+However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented. 
 
 The chirp (ignoring horizon fluxes) was obtained:
 * when *including* the contribution of horizon fluxes
@@ -56,6 +57,7 @@ The chirp (ignoring horizon fluxes) was obtained:
     * in the nonspinning sector:
         * at 4.5PN in 
             * (6) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
+However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented. 
 
 The $h_{\ell m}$ modes were obtained:
 * in the case of oscillatory ($m>0$) modes

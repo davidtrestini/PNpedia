@@ -48,13 +48,15 @@ The phase (ignoring horizon fluxes) was obtained:
 * in the cubic-in-spin sector:
     * at 4PN in
         * (6.20)-(6.21) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
-    
+However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented. 
+
 The chirp (ignoring horizon fluxes) was obtained:
 * in the nonspinning sector:
     * at 4.5PN in 
         * (6) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
     * at 3.5PN in the spinning sector by computing it directly from the fluxes and energy at 3.5PN, see the relevant sections of PNpedia
-    
+However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented. 
+
 The $h_{\ell m}$ modes (for $m>0$) were obtained:
 * in the nonspinning sector:
     * at 3.5PN in:

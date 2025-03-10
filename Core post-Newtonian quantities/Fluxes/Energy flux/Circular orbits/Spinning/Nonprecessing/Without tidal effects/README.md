@@ -1,6 +1,6 @@
 # Flux of energy for spinning, non-precessing, structureless compact binaries on circular orbits
 
-The file ``flux.txt`` contains the flux of energy for spinning, non-precessing (i.e. aligned or antialigned spin), structureless (no tidal effects) compact binaries on circular orbits
+The file ``flux.txt`` contains the flux of energy at infinity for spinning, non-precessing (i.e. aligned or antialigned spin), structureless (no tidal effects) compact binaries on circular orbits.
 
 ## Notations
 
@@ -34,7 +34,8 @@ This result was obtained:
         * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the cubic-in-spin sector in
         * (6.18)-(6.19) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
-        
+* at 3.5PN
+    * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/arXiv:2410.23950v2)
 However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented.
 ## Endorsers
 

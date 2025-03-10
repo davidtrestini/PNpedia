@@ -40,7 +40,7 @@ This result was obtained:
         * (12) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the cubic-in-spin sector in
         * (5.18) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
-
+However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented. 
 
 ## Endorsers
 
