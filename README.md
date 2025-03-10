@@ -30,7 +30,11 @@ If you have used this repository for your academic work, please acknowledge it b
 
 ## Tree structure
 
-Directories that do not contain any information yet are flagged as ``[empty]``. The current tree structure is as follows:
+Directories that do not contain any information yet are flagged as ``[empty]``.
+Windows users might encounter problems due to long pathnames. A hack is to run the following command in the git bash:
+```git config --global core.longpaths true```
+
+The current tree structure is as follows:
 
 ```bash
 .
@@ -344,8 +348,8 @@ Directories that do not contain any information yet are flagged as ``[empty]``. 
 |               |-- Without tidal effects [empty]
 |               `-- With tidal effects [empty]
 `-- Publications
-    |-- arXiv:0711.0302v2
-    |-- arXiv:2304.11186v4
-    |-- arXiv:2304.11185v4
-    `-- arXiv:2410.16373v1
+    |-- arXiv-0711.0302v2
+    |-- arXiv-2304.11186v4
+    |-- arXiv-2304.11185v4
+    `-- arXiv-2410.16373v1
 ```
