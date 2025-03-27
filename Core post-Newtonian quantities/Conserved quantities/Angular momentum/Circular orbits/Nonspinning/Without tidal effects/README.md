@@ -1,4 +1,4 @@
-# Energy for nonspinning compact binaries on circular orbits
+# Angular momentum for nonspinning compact binaries on circular orbits
 
 The file ``angular_momentum_conservative.txt`` contains the conservative angular momentum for nonspinning compact binaries on circular orbits. It is a constant of motion when using the conservative equations of motion.
 
@@ -18,9 +18,7 @@ The result is given at 4.5PN accuracy.
 
 This result was obtained:
 * at 4PN in
-    * (5.5) of [arXiv:1401.4548v2](https://arxiv.org/abs/1401.4548v2)
-    * (5.6) of [arXiv:1711.00283v2](https://arxiv.org/abs/1711.00283v2)
-
+    * (5.8) of [arXiv:1711.00283v2](https://arxiv.org/abs/1711.00283v2)
 
 ## Endorsers
 
