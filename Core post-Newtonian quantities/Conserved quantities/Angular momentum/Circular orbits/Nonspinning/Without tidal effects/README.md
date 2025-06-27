@@ -2,7 +2,7 @@
 
 The file ``angular_momentum_conservative.txt`` contains the conservative angular momentum for nonspinning compact binaries on circular orbits in terms of the orbital frequency $x$. It is a constant of motion when using the conservative equations of motion.
 
-The file ``angular_momentum.txt`` contains the binding angular momentum for nonspinning compact binaries on circular orbits in terms of the orbital frequency $x$. It differs from the conservative angular momentum by a Schott term due to dissipative effects. It depends on the arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. The waveform frequency of the $(2,2)$ mode can be related to the orbital frequency, and this relation also depends on $b_0$. Thus, the binding energy in terms of the waveform frequency does not feature the $b_0$ constant, and has the same functional form as the conservative energy in terms of the orbital frequency. See [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1) for details.
+The file ``angular_momentum.txt`` contains the binding angular momentum for nonspinning compact binaries on circular orbits in terms of the orbital frequency $x$. It differs from the conservative angular momentum by a Schott term due to dissipative effects. It depends on the arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. The waveform frequency of the $(2,2)$ mode can be related to the orbital frequency, and this relation also depends on $b_0$. Thus, the binding angular momentum in terms of the waveform frequency does not feature the $b_0$ constant, and has the same functional form as the conservative angular momentum in terms of the orbital frequency. See [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1) for details.
 
 ## Notations
 
@@ -20,7 +20,7 @@ The result is given at 4.5PN accuracy.
 
 ## Sources
 
-The conservative energy was obtained:
+The conservative angular momentum was obtained:
 * at 4PN in
     * (5.8) of [arXiv:1711.00283v2](https://arxiv.org/abs/1711.00283v2)
 The binding angular momentum was obtained:
