@@ -1,6 +1,9 @@
 # Flux of energy for spinning, non-precessing, structureless compact binaries on elliptic orbits
 
-The file ``flux.txt`` contains the flux of energy for spinning, non-precessing (i.e. aligned or antialigned spin), structureless (no tidal effects) compact binaries on elliptic orbits
+The file ``flux.txt`` contains the flux of energy for spinning, non-precessing (i.e. aligned or antialigned spin), structureless (no tidal effects) compact binaries on elliptic orbits.
+
+The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
+
 
 ## Notations
 
@@ -18,8 +21,6 @@ We use the following notations:
 * we define $S = S_1 + S_2 = G (m_1^2 \chi_1+m_2^2 \chi_2)$ and $\Sigma = m\left(\frac{S_2}{m_2}-\frac{S_1}{m_1}\right) = G m\left(m_2 \chi_2 - m_1 \chi_1\right)$
 * ``s`` is one of the reduced spin parameters, $s = \frac{S}{G m^2} = \frac{m_1^2 \chi_1 + m_2^2 \chi_2}{m^2}$
 * ``\[Sigma]`` is the other reduced spin parameter, $\sigma = \frac{\Sigma}{G m^2} = \frac{m_2 \chi_2 - m_1 \chi_1}{m}$
-
-The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
 
 ## Sources
 
