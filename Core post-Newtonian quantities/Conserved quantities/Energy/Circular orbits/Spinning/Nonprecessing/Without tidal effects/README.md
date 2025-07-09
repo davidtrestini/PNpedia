@@ -1,11 +1,13 @@
 # Energy for spinning, non-precessing, compact binaries without tidal deformation on circular orbits
 
-As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), there are two distinct notions of energy. The conservative energy $E_\mathrm{cons}$ is a constant of motion under the conservative equations of motion. The binding energy $E$ enters the flux balance law $\mathrm{d}E/\mathrm{d}t = - \mathcal{F}_E$. The difference between the two is called a Schott term, $E_\mathrm{Schott}$, which is nonvanishing for circular orbits starting at 4PN. The expression of the binding energy in terms of the orbital frequency depends on an arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the flux, and drops out of the balance law.
+As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), there are two distinct notions of energy. The conservative energy $E_\mathrm{cons}$ is a constant of motion under the conservative equations of motion. The binding energy $E$ enters the flux balance law $\mathrm{d}E/\mathrm{d}t = - F_E$. The difference between the two is called a Schott term, $E_\mathrm{Schott}$, which is nonvanishing for circular orbits starting at 4PN. The expression of the binding energy in terms of the orbital frequency depends on an arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the flux, and drops out of the balance law.
 
 For spinning, non-precessing (i.e. aligned or antialigned spin) compact binaries without tidal deformation on circular orbits:
 * the file ``energy_conservative.txt`` contains the conservative energy in terms of the orbital frequency $x$
 * the file ``energy_binding.txt`` contains the binding energy in terms of the orbital frequency $x$
 * the file ``energy_Schott.txt`` contains the Schott term in terms of the orbital frequency $x$
+
+The result is given at 4PN accuracy.
 
 ## Notations
 
@@ -26,8 +28,6 @@ We use the following notations:
 * ``s`` is one of the reduced spin parameters, $s = \frac{S}{G m^2} = \frac{m_1^2 \chi_1 + m_2^2 \chi_2}{m^2}$
 * ``\[Sigma]`` is the other reduced spin parameter, $\sigma = \frac{\Sigma}{G m^2} = \frac{m_2 \chi_2 - m_1 \chi_1}{m}$
 * we introduce the spin-induced quadrupolar deformability of the bodies, $\kappa_1$ and $\kappa_2$, where $\kappa_{1,2}=1$ for black holes
-
-The result is given at 4PN accuracy.
 
 ## Sources
 
