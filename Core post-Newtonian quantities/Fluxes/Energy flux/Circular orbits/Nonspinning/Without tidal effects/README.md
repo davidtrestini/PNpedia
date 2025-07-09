@@ -1,6 +1,6 @@
 # Flux of energy for nonspinning compact binaries on circular orbits
 
-For nonspinning compact binaries on circular orbits the flux of energy through future null infinity is given:
+For nonspinning compact binaries on circular orbits, the flux of energy through future null infinity is given:
     * in terms of the orbital frequency $x$ in the file ``flux_infinity_x.txt``
     * in terms of the waveform frequency $x_{22}$ in the file ``flux_infinity_x22.txt``
 

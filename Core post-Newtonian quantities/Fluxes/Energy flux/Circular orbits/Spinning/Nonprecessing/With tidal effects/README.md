@@ -2,6 +2,8 @@
 
 The file ``flux.txt`` contains the flux of energy at infinity for spinning, non-precessing (i.e. aligned or antialigned spin) compact binaries with tidal deformation on circular orbits
 
+The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
+
 ## Notations
 
 We use the following notations:
@@ -24,8 +26,6 @@ We use the following notations:
 * we introduce the spin-induced octupolar deformability of the bodies, $\lambda_1$ and $\lambda_2$, where $\kappa_{1,2}=1$ for black holes
 * ``\[Lambda]p`` is defined as $\lambda_+ = \lambda_1 + \lambda_2$
 * ``\[Lambda]m`` is defined as $\lambda_- = \lambda_1 - \lambda_2$
-
-The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
 
 ## Sources
 
