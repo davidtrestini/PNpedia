@@ -7,6 +7,8 @@ For nonspinning compact binaries on circular orbits:
 * the file ``energy_binding.txt`` contains the binding energy in terms of the orbital frequency $x$
 * the file ``energy_Schott.txt`` contains the Schott term in terms of the orbital frequency $x$
 
+The result is given at 4.5PN accuracy.
+
 ## Notations
 
 We use the following notations:
@@ -18,8 +20,6 @@ We use the following notations:
 * ``x22`` is the dimensionless waveform frequency $x_{22} = G m \omega_{22} /c^3$, where $\omega_{22}$ is the dimensionful (half-)frequency of the $(2,2)$ mode
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
 * ``b_0`` is an arbitary constant linked to the choice of foliation
-
-The result is given at 4.5PN accuracy.
 
 ## Sources
 
