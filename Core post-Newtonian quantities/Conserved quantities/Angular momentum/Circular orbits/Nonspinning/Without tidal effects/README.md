@@ -1,8 +1,11 @@
 # Angular momentum for nonspinning compact binaries on circular orbits
 
-The file ``angular_momentum_conservative.txt`` contains the conservative angular momentum for nonspinning compact binaries on circular orbits in terms of the orbital frequency $x$. It is a constant of motion when using the conservative equations of motion.
+As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), there are two distinct notions of angular momentum. The conservative angular momentum $J_\mathrm{cons}$ is a constant of motion under the conservative equations of motion. The binding angular momentum $J$ enters the flux balance law $\mathrm{d}J/\mathrm{d}t = - \mathcal{F}_J$. The difference between the two is called a Schott term, $J_\mathrm{Schott}$, which is nonvanishing for circular orbits starting at 4PN. The expression of the binding angular momentum in terms of the orbital frequency depends on an arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the flux, and drops out of the balance law.
 
-The file ``angular_momentum.txt`` contains the binding angular momentum for nonspinning compact binaries on circular orbits in terms of the orbital frequency $x$. It differs from the conservative angular momentum by a Schott term due to dissipative effects. It depends on the arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. The waveform frequency of the $(2,2)$ mode can be related to the orbital frequency, and this relation also depends on $b_0$. Thus, the binding angular momentum in terms of the waveform frequency does not feature the $b_0$ constant, and has the same functional form as the conservative angular momentum in terms of the orbital frequency. See [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1) for details.
+For nonspinning compact binaries on circular orbits:
+* the file ``angular momentum_conservative.txt`` contains the conservative angular momentum in terms of the orbital frequency $x$
+* the file ``angular momentum_binding.txt`` contains the binding angular momentum in terms of the orbital frequency $x$
+* the file ``angular momentum_Schott.txt`` contains the Schott term in terms of the orbital frequency $x$
 
 ## Notations
 
@@ -12,7 +15,7 @@ We use the following notations:
 * ``G`` is Newton's constant of gravitation
 * ``c`` is the speed of light
 * ``x`` is the dimensionless orbital frequency $x = G m \omega /c^3$, where $\omega$ is the dimensionful orbital frequency
-* ``x22`` is the dimensionless orbital frequency $x_{22} = G m \omega_{22} /c^3$, where $\omega_{22}$ is the dimensionful (half-)frequency of the $(2,2)$ mode
+* ``x22`` is the dimensionless waveform frequency $x_{22} = G m \omega_{22} /c^3$, where $\omega_{22}$ is the dimensionful (half-)frequency of the $(2,2)$ mode
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
 * ``b_0`` is an arbitary constant linked to the choice of foliation
 
