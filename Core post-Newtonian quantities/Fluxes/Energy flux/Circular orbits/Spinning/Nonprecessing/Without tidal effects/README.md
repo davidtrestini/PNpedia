@@ -45,7 +45,7 @@ This result was obtained:
         * (71) of [arXiv:1712.08603v2](https://arxiv.org/abs/1712.08603v2)
 * at 3.5PN
     * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/arXiv:2410.23950v2)
-However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented.
+
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]

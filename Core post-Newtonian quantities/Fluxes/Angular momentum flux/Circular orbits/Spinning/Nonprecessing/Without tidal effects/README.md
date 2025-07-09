@@ -1,6 +1,12 @@
-# Flux of energy for spinning, non-precessing, structureless compact binaries on elliptic orbits
+# Flux of angular momentum for spinning, non-precessing, structureless compact binaries on circular orbits
 
-The file ``flux.txt`` contains the flux of energy for spinning, non-precessing (i.e. aligned or antialigned spin), structureless (no tidal effects) compact binaries on elliptic orbits
+For spinning, non-precessing (i.e. aligned or antialigned spin), structureless (no tidal effects) compact binaries on circular orbits, the flux of angular momentum through future null infinity is given:
+    * in terms of the orbital frequency $x$ in the file ``flux_infinity_x.txt``
+    * in terms of the waveform frequency $x_{22}$ in the file ``flux_infinity_x22.txt``
+
+Note that when expressed in terms of the orbital frequency, the flux depends on the arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the binding angular momentum, and drops out of the balance law.
+
+The result is given at 4PN accuracy, including all non-spinning, spin-orbit, spin-spin, cubic-in-spin and quartic-in-spin terms.
 
 ## Notations
 
@@ -23,7 +29,7 @@ The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, s
 
 ## Sources
 
-The angular momentum flux for circular orbits is obtained by dividing the energy flux by the frequency of the (2,2) mode, $\omega_{22} = \frac{c^3 x^{3/2}}{G m}$. The energy flux was obtained:
+The flux of angular momentum for circular orbits is obtained by dividing the flux of energy by the frequency of the (2,2) mode, $\omega_{22} = \frac{c^3 x^{3/2}}{G m}$, see [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1). The energy flux for spinning, non-precessing, structureless compact binaries on circular orbits was obtained:
 * at 4PN
     * in the nonspinning sector in
         * (6.11) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
@@ -34,8 +40,11 @@ The angular momentum flux for circular orbits is obtained by dividing the energy
         * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the cubic-in-spin sector in
         * (6.18)-(6.19) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
+    * in the quartic-in-spin sector in
+        * (71) of [arXiv:1712.08603v2](https://arxiv.org/abs/1712.08603v2)
+* at 3.5PN
+    * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/arXiv:2410.23950v2)
 
-However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented.
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
