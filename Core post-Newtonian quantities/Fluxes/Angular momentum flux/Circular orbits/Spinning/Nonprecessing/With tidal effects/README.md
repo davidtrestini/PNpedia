@@ -1,6 +1,8 @@
-# Flux of energy for spinning, non-precessing, compact binaries with tidal deformation on elliptic orbits
+# Flux of angular momentum for spinning, non-precessing, compact binaries with tidal deformation on circular orbits
 
-The file ``flux.txt`` contains the flux of energy for spinning, non-precessing (i.e. aligned or antialigned spin) compact binaries with tidal deformation (i.e. *not* a binary black hole system) on elliptic orbits
+The file ``flux.txt`` contains the flux of angular momentum for spinning, non-precessing (i.e. aligned or antialigned spin) compact binaries with tidal deformation (i.e. *not* a binary black hole system) on circular orbits.
+
+The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
 
 ## Notations
 
@@ -25,8 +27,6 @@ We use the following notations:
 * ``\[Lambda]p`` is defined as $\lambda_+ = \lambda_1 + \lambda_2$
 * ``\[Lambda]m`` is defined as $\lambda_- = \lambda_1 - \lambda_2$
 
-The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
-
 ## Sources
 
 The angular momentum flux for circular orbits is obtained by dividing the energy flux by the frequency of the (2,2) mode, $\omega_{22} = \frac{c^3 x^{3/2}}{G m}$. The energy flux was obtained:
@@ -42,6 +42,7 @@ The angular momentum flux for circular orbits is obtained by dividing the energy
         * (6.18)-(6.19) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
         
 However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result is presented.
+
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
