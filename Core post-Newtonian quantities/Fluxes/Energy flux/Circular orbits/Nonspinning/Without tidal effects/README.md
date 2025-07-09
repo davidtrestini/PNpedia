@@ -2,6 +2,8 @@
 
 The file ``flux.txt`` contains the flux of energy for nonspinning compact binaries on circular orbits.
 
+The result is given at 4.5PN accuracy.
+
 ## Notations
 
 We use the following notations:
@@ -11,8 +13,6 @@ We use the following notations:
 * ``c`` is the speed of light
 * ``x`` is the dimensionless frequency of the (2,2) mode of the GW
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
-
-The result is given at 4.5PN accuracy.
 
 ## Sources
 
