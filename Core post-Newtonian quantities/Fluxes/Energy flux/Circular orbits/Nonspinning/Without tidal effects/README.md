@@ -20,8 +20,7 @@ We use the following notations:
 * ``x`` is the dimensionless orbital frequency $x = G m \omega /c^3$, where $\omega$ is the dimensionful orbital frequency
 * ``x22`` is the dimensionless waveform frequency $x_{22} = G m \omega_{22} /c^3$, where $\omega_{22}$ is the dimensionful (half-)frequency of the $(2,2)$ mode
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
-* ``b_0`` is an arbitary constant linked to the choice of foliation
-
+* ``b0`` is the arbitary constant $b_0$ linked to the choice of foliation
 ## Sources
 
 This result was obtained:
