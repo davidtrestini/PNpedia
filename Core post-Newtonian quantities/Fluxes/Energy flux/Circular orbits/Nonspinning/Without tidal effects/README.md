@@ -24,9 +24,13 @@ We use the following notations:
 ## Sources
 
 This result was obtained:
-* at 4.5PN in
-    * (6.11) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
-    * (4) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
+* at 4.5PN
+    * in terms of the waveform frequency $x_{22}$ in
+        * (6.11) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
+        * (4) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
+    * in terms of the orbital frequency $x$ in
+        * (VI.61) of [hal:/tel-04224762v1](https://theses.hal.science/tel-04224762v1)
+        * (7.1a) of [arXiv:2504.13245](https://arxiv.org/abs/2504.13245v2)
 * at 3.5PN in
     * (12.9) of [arXiv:gr-qc/0105098v3](https://arxiv.org/abs/gr-qc/0105098v3)
 * at 3PN in 
