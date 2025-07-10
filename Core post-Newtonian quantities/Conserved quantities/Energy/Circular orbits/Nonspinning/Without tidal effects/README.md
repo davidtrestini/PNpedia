@@ -27,9 +27,9 @@ The conservative energy was obtained:
 * at 4PN in
     * (5.5) of [arXiv:1401.4548v2](https://arxiv.org/abs/1401.4548v2)
     * (5.6) of [arXiv:1711.00283v2](https://arxiv.org/abs/1711.00283v2)
-The binding energy was obtained:
+The Schott term was obtained:
 * at 4PN in
-    * (5.7a), (6.1a) and (6.3a) of [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1)
+    * (5.7a) of [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1)
 
 Note that all 4.5PN terms vanish for circular orbits, both in the conservative and binding energies.
 

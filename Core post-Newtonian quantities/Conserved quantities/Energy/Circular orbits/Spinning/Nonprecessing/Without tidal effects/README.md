@@ -33,11 +33,12 @@ We use the following notations:
 
 This result was obtained:
 * at 4PN
-    * in the nonspinning sector (conservative piece) in
-        * (5.5) of [arXiv:1401.4548v2](https://arxiv.org/abs/1401.4548v2)
-        * (5.6) of [arXiv:1711.00283v2](https://arxiv.org/abs/1711.00283v2)
-    * in the nonspinning sector (Schott term) in
-        * (5.7a), (6.1a) and (6.3a) of [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1)
+    * in the nonspinning sector
+        * for the conservative piece in
+            * (5.5) of [arXiv:1401.4548v2](https://arxiv.org/abs/1401.4548v2)
+            * (5.6) of [arXiv:1711.00283v2](https://arxiv.org/abs/1711.00283v2)
+        * for the Schott term in
+            * (5.7a) of [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1)
     * in the spin-orbit sector in
         * (12) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the spin-spin sector in
@@ -46,6 +47,8 @@ This result was obtained:
         * (5.18) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
     * in the quartic-in-spin sector in
         * (62) of [arXiv:1712.08603v2](https://arxiv.org/pdf/1712.08603v2)
+* at 3.5PN in
+    * (40) of [arXiv:2410.23950v2](https://arxiv.org/pdf/2410.23950v2)
 
 ## Endorsers
 
