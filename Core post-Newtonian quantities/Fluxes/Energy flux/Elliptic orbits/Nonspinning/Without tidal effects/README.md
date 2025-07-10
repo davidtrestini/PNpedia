@@ -2,6 +2,8 @@
 
 The file ``flux.txt`` contains the *orbit averaged* flux of energy for nonspinning compact binaries on elliptic orbits.
 
+The result is given at 3PN accuracy.
+
 ## Notations
 
 We use the following notations:
@@ -26,8 +28,6 @@ It is common to perform the small eccentricity ($e_t \ll 1$) expansion  of the e
 * ``psi_expanded.txt`` corresponds to $\psi(e_t)$, see (7.1b) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) or (B7c) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
 * ``zeta_expanded.txt`` corresponds to $\zeta(e_t)$, see (7.1c) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) or (B7g) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
 * ``kappa_expanded.txt`` corresponds to $\kappa(e_t)$, see (7.1d) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) or (B7e) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
-
-The result is given at 3PN accuracy.
 
 ## Sources
 

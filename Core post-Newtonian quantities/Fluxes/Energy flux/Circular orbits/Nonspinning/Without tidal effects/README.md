@@ -8,6 +8,8 @@ Note that when expressed in terms of the orbital frequency, the flux depends on 
 
 The result is given at 4.5PN accuracy.
 
+The result is given at 4.5PN accuracy.
+
 ## Notations
 
 We use the following notations:

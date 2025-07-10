@@ -1,6 +1,8 @@
 # Flux of energy for spinning, non-precessing, compact binaries with tidal deformation on circular orbits
 
-The file ``flux.txt`` contains the flux of energy at infinity for spinning, non-precessing (i.e. aligned or antialigned spin) compact binaries with tidal deformation on circular orbits
+The file ``flux.txt`` contains the flux of energy at infinity for spinning, non-precessing (i.e. aligned or antialigned spin) compact binaries with tidal deformation on circular orbits.
+
+The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
 
 The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
 

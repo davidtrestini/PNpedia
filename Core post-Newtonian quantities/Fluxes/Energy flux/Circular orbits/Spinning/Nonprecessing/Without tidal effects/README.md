@@ -8,6 +8,8 @@ Note that when expressed in terms of the orbital frequency, the flux depends on 
 
 The result is given at 4PN accuracy, including all non-spinning, spin-orbit, spin-spin, cubic-in-spin and quartic-in-spin terms.
 
+The result is given at 3.5PN accuracy, including all non-spinning, spin-orbit, spin-spin, and cubic-in-spin terms.
+
 ## Notations
 
 We use the following notations:
