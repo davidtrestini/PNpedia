@@ -1,8 +1,8 @@
 # Flux of energy for nonspinning compact binaries on circular orbits
 
 For nonspinning compact binaries on circular orbits, the flux of energy through future null infinity is given:
-    * in terms of the orbital frequency $x$ in the file ``flux_infinity_x.txt``
-    * in terms of the waveform frequency $x_{22}$ in the file ``flux_infinity_x22.txt``
+* in terms of the orbital frequency $x$ in the file ``flux_infinity_x.txt``
+* in terms of the waveform frequency $x_{22}$ in the file ``flux_infinity_x22.txt``
 
 Note that when expressed in terms of the orbital frequency, the flux depends on the arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the binding energy, and drops out of the balance law.
 
