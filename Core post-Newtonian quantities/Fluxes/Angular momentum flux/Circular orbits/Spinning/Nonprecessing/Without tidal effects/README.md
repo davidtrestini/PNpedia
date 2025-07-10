@@ -27,21 +27,7 @@ We use the following notations:
 
 ## Sources
 
-The flux of angular momentum for circular orbits is obtained by dividing the flux of energy by the frequency of the (2,2) mode, $\omega_{22} = \frac{c^3 x^{3/2}}{G m}$, see [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1). The energy flux for spinning, non-precessing, structureless compact binaries on circular orbits was obtained:
-* at 4PN
-    * in the nonspinning sector in
-        * (6.11) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
-        * (4) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
-    * in the spin-orbit sector in
-        * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
-    * in the spin-spin sector in
-        * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
-    * in the cubic-in-spin sector in
-        * (6.18)-(6.19) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
-    * in the quartic-in-spin sector in
-        * (71) of [arXiv:1712.08603v2](https://arxiv.org/abs/1712.08603v2)
-* at 3.5PN
-    * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/arXiv:2410.23950v2)
+The full flux of angular momentum for circular orbits is obtained by dividing the flux of energy by the frequency of the (2,2) mode, $\omega_{22} = \frac{c^3 x^{3/2}}{G m}$, see [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1). For references, see the [readme](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Fluxes/Energy%20flux/Circular%20orbits/Spinning/Nonprecessing/Without%20tidal%20effects) for the flux of energy for nonspinning compact binaires of circular orbits. 
 
 ## Endorsers
 
