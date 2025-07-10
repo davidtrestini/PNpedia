@@ -32,11 +32,16 @@ We use the following notations:
 
 ## Sources
 
+
 This result was obtained:
 * at 4PN
-    * in the nonspinning sector in
-        * (6.11) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
-        * (4) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
+    * in the nonspinning sector
+        * in terms of the waveform frequency $x_{22}$ in
+            * (6.11) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
+            * (4) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
+        * in terms of the orbital frequency $x$ in
+            * (VI.61) of [hal:/tel-04224762v1](https://theses.hal.science/tel-04224762v1)
+            * (7.1a) of [arXiv:2504.13245](https://arxiv.org/abs/2504.13245v2)
     * in the spin-orbit sector in
         * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the spin-spin sector in
@@ -45,7 +50,7 @@ This result was obtained:
         * (6.18)-(6.19) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
     * in the quartic-in-spin sector in
         * (71) of [arXiv:1712.08603v2](https://arxiv.org/abs/1712.08603v2)
-* at 3.5PN
+* at 3.5PN in
     * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/arXiv:2410.23950v2)
 
 ## Endorsers
