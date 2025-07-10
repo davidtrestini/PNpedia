@@ -1,8 +1,8 @@
 # Flux of energy for spinning, non-precessing, structureless compact binaries on circular orbits
 
 For spinning, non-precessing (i.e. aligned or antialigned spin), structureless (no tidal effects) compact binaries on circular orbits, the flux of energy through future null infinity is given:
-    * in terms of the orbital frequency $x$ in the file ``flux_infinity_x.txt``
-    * in terms of the waveform frequency $x_{22}$ in the file ``flux_infinity_x22.txt``
+* in terms of the orbital frequency $x$ in the file ``flux_infinity_x.txt``
+* in terms of the waveform frequency $x_{22}$ in the file ``flux_infinity_x22.txt``
 
 Note that when expressed in terms of the orbital frequency, the flux depends on the arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the binding energy, and drops out of the balance law.
 
@@ -23,7 +23,7 @@ We use the following notations:
 * ``x22`` is the dimensionless waveform frequency $x_{22} = G m \omega_{22} /c^3$, where $\omega_{22}$ is the dimensionful (half-)frequency of the $(2,2)$ mode
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
 * ``\[Delta]`` is the relative mass difference, $\delta = \frac{m_1-m_2}{m}$ such that $\delta^2=1-4\nu$
-* ``b_0`` is an arbitary constant linked to the choice of foliation
+* ``b0`` is the arbitary constant $b_0$ linked to the choice of foliation
 * we adopt PN-counting convention which assumes that the black holes are maximally spinning, where the spins $S_1$ and $S_2$ having dimension $[ML^3T^{-2}]$
 * we define the dimensionless spin parameters $\chi_1 = \frac{S_1}{G m_1^2}$ and $\chi_2 = \frac{S_2}{G m_2^2}$, such that maximally spinning black holes satisfy $\chi_{1,2} = 1$.
 * we define $S = S_1 + S_2 = G (m_1^2 \chi_1+m_2^2 \chi_2)$ and $\Sigma = m\left(\frac{S_2}{m_2}-\frac{S_1}{m_1}\right) = G m\left(m_2 \chi_2 - m_1 \chi_1\right)$
