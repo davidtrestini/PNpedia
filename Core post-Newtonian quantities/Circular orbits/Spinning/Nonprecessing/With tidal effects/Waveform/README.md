@@ -1,4 +1,4 @@
-# Waveform for spinning compact binaries on circular orbits, including tidal effects
+# Waveform for spinning, non-precessing, compact binaries with tidal deformation on circular orbits
 
 We decompose the waveform into $(\ell,m)$ modes as follows:
 
