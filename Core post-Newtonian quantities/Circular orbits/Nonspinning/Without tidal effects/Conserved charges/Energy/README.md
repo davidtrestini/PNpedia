@@ -27,6 +27,7 @@ The conservative energy was obtained:
 * at 4PN in
     * (5.5) of [arXiv:1401.4548v2](https://arxiv.org/abs/1401.4548v2)
     * (5.6) of [arXiv:1711.00283v2](https://arxiv.org/abs/1711.00283v2)
+    
 The Schott term was obtained:
 * at 4PN in
     * (5.7a) of [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1)

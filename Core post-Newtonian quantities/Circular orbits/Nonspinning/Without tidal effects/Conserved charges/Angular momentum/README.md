@@ -26,6 +26,7 @@ We use the following notations:
 The conservative angular momentum was obtained:
 * at 4PN in
     * (5.8) of [arXiv:1711.00283v2](https://arxiv.org/abs/1711.00283v2)
+    
 The Schott term was obtained:
 * at 4PN in
     * (5.7b) of [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1)
