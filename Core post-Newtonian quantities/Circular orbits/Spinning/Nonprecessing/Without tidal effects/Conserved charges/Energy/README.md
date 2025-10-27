@@ -46,7 +46,7 @@ This result was obtained:
     * in the cubic-in-spin sector in
         * (5.18) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
     * in the quartic-in-spin sector in
-        * (62) of [arXiv:1712.08603v2](https://arxiv.org/pdf/1712.08603v2)
+        * (62) of [arXiv:1712.08603v2](https://arxiv.org/pdf/1712.08603v2) [the 4PN contribution is vanishing]
 * at 3.5PN in
     * (40) of [arXiv:2410.23950v2](https://arxiv.org/pdf/2410.23950v2)
 
