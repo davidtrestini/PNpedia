@@ -19,7 +19,7 @@ We use the following notations:
 * ``x`` is the dimensionless orbital frequency $x = G m \omega /c^3$, where $\omega$ is the dimensionful orbital frequency
 * ``x22`` is the dimensionless waveform frequency $x_{22} = G m \omega_{22} /c^3$, where $\omega_{22}$ is the dimensionful (half-)frequency of the $(2,2)$ mode
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
-* ``b_0`` is an arbitary constant linked to the choice of foliation
+* ``b_0`` is an arbitary constant linked to the choice of foliation. Note that our ``b0`` corresponds to $b_0 c^2/G$ in the below references.
 
 ## Sources
 
@@ -37,3 +37,4 @@ Note that all 4.5PN terms vanish for circular orbits, both in the conservative a
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
+[Loïc Honet](https://github.com/honetloic) [[0009-0007-2863-6085](https://orcid.org/0009-0007-2863-6085)]
