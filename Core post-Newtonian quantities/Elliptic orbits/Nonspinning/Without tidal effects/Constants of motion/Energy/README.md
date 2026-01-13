@@ -4,6 +4,7 @@ As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), ther
 
 For nonspinning compact binaries on circular orbits:
 * the file ``energy_conservative.txt`` contains the conservative energy in terms of the Blanchet orbital parameters $(x,\iota)$, which are directly related to the radial and azimuthal frequencies (see below)
+* the file  ``lambda_0_expansion.txt`` contains the small $e$ expansion  of the function $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
 
 The conservative energy is given at 4PN accuracy. The Schott term, and thus the binding energy, are not known at 4PN. At 3PN, the Schott term is vanishing and the binding energy is thus identical to the conservative energy. 
 
@@ -39,7 +40,7 @@ We then define function $\lambda_0(e)$ such that
 
 $$\Lambda_0(e) = - \frac{3}{2(1-e^2)^{7/2}}\left[\ln(1-e^2)\left(1 + \frac{73}{24}e^2 + \frac{37}{96}e^4\right) + e^2 \lambda_0(e)\right] .$$
 
-The function $\lambda_0(e)$ is not known in closed form, but replacing it by its small-$e$ expansion leads to very accurate results; see Sec. IV.D of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1). The small-$e$ expansion of $\lambda_0(e)$ is provided up to $e^8$ in ``lambda_0_expansion.txt``.
+The function $\lambda_0(e)$ is not known in closed form, but replacing it by its small $e$ expansion leads to very accurate results; see Sec. IV.D of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1). The small $e$ expansion of $\lambda_0(e)$ is provided up to $\mathcal{O}(e^8)$ in ``lambda_0_expansion.txt``.
 
 In the files, these functions are evaluated for $e=\sqrt{1-\iota}$. We denote $\lambda_0(\sqrt{1-\iota})$ as ``\[Lambda]0[Sqrt[1 - \[Iota]]``, and its derivative $\lambda_0'(\sqrt{1-\iota})$ is denoted ``Derivative[1][\[Lambda]0][Sqrt[1 - \[Iota]]``.
 
