@@ -19,7 +19,7 @@ We use the following notations:
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
 * ``b_0`` is an arbitary constant linked to the choice of foliation
 
-We also introduce the enhancement function $\Lambda(e) = \frac{1}{16}\sum_{p=1}^{\infty} p^2 \ln\left(\frac{p}{2}\right) \mathrm{I}_{ij}^{(p)} \mathrm{I}_{ij}^{(p)}$, where $e\in [0,1)$ and we use the Einstein summation on the spatial indices $i,j \in \{x,y,z\}$. The Fourier coefficients are explicitly expressed in terms of the Bessel functions $J_p(x)$ as follows:
+We also introduce the enhancement function $\Lambda(e) = \frac{1}{16}\sum_{p=1}^{\infty} p^2 \ln\left(\frac{p}{2}\right) \mathrm{I}_{ij}^{(p)}$, where $e\in [0,1)$ and we use the Einstein summation on the spatial indices $i,j \in \{x,y,z\}$. The Fourier coefficients are explicitly expressed in terms of the Bessel functions $J_p(x)$ as follows:
 
 $\mathstrut_p \mathrm{I}_{ij} \hat{\mathrm{I}}_{xx} = - \frac{2}{3}\,\frac{3-e^2}{e}\,\frac{J_p(pe)}{p^2} + \frac{2(1-e^2)}{e} \frac{J_p'(e)}{p}$
 
