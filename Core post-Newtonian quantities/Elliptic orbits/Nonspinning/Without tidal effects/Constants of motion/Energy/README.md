@@ -46,7 +46,7 @@ In the files, these functions are evaluated for $e=\sqrt{1-\iota}$. We denote $\
 
 The conservative energy was obtained:
 * at 4PN in
-    * (5.11)--(5.12) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
+    * (5.11)-(5.12) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
 
 The small $e$ expansion of $\lambda_0(e)$ was obtained
 * up to $\mathcal{O}(e^8)$ in
