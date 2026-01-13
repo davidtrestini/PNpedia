@@ -21,15 +21,15 @@ We use the following notations:
 
 We also introduce the enhancement function $\Lambda(e) = \frac{1}{16}\sum_{p=1}^{\infty} p^2 \ln\left(\frac{p}{2}\right) \mathrm{I}_{ij}^{(p)}$, where $e\in [0,1)$ and we use the Einstein summation on the spatial indices $i,j \in \{x,y,z\}$. The Fourier coefficients are explicitly expressed in terms of the Bessel functions $J_p(x)$ as follows:
 
-$\mathstrut_p \mathrm{I}_{ij} \hat{\mathrm{I}}_{xx} = - \frac{2}{3}\,\frac{3-e^2}{e}\,\frac{J_p(pe)}{p^2} + \frac{2(1-e^2)}{e} \frac{J_p'(e)}{p}$
+$\mathrm{I}_{xx}^{(p)} = - \frac{2}{3}\,\frac{3-e^2}{e}\,\frac{J_p(pe)}{p^2} + \frac{2(1-e^2)}{e} \frac{J_p'(e)}{p}$
 
-$\mathstrut_p \mathrm{I}_{ij} \hat{\mathrm{I}}_{xy} = \mathstrut_p \mathrm{I}_{ij}\hat{\mathrm{I}}_{yx} = 2 \mathrm{i} \sqrt{1-e^2} \Big[- \frac{1-e^2}{e^2} \frac{J_{p}(p e)}{p} + \frac{1}{e} \frac{J_p'(p e)}{p ^2}\Big] $
+$\mathrm{I}_{xy}^{(p)} = \mathrm{I}_{yx}^{(p)}  = 2 \mathrm{i} \sqrt{1-e^2} \Big[- \frac{1-e^2}{e^2} \frac{J_{p}(p e)}{p} + \frac{1}{e} \frac{J_p'(p e)}{p ^2}\Big] $
 
-$\mathstrut_p \mathrm{I}_{ij} \hat{\mathrm{I}}_{yy} =  \frac{2}{3} \frac{3-2e^2}{e^2}\frac{J_p(e)}{p^2} -  \frac{2(1-e^2)}{e} \frac{J_p'(p e)}{p}$
+$\mathrm{I}_{yy}^{(p)} =  \frac{2}{3} \frac{3-2e^2}{e^2}\frac{J_p(e)}{p^2} -  \frac{2(1-e^2)}{e} \frac{J_p'(p e)}{p}$
 
-$\mathstrut_p \mathrm{I}_{ij} \hat{\mathrm{I}}_{xz} =  \mathstrut_p \mathrm{I}_{ij} \hat{\mathrm{I}}_{yz} = \mathstrut_p \mathrm{I}_{ij} \hat{\mathrm{I}}_{zx} =\mathstrut_p \mathrm{I}_{ij}\hat{\mathrm{I}}_{zy = 0}$
+$\mathrm{I}_{xz}^{(p)} =  \mathrm{I}_{yz}^{(p)} = \mathrm{I}_{zx}^{(p)} = \mathrm{I}_{zy}^{(p)} = 0$
 
-$$\mathstrut_p \mathrm{I}_{ij} \hat{\mathrm{I}}_{zz} = \frac{2}{3} \frac{J_p(p e)}{p^2}$$
+$\mathrm{I}_{zz}^{(p)} = \frac{2}{3} \frac{J_p(p e)}{p^2}$
 
 
 We then define function $\lambda_0(e)$ such that 
