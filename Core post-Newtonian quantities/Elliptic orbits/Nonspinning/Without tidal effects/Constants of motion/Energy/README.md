@@ -48,7 +48,7 @@ The conservative energy was obtained:
 * at 4PN in
     * (5.11)--(5.12) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
 
-The small-$e$ expansion of $\lambda_0(e)$ was obtained
+The small $e$ expansion of $\lambda_0(e)$ was obtained
 * up to $\mathcal{O}(e^8)$ in
     * (4.41) and (4.43) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
 
