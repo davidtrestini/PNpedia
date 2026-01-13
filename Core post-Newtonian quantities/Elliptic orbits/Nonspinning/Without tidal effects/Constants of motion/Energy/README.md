@@ -21,17 +21,17 @@ We use the following notations:
 
 We also introduce the enhancement function
 
-$$\Lambda(e) = \frac{1}{16}\sum_{p=1}^{\infty} p^2 \ln\left(\frac{p}{2}\right) ({}_{p} \hat{\mathrm{I}}_{ij}) ({}_{p} \hat{\mathrm{I}}_{ij}) ,$$
+$$\Lambda(e) = \frac{1}{16}\sum_{p=1}^{\infty} p^6 \ln\left(\frac{p}{2}\right) ({}_{p} \hat{\mathrm{I}}_{ij}) ({}_{-p} \hat{\mathrm{I}}_{ij}) ,$$
 
 
-where $e\in [0,1)$ and we use the Einstein summation on the spatial indices $i,j \in \{x,y,z\}$. The Fourier coefficients are explicitly expressed in terms of the Bessel functions $J_p(x)$ as follows:
+where $e\in [0,1)$ and we use the Einstein summation on the spatial indices $i,j \in \{x,y,z\}$. The Fourier coefficients are explicitly expressed in terms of the Bessel functions $J_p$ and their derivatives $J_p'$ as follows:
 
 $$\begin{aligned}
 {}_{p}\hat{\mathrm{I}}_{xx} &= - \frac{2}{3} \frac{3-e^2}{e}\frac{J_p(pe)}{p^2} + \frac{2(1-e^2)}{e} \frac{J_p'(e)}{p}\\
 {}_{p}\hat{\mathrm{I}}_{xy} &= {}_{p} \hat{\mathrm{I}}_{yx}  = 2 \mathrm{i} \sqrt{1-e^2} \left[- \frac{1-e^2}{e^2} \frac{J_{p}(p e)}{p} + \frac{1}{e} \frac{J_p'(p e)}{p ^2}\right] \\
 {}_{p}\hat{\mathrm{I}}_{yy} &=  \frac{2}{3} \frac{3-2e^2}{e^2}\frac{J_p(e)}{p^2} -  \frac{2(1-e^2)}{e} \frac{J_p'(p e)}{p} \\
-{}_{p}\hat{\mathrm{I}}_{xz} &=  {}_{p} \hat{\mathrm{I}}_{yz} = {}_{p} \hat{\mathrm{I}}_{zx} = {}_{p} \hat{\mathrm{I}}_{zy} = 0 \\
-{}_{p}\hat{\mathrm{I}}_{zz} &= \frac{2}{3} \frac{J_p(p e)}{p^2}
+{}_{p}\hat{\mathrm{I}}_{zz} &= \frac{2}{3} \frac{J_p(p e)}{p^2}\\
+{}_{p}\hat{\mathrm{I}}_{xz} &=  {}_{p} \hat{\mathrm{I}}_{yz} = {}_{p} \hat{\mathrm{I}}_{zx} = {}_{p} \hat{\mathrm{I}}_{zy} = 0
 \end{aligned}$$
 
 
