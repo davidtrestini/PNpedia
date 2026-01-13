@@ -37,6 +37,14 @@ $${}_{p}\mathrm{I}_{xz} =  {}_{p} \mathrm{I}_{yz} = {}_{p} \mathrm{I}_{zx} = {}_
 $${}_{p}\mathrm{I}_{zz} = \frac{2}{3} \frac{J_p(p e)}{p^2}$$
 
 
+$$\begin{aligned}
+{}_{p}\mathrm{I}_{xx} &= - \frac{2}{3} \frac{3-e^2}{e}\,\frac{J_p(pe)}{p^2} + \frac{2(1-e^2)}{e} \frac{J_p'(e)}{p}\\
+{}_{p}\mathrm{I}_{xy} &= {}_{p} \mathrm{I}_{yx}  = 2 \mathrm{i} \sqrt{1-e^2} \Big[- \frac{1-e^2}{e^2} \frac{J_{p}(p e)}{p} + \frac{1}{e} \frac{J_p'(p e)}{p ^2}\Big] 
+\end{aligned}$$
+
+
+
+
 We then define function $\lambda_0(e)$ such that 
 $\Lambda_0(e) = - \frac{3}{2(1-e^2)^{7/2}}\Big[\ln(1-e^2)\left(1 + \frac{73}{24}e^2 + \frac{37}{96}e^4\right) + e^2 \lambda_0(e)\Big]$
 The function $\lambda_0(e)$ is not known in closed form, but replacing it by its small-$e$ expansion leads to very accurate results; see Sec. IV.D of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1). The small-$e$ expansion of $\lambda_0(e)$ is provided up to $e^8$ in ``lambda_0_expansion.txt``.
