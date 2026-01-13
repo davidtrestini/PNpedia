@@ -1,8 +1,8 @@
 # Energy for nonspinning compact binaries on elliptic orbits
 
-As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), there are two distinct notions of energy. The conservative energy $`E_\mathrm{cons}`$ is a constant of motion under the conservative equations of motion. The binding energy $E$ enters the flux balance law $` \mathrm{d} E/\mathrm{d} t = - \mathcal{F}_E`$. The difference between the two is called a Schott term, $`E_\mathrm{Schott}`$, which is nonvanishing for circular orbits starting at 4PN. The expression of the binding energy in terms of the orbital (radial and azimuthal) frequencies depends on an arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the flux, and drops out of the balance law.
+As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), there are two distinct notions of energy. The conservative energy $`E_\mathrm{cons}`$ is a constant of motion under the conservative equations of motion. The binding energy $E$ enters the flux balance law $` \mathrm{d} E/\mathrm{d} t = - \mathcal{F}_E`$. The difference between the two is called a Schott term, $`E_\mathrm{Schott}`$, which is nonvanishing for elliptic orbits (after orbit averaging) starting at 4PN. The expression of the binding energy in terms of the orbital (radial and azimuthal) frequencies depends on an arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the flux, and drops out of the balance law.
 
-For nonspinning compact binaries on circular orbits:
+For nonspinning compact binaries on elliptic orbits:
 * the file ``energy_conservative.txt`` contains the conservative energy in terms of the Blanchet orbital parameters $(x,\iota)$, which are directly related to the radial and azimuthal frequencies (see below)
 * the file  ``lambda_0_expansion.txt`` contains the small $e$ expansion  of the function $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
 
