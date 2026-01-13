@@ -20,13 +20,13 @@ We use the following notations:
 * ``b_0`` is an arbitary constant linked to the choice of foliation
 
 We also introduce the enhancement function 
-$$\Lambda(e) = \frac{1}{16}\sum_{p=1}^{\infty} p^2 \ln\left(\frac{p}{2}\right) {}_{p} \mathrm{I}_{ij}  {}_{p} \mathrm{I}_{ij} ,$$
+$$`\Lambda(e) = \frac{1}{16}\sum_{p=1}^{\infty} p^2 \ln\left(\frac{p}{2}\right) {}_{p} \mathrm{I}_{ij}  {}_{p} \mathrm{I}_{ij} ,`$$
 where $e\in [0,1)$ and we use the Einstein summation on the spatial indices $i,j \in \{x,y,z\}$. The Fourier coefficients are explicitly expressed in terms of the Bessel functions $J_p(x)$ as follows:
-$${}_{p}\mathrm{I}_{xx} = - \frac{2}{3} \frac{3-e^2}{e} \frac{J_p(pe)}{p^2} + \frac{2(1-e^2)}{e} \frac{J_p'(e)}{p}$$
-$${}_{p}\mathrm{I}_{xy} = {}_{p} \mathrm{I}_{yx}  = 2 \mathrm{i} \sqrt{1-e^2} \Big[- \frac{1-e^2}{e^2} \frac{J_{p}(p e)}{p} + \frac{1}{e} \frac{J_p'(p e)}{p ^2}\Big] $$
-$${}_{p}\mathrm{I}_{yy} =  \frac{2}{3} \frac{3-2e^2}{e^2}\frac{J_p(e)}{p^2} -  \frac{2(1-e^2)}{e} \frac{J_p'(p e)}{p}$$
-$${}_{p}\mathrm{I}_{xz} =  {}_{p} \mathrm{I}_{yz} = {}_{p} \mathrm{I}_{zx} = {}_{p} \mathrm{I}_{zy} = 0$$
-$${}_{p}\mathrm{I}_{zz} = \frac{2}{3} \frac{J_p(p e)}{p^2}$$
+$$`{}_{p}\mathrm{I}_{xx} = - \frac{2}{3} \frac{3-e^2}{e} \frac{J_p(pe)}{p^2} + \frac{2(1-e^2)}{e} \frac{J_p'(e)}{p}`$$
+$$`{}_{p}\mathrm{I}_{xy} = {}_{p} \mathrm{I}_{yx}  = 2 \mathrm{i} \sqrt{1-e^2} \Big[- \frac{1-e^2}{e^2} \frac{J_{p}(p e)}{p} + \frac{1}{e} \frac{J_p'(p e)}{p ^2}\Big] `$$
+$$`{}_{p}\mathrm{I}_{yy} =  \frac{2}{3} \frac{3-2e^2}{e^2}\frac{J_p(e)}{p^2} -  \frac{2(1-e^2)}{e} \frac{J_p'(p e)}{p}`$$
+$$`{}_{p}\mathrm{I}_{xz} =  {}_{p} \mathrm{I}_{yz} = {}_{p} \mathrm{I}_{zx} = {}_{p} \mathrm{I}_{zy} = 0`$$
+$$`{}_{p}\mathrm{I}_{zz} = \frac{2}{3} \frac{J_p(p e)}{p^2}`$$
 We then define function $\lambda_0(e)$ such that 
 $$\Lambda_0(e) = - \frac{3}{2(1-e^2)^{7/2}}\Big[\ln(1-e^2)\left(1 + \frac{73}{24}e^2 + \frac{37}{96}e^4\right) + e^2 \lambda_0(e)\Big].$$
 The function $\lambda_0(e)$ is not known in closed form, but replacing it by its small-$e$ expansion leads to very accurate results; see Sec. IV.D of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1). The small-$e$ expansion of $\lambda_0(e)$ is provided up to $e^8$ in ``lambda_0_expansion.txt``.
