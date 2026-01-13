@@ -23,7 +23,7 @@ We also introduce the enhancement function $` \Lambda(e) = \frac{1}{16}\sum_{p=1
   \mathrm{I}_{ij}^{(p)} \mathrm{I}_{ij}^{(p)} `$
 
 
-$$\Lambda(e) = \frac{1}{16}\sum_{p=1}^{\infty} p^2 \ln\left(\frac{p}{2}\right) \mathrm{I}_{ij}^{(p)} \mathrm{I}_{ij}^{(p)} $$
+$$\Lambda(e) = \frac{1}{16}\sum_{p=1}^{\infty} p^2 \ln\left(\frac{p}{2}\right) \mathrm{I}_{ij}^{(p)} {}_{p} \mathrm{I}_{ij} $$
 
 
 , where $e\in [0,1)$ and we use the Einstein summation on the spatial indices $i,j \in \{x,y,z\}$. The Fourier coefficients are explicitly expressed in terms of the Bessel functions $J_p(x)$ as follows:
