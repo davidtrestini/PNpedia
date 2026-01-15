@@ -8,6 +8,8 @@ For nonspinning compact binaries on elliptic orbits:
 
 The conservative energy is given at 4PN accuracy. The Schott term, and thus the binding energy, are not known at 4PN. At 3PN, the Schott term is vanishing and the binding energy is thus identical to the conservative energy. 
 
+The small $e$ expansion of $\lambda_0(e)$ is provided up to $\mathcal{O}(e^8)$ in ``lambda0_expansion.txt``.
+
 ## Notations
 
 We use the following notations:
@@ -24,7 +26,7 @@ We also introduce the following enhancement function defined in (4.15), (4.28), 
 
 where $e$ is a dummy (eccentricity-like) variable. The derivative of the enhancement functions with respect to $e$ is denoted with an apostrophe: ``\[Lambda]0'[e]``.
 
-The function $\lambda_0(e)$ is not known in closed form, but replacing it by its small $e$ expansion leads to very accurate results; see Sec. IV.D of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1). The small $e$ expansion of $\lambda_0(e)$ is provided up to $\mathcal{O}(e^8)$ in ``lambda0_expansion.txt``.
+The function $\lambda_0(e)$ is not known in closed form, but replacing it by its small $e$ expansion leads to very accurate results; see Sec. IV.D of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1). 
 
 ## Sources
 
