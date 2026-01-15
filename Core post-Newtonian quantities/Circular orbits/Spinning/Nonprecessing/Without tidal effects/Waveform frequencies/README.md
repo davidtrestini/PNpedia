@@ -1,6 +1,6 @@
 # Waveform frequencies associated to each $(\ell,m)$ mode in terms of the orbital frequency
 
-For nonspinning compact black hole binaries on circular orbits, we report here the relation between the waveform frequencies and orbital frequency.
+For spinning compact black hole binaries on circular orbits, we report here the relation between the waveform frequencies and orbital frequency.
 
 The orbital frequency $\omega$ is represented by the dimensionless parameter $x= \left(\frac{G m \omega}{c^3}\right)^{\frac{2}{3}}$. 
 The metric can be decomposed as
