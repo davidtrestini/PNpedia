@@ -28,7 +28,9 @@ where $e$ is a dummy (eccentricity-like) variable. The intermediate enhancement 
 We introduce yet another enhancement defined in (4.15), (4.28), and (4.40) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1):
 * ``\[Lambda]0[e]`` corresponds to $\lambda_0(e)$
 
-It is common to perform the small eccentricity ($e_t \ll 1$) expansion  of the enhancement functions. These are given, up to neglected $\mathcal{O}(e_t^8)$ terms, by the following files:
+The *(modified) harmonic* time-eccentricity is expressed in terms of energy and angular momentum at 3PN in (25d); this translates to $e_t(\varepsilon,j)$ at 3PN as given in ``et.txt``.
+
+It is common to perform the small eccentricity ($e \ll 1$) expansion  of the enhancement functions. These are given, up to neglected $\mathcal{O}(e^8)$ terms, by the following files:
 * ``varphi_tilde_expanded.txt`` corresponds to $\tilde\varphi(e)$, see (7.2a) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) or (B7b) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
 * ``psi_tilde_expanded.txt`` corresponds to $\tilde\psi(e)$, see (7.2b) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) or (B7d) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
 * ``zeta_tilde_expanded.txt`` corresponds to $\tilde\zeta(e)$, see (7.2c) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) or (B7h) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
