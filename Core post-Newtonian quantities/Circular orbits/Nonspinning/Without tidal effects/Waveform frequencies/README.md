@@ -2,12 +2,12 @@
 
 For nonspinning compact binaries on circular orbits, we report here the relation between the waveform frequencies and orbital frequency.
 
-The orbital frequency $\omega$ is represented by the dimensionless parameter $x= (G m \omega/c^3)^{2/3}$. 
+The orbital frequency $\omega$ is represented by the dimensionless parameter $x= \left(\frac{G m \omega}{c^3}\right)^{2/3}$. 
 The metric can be decomposed as
 
-$$ h = h_+ - \mathrm{i} h_\cross = \frac{1}{R}\sum_{\ell=2}^\infty \sum_{m=-\ell}^\ell |h_{\ell m}| \mathrm{e}^{\mathm{i} m \phi_{\ell m}}$$
+$$ h = h_+ - \mathrm{i} h_\times = \frac{1}{R}\sum_{\ell=2}^\infty \sum_{m=-\ell}^\ell |h_{\ell m}| \mathrm{e}^{\mathrm{i} m \phi_{\ell m}}$$
 
-where $|h_{\ell m}|$ are real amplitudes and $\phi_{\ell m}$ are real phases. We define the waveform frequency $\omega_{\ell m} = \mathrm{d} \phi_{\ell m} / \mathrm{d} t$ and the associated dimensionless parameter $x_{\ell m} =  (G m \omega_{\ell m}/c^3)^{2/3}$.
+where $|h_{\ell m}|$ are real amplitudes and $\phi_{\ell m}$ are real phases. We define the waveform frequency $\omega_{\ell m} = \frac{\mathrm{d} \phi_{\ell m}}{ \mathrm{d} t}$ and the associated dimensionless parameter $x_{\ell m} =  \left(\frac{G m \omega_{\ell m}}{c^3}\right)^{2/3}$.
 
 We express $x_{\ell m}$ is terms of $x$ for the following values of $(\ell, m)$
 * $x_{22}$ is expressed at 4.5PN accuracy in ``x22.txt``
