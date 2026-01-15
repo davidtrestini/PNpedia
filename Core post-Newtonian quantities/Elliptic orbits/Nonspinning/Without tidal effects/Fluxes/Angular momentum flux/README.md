@@ -1,7 +1,9 @@
 # Flux of angular momentum for nonspinning compact binaries on elliptic orbits
 
 The file ``flux_infinity_x_et.txt`` contains the *orbit averaged* flux of angular momentum at $\mathcal{I}^+$ for nonspinning compact binaries on elliptic orbits, expressed in terms of frequency parameter $x$ and the harmonic time eccentricity $e_t$.
+
 The file ``flux_infinity_x_iota.txt`` contains the *orbit averaged* flux of angular momentum at $\mathcal{I}^+$ for nonspinning compact binaries on elliptic orbits, expressed in terms of Blanchet frequency parameters $(x,\iota)$.
+
 The file ``flux_infinity_epsilon_j.txt`` contains the *orbit averaged* flux of angular momentum at $\mathcal{I}^+$ for nonspinning compact binaries on elliptic orbits, expressed in terms of dimensionless energy and angular momentum $(\varepsilon, j)$.
 
 The results are given at 3PN accuracy.
