@@ -26,6 +26,7 @@ We also introduce the following *enhancement functions* defined in (6.1) of [arX
 * ``\[Psi][e]`` is defined as $\psi(e) = \frac{13696}{8191}\alpha(e) - \frac{16403}{24573}\beta(e) - \frac{112}{24573}\gamma(e)$
 *  ``\[Zeta][e]`` is defined as $\zeta(e) = -\frac{1424}{4081}\theta(e) + \frac{16403}{12243}\beta(e) + \frac{16}{1749}\gamma(e)$
 *  ``\[Kappa][e]`` is defined as $\kappa(e) = \frac{1 + \frac{85}{6}e^2 + \frac{5171}{192} e^4 + \frac{1751}{192}e^6 + \frac{297}{1024} e^8}{(1-e^2)^{13/2}} + \frac{59920}{116761} \chi(e)$
+
 where $e$ is a dummy (eccentricity-like) variable. The intermediate enhancement functions $\varphi(e_t)$, $\alpha(e_t)$, $\beta(e_t)$, $\gamma(e_t)$, $\theta(e_t)$, $\chi(e_t)$ are defined in (92-102) of arXiv:1607.05409v3 in terms of the Fourier decomposition of the multipolar moments, which are given in (65-70) and (A1-A8) of arXiv:1607.05409v3 [note that there is a typo in (A8), which should acquire a global minus sign]. Another equivalent formulation of the Fourier decomposition of the multipolar moments at Newtonian order is given by (A3-A5) [note however the typo in (A5a)].
 
 We introduce yet another enhancement defined in (4.15), (4.28), and (4.40) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1):
