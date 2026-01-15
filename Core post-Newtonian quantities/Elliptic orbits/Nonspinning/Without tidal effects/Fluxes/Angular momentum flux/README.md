@@ -30,6 +30,8 @@ where $e$ is a dummy (eccentricity-like) variable. The intermediate enhancement 
 We introduce yet another enhancement defined in (4.15), (4.28), and (4.40) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1):
 * ``\[Lambda]0[e]`` corresponds to $\lambda_0(e)$
 
+The derivatives of the various enhancement functions with respect to $e$ are denoted with an apostrophe: ``\[CurlyPhi]$tilde'[e]``, ``\[Psi]$tilde'[e]``, ``\[Zeta]$tilde'[e]``, ``\[Kappa]$tilde'[e]`` and ``\[Lambda]0'[e]``.
+
 The *(modified) harmonic* time-eccentricity is expressed in terms of energy and angular momentum at 3PN in (25d); this translates to $e_t(\varepsilon,j)$ at 3PN as given in ``et.txt``.
 
 It is common to perform the small eccentricity ($e \ll 1$) expansion  of the enhancement functions. These are given, up to neglected $\mathcal{O}(e^8)$ terms, by the following files:
