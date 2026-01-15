@@ -22,16 +22,17 @@ We use the following notations:
 * ``x`` is the dimensionless orbital frequency $x = G m \omega /c^3$, where $\omega$ is the dimensionful orbital frequency
 * ``x22`` is the dimensionless waveform frequency $x_{22} = G m \omega_{22} /c^3$, where $\omega_{22}$ is the dimensionful (half-)frequency of the $(2,2)$ mode
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
-* ``b0`` is an arbitary constant $b_0$ linked to the choice of foliation. 
+* ``b0`` is an arbitary constant lengthscale $b_0$, which is linked to the choice of foliation. 
 
 ## Sources
 
 This result was obtained:
 * at 4.5PN in
     * (6.10) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
-    * (19) of [arXiv:2407.00366](https://arxiv.org/abs/2407.00366)
-    * (6.5) of [arXiv:2504.13245](https://arxiv.org/abs/2504.13245)
+    * (19) of [arXiv:2407.00366v2](https://arxiv.org/abs/2407.00366v2)
+    * (6.5) of [arXiv:2504.13245v2](https://arxiv.org/abs/2504.13245v2) has a typo: $-32/15$ should be $576/5$
 
 ## Endorsers
 
 [Loïc Honet](https://github.com/honetloic) [[0009-0007-2863-6085](https://orcid.org/0009-0007-2863-6085)]
+[David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
