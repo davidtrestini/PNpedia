@@ -25,6 +25,7 @@ We also introduce the following *enhancement functions* defined in (5.28) of [ar
 * ``\[Psi]$tilde[e]`` is defined as $\tilde\psi(e) = \frac{13696}{8191}\tilde\alpha(e) - \frac{16403}{24573}\tilde\beta(e) - \frac{112}{24573}\tilde\gamma(e)$
 *  ``\[Zeta]$tilde[e]`` is defined as $\tilde\zeta(e) = -\frac{1424}{4081}\tilde\theta(e) + \frac{16403}{12243}\tilde\beta(e) + \frac{16}{1749}\tilde\gamma(e)$
 *  ``\[Kappa]$tilde[e]`` is defined as $\tilde\kappa(e) = \frac{1 + \frac{229}{32}e^2 + \frac{327}{64} e^4 + \frac{69}{256}e^6}{(1-e^2)^{5}} + \frac{59920}{116761} \tilde\chi(e)$
+
 where $e$ is a dummy (eccentricity-like) variable. The intermediate enhancement functions $\tilde\varphi(e_t)$, $\tilde\alpha(e_t)$, $\tilde\beta(e_t)$, $\tilde\gamma(e_t)$, $\tilde\theta(e_t)$, $\tilde\chi(e_t)$ are defined in (92-102) of arXiv:1607.05409v3 in terms of the Fourier decomposition of the multipolar moments, which are given in (65-70) and (A1-A8) of arXiv:1607.05409v3 [note that there is a typo in (A8), which should acquire a global minus sign]. Another equivalent formulation of the Fourier decomposition of the multipolar moments at Newtonian order is given by (A3-A5) [note however the typo in (A5a)].
 
 We introduce yet another enhancement defined in (4.15), (4.28), and (4.40) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1):
