@@ -30,7 +30,7 @@ This result was obtained:
 * at 4.5PN in
     * (6.10) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
     * (19) of [arXiv:2407.00366v2](https://arxiv.org/abs/2407.00366v2)
-    * (6.5) of [arXiv:2504.13245v2](https://arxiv.org/abs/2504.13245v2) has a typo: $-32/15$ should be $576/5$
+    * (6.5) of [arXiv:2504.13245v2](https://arxiv.org/abs/2504.13245v2)
 
 ## Endorsers
 
