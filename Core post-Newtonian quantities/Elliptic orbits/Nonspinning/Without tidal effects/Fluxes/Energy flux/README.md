@@ -29,19 +29,19 @@ We also introduce the following *enhancement functions* defined in (6.1) of [arX
 
 where $e$ is a dummy (eccentricity-like) variable. The intermediate enhancement functions $\varphi(e_t)$, $\alpha(e_t)$, $\beta(e_t)$, $\gamma(e_t)$, $\theta(e_t)$, $\chi(e_t)$ are defined in (92-102) of arXiv:1607.05409v3 in terms of the Fourier decomposition of the multipolar moments, which are given in (65-70) and (A1-A8) of arXiv:1607.05409v3 [note that there is a typo in (A8), which should acquire a global minus sign]. Another equivalent formulation of the Fourier decomposition of the multipolar moments at Newtonian order is given by (A3-A5) [note however the typo in (A5a)].
 
-We introduce yet another enhancement defined in (4.15), (4.28), and (4.40) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1):
+We introduce yet another enhancement function defined in (4.15), (4.28), and (4.40) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1):
 * ``\[Lambda]0[e]`` corresponds to $\lambda_0(e)$
 
-The derivatives of the various enhancement functions with respect to $e$ are denoted with an apostrophe: ``\[CurlyPhi]'[e]``, ``\[Psi]'[e]``, ``\[Zeta]'[e]``, ``\[Kappa]'[e]`` and ``\[Lambda]0'[e]``.
+The derivatives of the various enhancement functions with respect to $e$ are denoted with an apostrophe: ``\[CurlyPhi]'[e]``, ``\[Psi]'[e]``, ``\[Zeta]'[e]``, ``\[Kappa]'[e]``, and ``\[Lambda]0'[e]``.
 
 The *(modified) harmonic* time-eccentricity is expressed in terms of energy and angular momentum at 3PN in (25d); this translates to $e_t(\varepsilon,j)$ at 3PN as given in ``et.txt``.
 
 It is common to perform the small eccentricity ($e \ll 1$) expansion  of the enhancement functions. These are given by the following files:
-* ``varphi_expanded.txt`` corresponds to  the expansion of $\varphi(e)$ up to $\mathcal{O}(e^6)$, see (7.1a) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) or (B7a) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
-* ``psi_expanded.txt`` corresponds to  the expansion of $\psi(e)$ up to $\mathcal{O}(e^6)$, see (7.1b) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) or (B7c) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
-* ``zeta_expanded.txt`` corresponds to  the expansion of $\zeta(e)$ up to $\mathcal{O}(e^6)$, see (7.1c) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) or (B7g) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
-* ``kappa_expanded.txt`` corresponds to  the expansion of $\kappa(e)$ up to $\mathcal{O}(e^6)$, see (7.1d) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) or (B7e) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
-* ``lambda_0.txt`` corresponds to  the expansion of $\lambda_0(e)$ up to $\mathcal{O}(e^8)$, see (4.41) and (4.43) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
+* ``varphi_expanded.txt`` corresponds to  the expansion of $\varphi(e)$ up to $\mathcal{O}(e^6)$
+* ``psi_expanded.txt`` corresponds to  the expansion of $\psi(e)$ up to $\mathcal{O}(e^6)$
+* ``zeta_expanded.txt`` corresponds to  the expansion of $\zeta(e)$ up to $\mathcal{O}(e^6)$
+* ``kappa_expanded.txt`` corresponds to  the expansion of $\kappa(e)$ up to $\mathcal{O}(e^6)$
+* ``lambda_0.txt`` corresponds to  the expansion of $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
 
 ## Sources
 
@@ -53,6 +53,30 @@ This result was obtained:
         * (8.2a) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
     * in terms of $(\varepsilon,j)$ in
         * (8.1a) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
+
+The small eccentricity expansions of the enhancement functions are given:
+* for $\varphi(e)$
+    * up to $\mathcal{O}(e^6)$ in
+        * (7.1a) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2)
+        * (B7a) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
+* for $\psi(e)$
+    * up to $\mathcal{O}(e^6)$ in
+        * (7.1b) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
+        * (B7c) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
+* for $\zeta(e)$
+    * up to $\mathcal{O}(e^6)$ in
+        * (7.1c) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
+        * (B7g) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
+* for $\kappa(e)$
+    * up to $\mathcal{O}(e^6)$ in
+        * (7.1d) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
+        * (B7e) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
+* for $\lambda_0(e)$
+    * up to $\mathcal{O}(e^8)$ in
+        * (4.41) and (4.43) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
+
+
+
 
 ## Endorsers
 
