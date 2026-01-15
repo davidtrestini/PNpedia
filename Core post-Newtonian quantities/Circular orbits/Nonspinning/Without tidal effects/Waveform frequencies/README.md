@@ -29,7 +29,8 @@ We use the following notations:
 This result was obtained:
 * at 4.5PN in
     * (6.10) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
-    * (19) of [arXiv:2407.00366](https://arxiv.org/pdf/2407.00366)
+    * (19) of [arXiv:2407.00366](https://arxiv.org/abs/2407.00366)
+    * (6.5) of [arXiv:2504.13245](https://arxiv.org/abs/2504.13245)
 
 ## Endorsers
 
