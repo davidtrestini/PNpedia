@@ -22,7 +22,7 @@ We use the following notations:
 * ``G`` is Newton's constant of gravitation
 * ``c`` is the speed of light
 * ``x`` is the dimensionless Blanchet parameter $x = \left(\frac{G m \omega}{c^3}\right)^{\frac{2}{3}}$, where $\omega$ is the dimensionful azimuthal frequency
-* ``\[Iota]`` is the dimensionless Blanchet parameter $\iota = \frac{3 x}{\omega/n-1}$, where $n$ is the dimensionful radial frequency* ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1+m_2)^2}$
+* ``\[Iota]`` is the dimensionless Blanchet parameter $\iota = \frac{3 x}{\omega/n-1}$, where $n$ is the dimensionful radial frequency ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1+m_2)^2}$
 * ``\[CurlyEpsilon]`` is the dimensionless energy parameter $\varepsilon = -\frac{2E}{m \nu c^2}$
 * ``j`` is the dimensionless angular momentum parameter $j = -\frac{2 J^2 E}{G^2 m^5 \nu^3}$
 * ``et`` is the time-eccentricity $e_t$ from the quasi-Keplerian parametrization **in modified harmonic coordinates**
