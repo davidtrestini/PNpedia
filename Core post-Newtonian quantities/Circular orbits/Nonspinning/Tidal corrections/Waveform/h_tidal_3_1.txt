@@ -1,0 +1,21 @@
+x^(13/2)*((-6*I)*Sqrt[(2*Pi)/35]*\[Mu]t2m*\[Nu] + 
+   (6*I)*Sqrt[(2*Pi)/35]*\[Delta]*\[Mu]t2p*\[Nu]) + 
+ x^(15/2)*(8*Sqrt[Pi/5]*\[Mu]t2m*\[Nu]*((I/3)*Sqrt[2/7] - 
+     ((8*I)/3)*Sqrt[2/7]*\[Nu]) + 8*Sqrt[Pi/5]*\[Mu]t2p*\[Nu]*
+    (((I/6)*\[Delta])/Sqrt[14] - (((65*I)/12)*\[Delta]*\[Nu])/Sqrt[14]) - 
+   (36*I)*Sqrt[(2*Pi)/35]*\[Nu]*\[Sigma]t2m + (68*I)*Sqrt[(2*Pi)/35]*\[Delta]*
+    \[Nu]*\[Sigma]t2p) + x^(17/2)*(I*Sqrt[(10*Pi)/7]*\[Mu]t3m + 
+   8*Sqrt[Pi/5]*\[Mu]t3p*((5*I)*Sqrt[2/7]*\[Delta] + 
+     (((5*I)/4)*\[Delta])/(Sqrt[14]*\[Nu]))*\[Nu] + 
+   8*Sqrt[Pi/5]*\[Mu]t2m*\[Nu]*(((-923*I)/1848)/Sqrt[14] - 
+     (((354367*I)/11088)*\[Nu])/Sqrt[14] + ((551*I)/33)*Sqrt[2/7]*\[Nu]^2) + 
+   8*Sqrt[Pi/5]*\[Mu]t2p*\[Nu]*((((43753*I)/5544)*\[Delta])/Sqrt[14] - 
+     (((14347*I)/1232)*\[Delta]*\[Nu])/Sqrt[14] + 
+     (((199*I)/44)*\[Delta]*\[Nu]^2)/Sqrt[14]) + 
+   8*Sqrt[Pi/5]*\[Nu]*(((158*I)/27)*Sqrt[2/7] - (((691*I)/9)*\[Nu])/Sqrt[14])*
+    \[Sigma]t2m + 8*Sqrt[Pi/5]*\[Nu]*(((286*I)/27)*Sqrt[2/7]*\[Delta] - 
+     ((263*I)/27)*Sqrt[7/2]*\[Delta]*\[Nu])*\[Sigma]t2p) + 
+ x^8*(8*Sqrt[Pi/5]*\[Mu]t2m*\[Nu]*((-3*Sqrt[7/2])/10 - 
+     (((3*I)/2)*Pi)/Sqrt[14] - (3*Log[2])/Sqrt[14]) + 
+   8*Sqrt[Pi/5]*\[Mu]t2p*\[Nu]*((3*Sqrt[7/2]*\[Delta])/10 + 
+     (((3*I)/2)*Pi*\[Delta])/Sqrt[14] + (3*\[Delta]*Log[2])/Sqrt[14]))
