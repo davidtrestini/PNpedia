@@ -4,7 +4,7 @@ We decompose flux of energy at infinity as follows:
 
 $$\mathcal{F} = \mathcal{F}^{\text{non-tidal}} + \mathcal{F}^{\text{tidal}}$$.
 
-The flux  $\mathcal{F}^{\text{tidal}}$ (given in ``fluxtidal.txt``) is expressed in terms of the dimensionless waveform frequency $x$.
+The flux  $\mathcal{F}^{\text{tidal}}$ (given in ``flux_tidal_infinity.txt``) is expressed in terms of the dimensionless waveform frequency $x$.
 
 The result is given at the $\text{N}^{2.5}\text{LO}$ accuracy, that is at relative 2.5PN order beyond the leading tidal term.
 
