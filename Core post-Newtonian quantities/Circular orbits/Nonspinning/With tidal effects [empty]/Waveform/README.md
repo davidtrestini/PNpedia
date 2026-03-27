@@ -14,7 +14,7 @@ $$\psi = \psi^{\text{non-tidal}} + \psi^{\text{tidal}} = \phi^{\text{non-tidal}}
 
 where $\mathcal{M} = m + \frac{E}{c^2}$ is the ADM mass, and $E=E^{\text{non-tidal}} + E^{\text{tidal}}$ the binding energy.
 
-The orbital phase $\phi^{\text{tidal}}$ (given in ``orbitalphasetidal.txt``) and non-vanishing amplitudes $H^{\text{tidal}}\_{\ell m}$ (given in ``Htidal_2_2.txt``,``Htidal_2_1.txt``, etc.) are expressed in terms of the dimensionless waveform frequency $x$. The $H^{\text{tidal}}\_{\ell m}$ modes for $m\<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $H_{\ell (-m)} = (-1)^\ell (H_{\ell m})^*$, where the star denotes a complex conjugate.
+The orbital phase $\phi^{\text{tidal}}$ (given in ``orbital_phase_tidal.txt``) and non-vanishing amplitudes $H^{\text{tidal}}\_{\ell m}$ (given in ``Htidal_2_2.txt``,``Htidal_2_1.txt``, etc.) are expressed in terms of the dimensionless waveform frequency $x$. The $H^{\text{tidal}}\_{\ell m}$ modes for $m\<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $H_{\ell (-m)} = (-1)^\ell (H_{\ell m})^*$, where the star denotes a complex conjugate.
 
 Note that we provide the result in the tidal sector for the orbital phase $\phi^{\text{tidal}}$, and not the phase $\psi^{\text{tidal}}$, to match the result published in [arXiv:2412.14249v2](https://arxiv.org/abs/2412.14249v2). 
 
