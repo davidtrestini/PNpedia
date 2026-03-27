@@ -2,11 +2,11 @@
 
 We decompose the waveform into $(\ell,m)$ modes as follows:
 
-$$h = h_+ - i h_- = \frac{1}{R} \sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell} h_{\ell m} e^{- i m \psi}\ \_{-2}Y\_{\ell m}(\theta,\phi) \.$$
+$$h = h_+ - i h_- = \frac{G m}{c^2 R} \sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell} h_{\ell m} e^{- i m \psi}\ \_{-2}Y\_{\ell m}(\theta,\phi) \.$$
 
 We decompose the amplitudes as
 
-$$h\_{\ell m} = h^{\text{non-tidal}}\_{\ell m} + h^{\text{tidal}}\_{\ell m} \quad \text{with} \quad h^{\text{tidal}}\_{\ell m} = \frac{8 G m \nu x}{c^2} \sqrt{\frac{\pi}{5}} H^{\text{tidal}}\_{\ell m} \.$$ 
+$$h\_{\ell m} = h^{\text{non-tidal}}\_{\ell m} + h^{\text{tidal}}\_{\ell m} \.$$ 
 
 We also decompose the phase as 
 
@@ -14,7 +14,7 @@ $$\psi = \psi^{\text{non-tidal}} + \psi^{\text{tidal}} = \phi^{\text{non-tidal}}
 
 where $\mathcal{M} = m + \frac{E}{c^2}$ is the ADM mass, and $E=E^{\text{non-tidal}} + E^{\text{tidal}}$ the binding energy.
 
-The orbital phase $\phi^{\text{tidal}}$ (given in ``orbital_phase_tidal.txt``) and non-vanishing amplitudes $H^{\text{tidal}}\_{\ell m}$ (given in ``Htidal_2_2.txt``,``Htidal_2_1.txt``, etc.) are expressed in terms of the dimensionless waveform frequency $x$. The $H^{\text{tidal}}\_{\ell m}$ modes for $m\<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $H_{\ell (-m)} = (-1)^\ell (H_{\ell m})^*$, where the star denotes a complex conjugate.
+The orbital phase $\phi^{\text{tidal}}$ (given in ``orbital_phase_tidal.txt``) and non-vanishing amplitudes $h^{\text{tidal}}\_{\ell m}$ (given in ``h_tidal_2_2.txt``,``h_tidal_2_1.txt``, etc.) are expressed in terms of the dimensionless waveform frequency $x$. The $h^{\text{tidal}}\_{\ell m}$ modes for $m\<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $h_{\ell (-m)} = (-1)^\ell (h_{\ell m})^*$, where the star denotes a complex conjugate.
 
 Note that we provide the result in the tidal sector for the orbital phase $\phi^{\text{tidal}}$, and not the phase $\psi^{\text{tidal}}$, to match the result published in [arXiv:2412.14249v2](https://arxiv.org/abs/2412.14249v2). 
 
@@ -53,7 +53,7 @@ We use the following notations:
 
 ## Sources
 
-The non vanishing $H_{\ell m}$ modes (for $m>0$) were obtained:
+The non vanishing $h^{\text{tidal}}\_{\ell m}$ modes (for $m>0$) were obtained:
 * at the $\text{N}^{2.5}\text{LO}$ in:
 	* (4.13) of [arXiv:2412.14249v2](https://arxiv.org/abs/2412.14249v2)
   * the ancillary file ``Amplitude_modes_adiabatic_tides_2.5PN.m`` of [arXiv:2412.14249v2](https://arxiv.org/abs/2412.14249v2)  
