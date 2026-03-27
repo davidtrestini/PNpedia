@@ -1,0 +1,12 @@
+x^7*((-16*Sqrt[Pi]*\[Delta]*\[Mu]t2m*\[Nu])/7 + 8*Sqrt[Pi/5]*\[Mu]t2p*\[Nu]*
+    ((2*Sqrt[5])/3 - (8*Sqrt[5]*\[Nu])/7)) + 
+ x^(17/2)*(8*Sqrt[Pi/5]*(((8*I)*\[Delta])/Sqrt[5] - 
+     (4*Sqrt[5]*Pi*\[Delta])/7)*\[Mu]t2m*\[Nu] + 8*Sqrt[Pi/5]*\[Mu]t2p*\[Nu]*
+    ((-12*I)/Sqrt[5] + (4*Sqrt[5]*Pi)/3 + ((32*I)*\[Nu])/Sqrt[5] - 
+     (16*Sqrt[5]*Pi*\[Nu])/7)) + 
+ x^8*(8*Sqrt[Pi/5]*\[Mu]t2m*\[Nu]*((7477*\[Delta])/(1386*Sqrt[5]) - 
+     (72*\[Delta]*\[Nu])/(11*Sqrt[5])) + 8*Sqrt[Pi/5]*\[Mu]t2p*\[Nu]*
+    (-5609/(1386*Sqrt[5]) + (499*\[Nu])/(99*Sqrt[5]) + 
+     (601*Sqrt[5]*\[Nu]^2)/231) - (768*Sqrt[Pi]*\[Delta]*\[Nu]*\[Sigma]t2m)/
+    35 + 8*Sqrt[Pi/5]*\[Nu]*(1504/(63*Sqrt[5]) - (1216*\[Nu])/(21*Sqrt[5]))*
+    \[Sigma]t2p)
