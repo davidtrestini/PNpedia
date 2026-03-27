@@ -2,7 +2,7 @@
 
 We decompose flux of energy at infinity as follows:
 
-$$\mathcal{F} = \mathcal{F}^{\text{non-tidal}} + \mathcal{F}^{\text{tidal}}$$.
+$$\mathcal{F} = \mathcal{F}^{\text{non-tidal}} + \mathcal{F}^{\text{tidal}} \.$$
 
 The flux  $\mathcal{F}^{\text{tidal}}$ (given in ``flux_tidal_infinity.txt``) is expressed in terms of the dimensionless waveform frequency $x$.
 
