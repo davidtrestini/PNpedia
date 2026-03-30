@@ -24,18 +24,18 @@ We use the following notations:
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{m^2}$
 * ``\[Delta]`` is the relative mass difference, $\delta = \frac{m_1-m_2}{m}$ such that $\delta^2=1-4\nu$
 * we introduce the mass-type quadrupolar tidal deformabilities of the bodies, $\mu^{(2)}\_1$ and $\mu^{(2)}\_2$, where $\mu^{(2)}\_{1,2} = 0$ for stationary black holes.
-* we define $\mu^{(2)}_+ = 1/2\left(\frac{m_2}{m_1} \mu^{(2)}_1 + \frac{m_1}{m_2} \mu^{(2)}_2\right)$
-* we define $\mu^{(2)}_- = 1/2\left(\frac{m_2}{m_1} \mu^{(2)}_1 - \frac{m_1}{m_2} \mu^{(2)}_2\right)$
+* we define $\mu^{(2)}_+ = \frac{1}{2}\left(\frac{m_2}{m_1} \mu^{(2)}_1 + \frac{m_1}{m_2} \mu^{(2)}_2\right)$
+* we define $\mu^{(2)}_- = \frac{1}{2}\left(\frac{m_2}{m_1} \mu^{(2)}_1 - \frac{m_1}{m_2} \mu^{(2)}_2\right)$
 * ``\[Mu]t2p`` is defined as $\tilde{\mu}^{(2)}\_+ = \left(\frac{c^2}{G m}\right)^5 G \mu^{(2)}\_+$
 * ``\[Mu]t2m`` is defined as $\tilde{\mu}^{(2)}\_- = \left(\frac{c^2}{G m}\right)^5 G \mu^{(2)}\_-$
 * we introduce the current-type quadrupolar tidal deformabilities of the bodies, $\sigma^{(2)}\_1$ and $\sigma^{(2)}\_2$, where $\sigma^{(2)}\_{1,2} = 0$ for stationary black holes.
-* we define $\sigma^{(2)}_+ = 1/2\left(\frac{m_2}{m_1} \sigma^{(2)}_1 + \frac{m_1}{m_2} \sigma^{(2)}_2\right)$
-* we define $\sigma^{(2)}_- = 1/2\left(\frac{m_2}{m_1} \sigma^{(2)}_1 - \frac{m_1}{m_2} \sigma^{(2)}_2\right)$
+* we define $\sigma^{(2)}_+ = \frac{1}{2}\left(\frac{m_2}{m_1} \sigma^{(2)}_1 + \frac{m_1}{m_2} \sigma^{(2)}_2\right)$
+* we define $\sigma^{(2)}_- = \frac{1}{2}\left(\frac{m_2}{m_1} \sigma^{(2)}_1 - \frac{m_1}{m_2} \sigma^{(2)}_2\right)$
 * ``\[Sigma]t2p`` is defined as $\tilde{\sigma}^{(2)}\_+ = \left(\frac{c^2}{G m}\right)^5 G \sigma^{(2)}\_+$
 * ``\[Sigma]t2m`` is defined as $\tilde{\sigma}^{(2)}\_- = \left(\frac{c^2}{G m}\right)^5 G \sigma^{(2)}\_-$
 * we introduce the mass-type octupolar tidal deformabilities of the bodies, $\mu^{(3)}\_1$ and $\mu^{(3)}\_2$, where $\mu^{(3)}\_{1,2} = 0$ for stationary black holes.
-* we define $\mu^{(3)}_+= 1/2\left(\frac{m_2}{m_1} \mu^{(3)}_1 + \frac{m_1}{m_2} \mu^{(3)}_2\right)$
-* we define $\mu^{(3)}_- = 1/2\left(\frac{m_2}{m_1} \mu^{(3)}_1 - \frac{m_1}{m_2} \mu^{(3)}_2\right)$
+* we define $\mu^{(3)}_+= \frac{1}{2}\left(\frac{m_2}{m_1} \mu^{(3)}_1 + \frac{m_1}{m_2} \mu^{(3)}_2\right)$
+* we define $\mu^{(3)}_- = \frac{1}{2}\left(\frac{m_2}{m_1} \mu^{(3)}_1 - \frac{m_1}{m_2} \mu^{(3)}_2\right)$
 * ``\[Mu]t3p`` is defined as $\tilde{\mu}^{(3)}\_+ = \left(\frac{c^2}{G m}\right)^7 G \mu^{(3)}\_+$
 * ``\[Mu]t3m`` is defined as $\tilde{\mu}^{(3)}\_- = \left(\frac{c^2}{G m}\right)^7 G \mu^{(3)}\_-$
 
