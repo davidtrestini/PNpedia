@@ -58,25 +58,25 @@ The small eccentricity expansions of the enhancement functions are given:
     * up to $\mathcal{O}(e^6)$ in
         * (7.2a) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2)
         * (B7b) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
-    * up to $\mathcal{O}(e^10)$ in
+    * up to $\mathcal{O}(e^{10})$ in
         * (A1b) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018)
 * for $\tilde\psi(e)$
     * up to $\mathcal{O}(e^6)$ in
         * (7.2b) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
         * (B7d) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
-    * up to $\mathcal{O}(e^10)$ in
+    * up to $\mathcal{O}(e^{10})$ in
         * (A1d) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018)
 * for $\tilde\zeta(e)$
     * up to $\mathcal{O}(e^6)$ in
         * (7.2c) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
         * (B7h) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
-    * up to $\mathcal{O}(e^10)$ in
+    * up to $\mathcal{O}(e^{10})$ in
         * (A1h) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018)
 * for $\tilde\kappa(e)$
     * up to $\mathcal{O}(e^6)$ in
         * (7.2d) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
         * (B7f) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
-    * up to $\mathcal{O}(e^10)$ in
+    * up to $\mathcal{O}(e^{10})$ in
         * (A1f) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018)
 * for $\lambda_0(e)$
     * up to $\mathcal{O}(e^8)$ in
@@ -85,4 +85,5 @@ The small eccentricity expansions of the enhancement functions are given:
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
+
 [M Laxman](https://github.com/mlaxmanvmani)[[0009-0000-2977-303X](https://orcid.org/0009-0000-2977-303X)] I endorse the results related to enhancement functions for angular momentum flux up to e^6 and e^10.
