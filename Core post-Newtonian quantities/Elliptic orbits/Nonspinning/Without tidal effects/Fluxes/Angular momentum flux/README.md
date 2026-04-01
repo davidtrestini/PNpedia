@@ -86,4 +86,4 @@ The small eccentricity expansions of the enhancement functions are given:
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
 
-[M Laxman](https://github.com/mlaxmanvmani)[[0009-0000-2977-303X](https://orcid.org/0009-0000-2977-303X)] I endorse small-eccentricity expansions (up to $e^10$) of $\tilde\varphi(e)$, $\tilde\psi(e)$, $\tilde\zeta(e)$, and $\tilde\kappa(e)$.
+[M Laxman](https://github.com/mlaxmanvmani)[[0009-0000-2977-303X](https://orcid.org/0009-0000-2977-303X)] I endorse small-eccentricity expansions (up to $e^{10}$) of $\tilde\varphi(e)$, $\tilde\psi(e)$, $\tilde\zeta(e)$, and $\tilde\kappa(e)$.
