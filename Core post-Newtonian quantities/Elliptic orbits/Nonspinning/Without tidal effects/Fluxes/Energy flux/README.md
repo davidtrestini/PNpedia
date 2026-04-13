@@ -54,18 +54,26 @@ This result was obtained:
 
 The small eccentricity expansions of the enhancement functions are given:
 * for $\varphi(e)$
+    * up to $\mathcal{O}(e^{10})$ in
+        * (A1a) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018v1)
     * up to $\mathcal{O}(e^6)$ in
         * (7.1a) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2)
         * (B7a) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
 * for $\psi(e)$
+    * up to $\mathcal{O}(e^{10})$ in
+        * (A1c) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018v1)
     * up to $\mathcal{O}(e^6)$ in
         * (7.1b) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
         * (B7c) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
 * for $\zeta(e)$
+    * up to $\mathcal{O}(e^{10})$ in
+        * (A1g) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018v1)
     * up to $\mathcal{O}(e^6)$ in
         * (7.1c) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
         * (B7g) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
 * for $\kappa(e)$
+    * up to $\mathcal{O}(e^{10})$ in
+        * (A1e) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018v1)
     * up to $\mathcal{O}(e^6)$ in
         * (7.1d) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
         * (B7e) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
@@ -79,3 +87,5 @@ The small eccentricity expansions of the enhancement functions are given:
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
+
+[M Laxman](https://github.com/mlaxmanvmani)[[0009-0000-2977-303X](https://orcid.org/0009-0000-2977-303X)] I endorse small-eccentricity expansions (up to $e^{10}$) of $\varphi(e)$, $\psi(e)$, $\zeta(e)$, and $\kappa(e)$.

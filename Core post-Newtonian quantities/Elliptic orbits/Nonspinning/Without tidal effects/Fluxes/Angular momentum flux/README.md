@@ -55,18 +55,26 @@ Note that the treatment of the memory contribution of [arXiv:0711.0302v2](https:
 
 The small eccentricity expansions of the enhancement functions are given:
 * for $\tilde\varphi(e)$
+    * up to $\mathcal{O}(e^{10})$ in
+        * (A1b) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018v1)
     * up to $\mathcal{O}(e^6)$ in
         * (7.2a) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2)
         * (B7b) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
 * for $\tilde\psi(e)$
+    * up to $\mathcal{O}(e^{10})$ in
+        * (A1d) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018v1)
     * up to $\mathcal{O}(e^6)$ in
         * (7.2b) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
         * (B7d) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
 * for $\tilde\zeta(e)$
+    * up to $\mathcal{O}(e^{10})$ in
+        * (A1h) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018v1)
     * up to $\mathcal{O}(e^6)$ in
         * (7.2c) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
         * (B7h) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
 * for $\tilde\kappa(e)$
+    * up to $\mathcal{O}(e^{10})$ in
+        * (A1f) of [arXiv:2602.21018v1](https://arxiv.org/abs/2602.21018v1)
     * up to $\mathcal{O}(e^6)$ in
         * (7.2d) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) 
         * (B7f) of [arXiv:1906.06263v2](https://arxiv.org/abs/1906.06263v2)
@@ -77,3 +85,5 @@ The small eccentricity expansions of the enhancement functions are given:
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
+
+[M Laxman](https://github.com/mlaxmanvmani)[[0009-0000-2977-303X](https://orcid.org/0009-0000-2977-303X)] I endorse small-eccentricity expansions (up to $e^{10}$) of $\tilde\varphi(e)$, $\tilde\psi(e)$, $\tilde\zeta(e)$, and $\tilde\kappa(e)$.
