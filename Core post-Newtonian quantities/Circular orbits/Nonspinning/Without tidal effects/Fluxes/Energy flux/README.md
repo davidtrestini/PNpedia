@@ -39,3 +39,24 @@ This result was obtained:
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
 
 [Loïc Honet](https://github.com/honetloic) [[0009-0007-2863-6085](https://orcid.org/0009-0007-2863-6085)]
+
+## Comparison with DIRE
+
+The expressions above are given in terms of the gauge-invariant orbital frequency 
+parameter x = (G m ω / c^3)^(2/3). The same energy flux for circular orbits was computed 
+to 2PN order using the DIRE (Direct Integration of the Relaxed Einstein Equations) 
+formalism, where the result is expressed in terms of the coordinate-dependent 
+post-Newtonian expansion parameter G m / (r c^2), with r the orbital separation in 
+harmonic coordinates. The two results describe the same physical energy flux and agree 
+once both are expressed in terms of the same variable.
+
+The explicit 2PN expression in DIRE conventions is given in:
+
+* (Eq. (3)) of C. M. Will, "Gravitational Waves from Inspiralling Compact Binaries: 
+  A Post-Newtonian Approach" (1997 review)
+
+The DIRE formalism itself is developed in:
+
+* C. M. Will and A. G. Wiseman, Phys. Rev. D 54, 4813–4848 (1996)
+
+
