@@ -51,4 +51,4 @@ This result was obtained:
 ## Endorsers
 
 [Eve Dones](https://github.com/evedones) [[0009-0003-0239-4584](https://orcid.org/0009-0003-0239-4584)]
-[Josh Mathews](https://github.com/joshbmat) [[0000-0002-5477-8470](https://orcid.org/0000-0002-5477-8470)]
+[Josh Mathews](https://github.com/joshbmat) [[0000-0002-5477-8470](https://orcid.org/0000-0002-5477-8470)] - Checked the test-body limit (leading terms in $\nu$) of the quadrupolar flux contributions are in agreement with the analytic results for (121) of [2606.28937](https://arxiv.org/abs/2606.28937).

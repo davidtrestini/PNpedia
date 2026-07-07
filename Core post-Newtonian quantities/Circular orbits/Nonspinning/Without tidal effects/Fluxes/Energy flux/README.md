@@ -40,4 +40,4 @@ This result was obtained:
 
 [Loïc Honet](https://github.com/honetloic) [[0009-0007-2863-6085](https://orcid.org/0009-0007-2863-6085)]
 
-[Josh Mathews](https://github.com/joshbmat) [[0000-0002-5477-8470](https://orcid.org/0000-0002-5477-8470)]
+[Josh Mathews](https://github.com/joshbmat) [[0000-0002-5477-8470](https://orcid.org/0000-0002-5477-8470)] - Checked the point particle limit (leading term in $\nu$ only) of the flux at infinty is in agreement with the analytic results of [1412.5689](https://arxiv.org/abs/1412.5689) via the BlackHolePerturbationToolkit's PostNewtonianSelfForce Package. 
