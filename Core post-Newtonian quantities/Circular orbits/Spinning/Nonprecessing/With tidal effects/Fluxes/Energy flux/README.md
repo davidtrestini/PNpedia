@@ -51,5 +51,7 @@ However, at 4PN, the quartic-in-spin term is unknown, so only the 3.5PN result i
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
+
 [Loïc Honet](https://github.com/honetloic) [[0009-0007-2863-6085](https://orcid.org/0009-0007-2863-6085)]
+
 [Josh Mathews](https://github.com/joshbmat) [[0000-0002-5477-8470](https://orcid.org/0000-0002-5477-8470)] - Checked the leading term in $\nu$ is in agreement with the analytic results of [1412.5689](https://arxiv.org/abs/1412.5689) via the BlackHolePerturbationToolkit's PostNewtonianSelfForce Package. Separately confirmed agreement of the leading in $\nu$ limits of the linear and quadratic $\chi_2$ and the the linear $\kappa_2$ terms against the analytic results of (119) and (120) in [2606.28937](https://arxiv.org/abs/2606.28937). The specialization of body 1 to a Kerr black hole required fixing $\kappa_1=1$ etc.
