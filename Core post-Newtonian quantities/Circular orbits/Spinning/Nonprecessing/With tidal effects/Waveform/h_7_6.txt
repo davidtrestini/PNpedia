@@ -1,1 +1,0 @@
-(648*Sqrt[(3*Pi)/715]*x^4*\[Nu]*(1 - 7*\[Nu] + 14*\[Nu]^2 - 7*\[Nu]^3 + Sqrt[x]*(4*s + 4*\[Delta]*\[Sigma] + \[Nu]*(-20*s - 16*\[Delta]*\[Sigma]) + \[Nu]^2*(20*s + 12*\[Delta]*\[Sigma]))))/35

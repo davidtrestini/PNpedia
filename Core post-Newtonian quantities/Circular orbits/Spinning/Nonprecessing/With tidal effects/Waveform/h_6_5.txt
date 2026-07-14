@@ -1,1 +1,0 @@
-((625*I)/63)*Sqrt[(5*Pi)/429]*x^(7/2)*\[Nu]*(\[Delta] - 4*\[Delta]*\[Nu] + 3*\[Delta]*\[Nu]^2 + x*((-149*\[Delta])/24 + (349*\[Delta]*\[Nu])/12 - (409*\[Delta]*\[Nu]^2)/12 + (29*\[Delta]*\[Nu]^3)/3) + Sqrt[x]*((7*s*\[Delta])/2 + \[Nu]*(-7*s*\[Delta] - (35*\[Sigma])/2) + (7*\[Sigma])/2 + (35*\[Nu]^2*\[Sigma])/2))

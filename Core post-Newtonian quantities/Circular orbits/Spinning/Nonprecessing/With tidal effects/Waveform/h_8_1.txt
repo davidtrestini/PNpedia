@@ -1,1 +1,0 @@
-(I/92664)*Sqrt[Pi/1190]*x^(9/2)*\[Nu]*(\[Delta] - 6*\[Delta]*\[Nu] + 10*\[Delta]*\[Nu]^2 - 4*\[Delta]*\[Nu]^3)
