@@ -9,14 +9,14 @@ The binding energy is decomposed as follows:
 * ``energy_S2.txt'' is the quadratic-in-spin contribution to the energy for two spinning black holes
 * ``energy_S3.txt'' is the cubic-in-spin contribution  to the energy for two spinning black holes
 * ``energy_S4.txt'' is the quartic-in-spin contribution  to the energy for two spinning black holes
-<>* ``energy_tidal.txt'' is the extra contribution due to tidal effects for nonspinning finite-size compact objects
-<>* ``energy_SID.txt'' is the extra contribution due spin-induced deformability effects for spinning finite-size compact objects
+* ``energy_tidal.txt'' is the extra contribution due to tidal effects for nonspinning finite-size compact objects
+* ``energy_SID.txt'' is the extra contribution due spin-induced deformability effects for spinning finite-size compact objects
 
 The result is given:
 * at 4.5PN for the nonspinning sector (in the case of black holes) --- notice that the 4.5PN coefficient is in fact vanishing
 * at 4PN the the linear, quadratic, cubic, and quartic in spin sectors (in the case of black holes) --- notice that the 4PN coefficient of the quartic-in-spin contribution is in fact vanishing
-<>* at $\text{N}^{2.5}\text{LO}$ for the nonspinning tidal sector (i.e, 2.5PN orders beyond the leading tidal contributions)
-<>* at 4PN for the spin-induced deformability effects
+* at $\text{N}^{2.5}\text{LO}$ for the nonspinning tidal sector (i.e, 2.5PN orders beyond the leading tidal contributions)
+* at 4PN for the spin-induced deformability effects
 
 ## Notations
 
