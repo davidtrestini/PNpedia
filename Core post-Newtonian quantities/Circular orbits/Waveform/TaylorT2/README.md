@@ -11,6 +11,7 @@ The waveform phase $\psi(x_\text{22})$ is given in the ``Phase'' folder and is  
 * ``phase_S1.txt'' is the linear-in-spin contribution to the phase of two spinning black holes
 * ``phase_S2.txt'' is the quadratic-in-spin contribution to the phase of two spinning black holes
 * ``phase_S3.txt'' is the cubic-in-spin contribution to the phase of two spinning black holes
+* ``phase_tidal.txt'' is the nonspinning tidal contribution to the phase of two compact objects
 
 The chirp $\dot{x}_{22}(x_\text{22})$ is given in the ``Chirp'' folder and is  decomposed as follows:
 * ``chirp_NS.txt'' is the phase of two nonspinning black holes
@@ -20,13 +21,11 @@ The chirp $\dot{x}_{22}(x_\text{22})$ is given in the ``Chirp'' folder and is  d
 
 The waveform amplitudes $h_{\ell m}$ are given in the ``Amplitudes'' folder. 
 Each mode is given in a subfolder ``h_l_m''. Within each of these folders:
- ``h_l_m_NS.txt'' is the amplitude for two nonspinning black holes
-* ``chirp_S1.txt'' is the linear-in-spin contribution to the amplitude for of two spinning black holes
-* ``chirp_S2.txt'' is the quadratic-in-spin contribution to the amplitude for of two spinning black holes
-* ``chirp_S3.txt'' is the cubic-in-spin contribution to the amplitude for of two spinning black hole
+* ``h_l_m_NS.txt'' are the amplitudes for two nonspinning black holes
+* ``h_l_m_tidal.txt'' are the nonspinning tidal contributions to the amplitude for two nonspinning compact objects
 The $h_{\ell m}$ modes for $m<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $h_{\ell (-m)} = (-1)^\ell (h_{\ell m})^*$, where the star denotes a complex conjugate.
 
-<>The time evolution of the waveform frequency is itself given ``chirp.txt``, in which $x$ is expressed in terms of the dimensionless time variable $\tau =  \frac{\nu c^3(t-t_0)}{5 G m}$. 
+The time evolution of the waveform frequency is itself given ``chirp.txt``, in which $x$ is expressed in terms of the dimensionless time variable $\tau =  \frac{\nu c^3(t-t_0)}{5 G m}$. 
 
 The expression for $h_{22}$ is given with 4PN accuracy. Expressions for the phase $\psi(x_{22})$, chirp $\dot{x}_{22}(x_{22})$ and the other $h_{lm}$ modes are presented with 3.5PN accuracy.
 
@@ -61,7 +60,9 @@ The phase $\psi(x_{22})$ was obtained:
         * in (6.20)-(6.21) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2) for the cubic-in-spin sector only
     * at 3.5PN
         * in (49) of [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2) 
-
+* in the tidal sector
+    * at the $\text{N}^{2.5}\text{LO}$ in:
+        * in (4.8) of [arXiv:2412.14249v2](https://arxiv.org/abs/2412.14249v2)
 The chirp $\dot{x}_{22}(x_{22})$ was obtained:
 * for nonspinning black holes:
     * at 4.5PN
@@ -91,8 +92,11 @@ The $h_{\ell m}(x_{22})$ modes were obtained:
             * the ancillary file ``modes_PNexp_full_35PN.dat.m`` of [arXiv:2210.15602v2](https://arxiv.org/abs/2210.15602v2)  
     * for the nonoscillatory ($m=0$) modes
         * in (50) and the Supplemental Material of [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2)
-
+* in the tidal sector
+    * at the $\text{N}^{2.5}\text{LO}$ in:
+	    * (4.13) of [arXiv:2412.14249v2](https://arxiv.org/abs/2412.14249v2) 
 
 ## Endorsers
 
-[David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
+[David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)] --- except tidal contributions
+[Eve Dones](https://github.com/evedones) [[0009-0003-0239-4584](https://orcid.org/0009-0003-0239-4584)] --- tidal contributions only

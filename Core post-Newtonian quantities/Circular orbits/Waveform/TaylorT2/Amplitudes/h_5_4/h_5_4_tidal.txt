@@ -1,0 +1,6 @@
+x^8*(8*Sqrt[Pi/5]*\[Mu]t2m*\[Nu]*((128*\[Delta])/Sqrt[165] - 
+    (128*\[Delta]*\[Nu])/Sqrt[165]) + 8*Sqrt[Pi/5]*\[Mu]t2p*\[Nu]*
+   (-256/Sqrt[165] + (1024*\[Nu])/Sqrt[165] - 128*Sqrt[5/33]*\[Nu]^2) + 
+  (8192*Sqrt[Pi/33]*\[Delta]*\[Nu]*\[Sigma]t2m)/15 + 
+  8*Sqrt[Pi/5]*\[Nu]*(-1024/(3*Sqrt[165]) + (2048*\[Nu])/(3*Sqrt[165]))*
+   \[Sigma]t2p)

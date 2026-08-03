@@ -71,6 +71,8 @@ This result was obtained:
             * (7.1a) of [arXiv:2504.13245](https://arxiv.org/abs/2504.13245v2)
     * at 3.5PN in
         * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/arXiv:2410.23950v2)
+    * at 3PN in
+        * (4.11) of [arXiv:2406.03457v2](https://arxiv.org/abs/arXiv:2406.03457v2)
 * in the spinning sector
     * in the spin-orbit sector in
         * (13) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
