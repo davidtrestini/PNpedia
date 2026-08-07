@@ -14,6 +14,7 @@ The flux of angular momentum through future null infinity decomposed as follows:
 The result is given:
 * at 4.5PN for the nonspinning sector (in the case of black holes)
 * at 4PN the the linear, quadratic, cubic, and quartic in spin sectors (in the case of black holes)
+* at $\text{N}^{2.5}\text{LO}$ for the nonspinning tidal sector (i.e, 2.5PN orders beyond the leading tidal contributions)
 * at 3.5PN for the spin-induced deformability effects
 
 ## Notations
