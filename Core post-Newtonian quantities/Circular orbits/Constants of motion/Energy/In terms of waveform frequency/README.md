@@ -15,7 +15,7 @@ The binding energy is decomposed as follows:
 The result is given:
 * at 4.5PN for the nonspinning sector (in the case of black holes) --- notice that the 4.5PN coefficient is in fact vanishing
 * at 4PN the the linear, quadratic, cubic, and quartic in spin sectors (in the case of black holes) --- notice that the 4PN coefficient of the quartic-in-spin contribution is in fact vanishing
-* at $\text{N}^{2.5}\text{LO}$ for the nonspinning tidal sector (i.e, 2.5PN orders beyond the leading tidal contributions)
+* at $\text{N}^{2}\text{LO}$ for the nonspinning tidal sector (i.e, 2PN orders beyond the leading tidal contributions)
 * at 4PN for the spin-induced deformability effects
 
 ## Notations
