@@ -80,6 +80,9 @@ This result was obtained:
         * (5.18) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
     * in the quartic-in-spin sector (for black holes only) in
         * (62) of [arXiv:1712.08603v2](https://arxiv.org/pdf/1712.08603v2) [the 4PN contribution is vanishing]
+* in the tidal sector:
+    * at the $\text{N}^{2}\text{LO}$ in
+        * (6.5b) of [arXiv:2005.13367v4](https://arxiv.org/abs/1912.01920)
 
 ## Endorsers
 
