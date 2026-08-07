@@ -64,7 +64,8 @@ The phase $\psi(x_{22})$ was obtained:
 * in the tidal sector
     * at the $\text{N}^{2.5}\text{LO}$ in:
         * in (4.8) of [arXiv:2412.14249v2](https://arxiv.org/abs/2412.14249v2)
-The chirp $\dot{x}_{22}(x_{22})$ was obtained:
+
+The chirp $\dot{x}\_{22}(x\_{22})$ was obtained:
 * for nonspinning black holes:
     * at 4.5PN
         * by deduction from (8) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4) [ignoring horizon flux contributions]
