@@ -28,7 +28,7 @@ We use the following notations:
 * ``l0`` is an arbitrary length associated with dimensional regularization
 
 We have also introduced the functions defining the hereditary contributions :
-* $I_{\text{4PN}}$, such that the 4PN contribution to the equations of motion reads $a^i_{\text{4PN}}=\frac{4 G (m1+m2)}{5 c^8} y_1^j \int_0^{+\infty} d\tau ~ \ln\left(\frac{c \tau}{2 b0}\right) \Big[ I_{\text{4PN}}\[i,j\](t-\tau)+I_{\text{4PN}}\[i,j\](t+\tau)\Big]$, where $I_{\text{4PN}}\[i,j\]=\frac{d^7}{dt^7}(m_1 y_1^i y_1^j + m_2 y_2^i y_2^j -\frac{1}{3} \delta^{ij}(m_2 y_{2}^k y_{2}^k + m_{1} y_{1}^k y_{1}^k))$ is the time derivative of the quadrupole at Newtonian order with $\delta^{ij}$ the Kronecker delta.
+* $I_{\text{4PN}}$, such that the 4PN contribution to the equations of motion reads $a^i_{\text{4PN}}=\frac{4 G^2 (m1+m2)}{5 c^8} y_1^j \int_0^{+\infty} d\tau ~ \ln\left(\frac{c \tau}{2 b0}\right) \Big[ I_{\text{4PN}}\[i,j\](t-\tau)+I_{\text{4PN}}\[i,j\](t+\tau)\Big]$, where $I_{\text{4PN}}\[i,j\]=\frac{d^7}{dt^7}(m_1 y_1^i y_1^j + m_2 y_2^i y_2^j -\frac{1}{3} \delta^{ij}(m_2 y_{2}^k y_{2}^k + m_{1} y_{1}^k y_{1}^k))$ is the time derivative of the quadrupole at Newtonian order with $\delta^{ij}$ the Kronecker delta.
 * $I_{\text{4.5PN}}$, such that the hereditary 4.5PN contribution to the equations of motion reads $a^i_{\text{4.5PN}} = \frac{2 G }{c^9} \int_0^{+\infty} d\tau ~ \ln\left(\frac{c \tau \sqrt{\pi}}{l0}\right) \Big[I_{\text{4.5PN}}\[i\](t-\tau)-I_{\text{4.5PN}}\[i\](t+\tau)\Big]$, where $I_{\text{4.5PN}}\[i\]=\frac{d^4}{dt^4}(\frac{G^3 n_{12}^{i}}{r_{12}}(m_2^3 m_1 - m_1^3 m_2))$
 
 ## Sources
