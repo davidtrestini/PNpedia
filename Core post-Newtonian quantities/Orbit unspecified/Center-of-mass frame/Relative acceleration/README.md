@@ -31,7 +31,7 @@ We use the following notations:
 
 
 We have also introduced the functions defining the hereditary contributions :
-* $I_{\text{CM 4PN}}$, such that the 4PN contribution to the relative acceleration in the center of mass frame reads $a^i_{\text{CM 4PN}}=-\frac{4 G m r}{5 c^8} n^j \int_0^{+\infty} d\tau ~ \ln\left(\frac{c \tau}{2 b0}\right) \Big[I_{\text{CM 4PN}}\[i,j\](t-\tau)+I_{\text{CM 4PN}}\[i,j\](t+\tau)\Big]$, where $I_{\text{CM 4PN}}\[i,j\]=\frac{d^7}{dt^7}(m \nu (x^i x^j -\frac{1}{3} \delta^{ij}x^k x^k))$ is the time derivative of the quadrupole at Newtonian order in the center of mass frame with $\delta^{ij}$ being the Kronecker delta.
+* $I_{\text{CM 4PN}}$, such that the 4PN contribution to the relative acceleration in the center of mass frame reads $a^i_{\text{CM 4PN}}=-\frac{4 G^2 m r}{5 c^8} n^j \int_0^{+\infty} d\tau ~ \ln\left(\frac{c \tau}{2 b0}\right) \Big[I_{\text{CM 4PN}}\[i,j\](t-\tau)+I_{\text{CM 4PN}}\[i,j\](t+\tau)\Big]$, where $I_{\text{CM 4PN}}\[i,j\]=\frac{d^7}{dt^7}(m \nu (x^i x^j -\frac{1}{3} \delta^{ij}x^k x^k))$ is the time derivative of the quadrupole at Newtonian order in the center of mass frame with $\delta^{ij}$ being the Kronecker delta.
 
 
 ## Sources
