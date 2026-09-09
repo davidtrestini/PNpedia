@@ -31,14 +31,28 @@ The function $\lambda_0(e)$ is not known in closed form, but replacing it by its
 ## Sources
 
 The conservative energy was obtained:
-* at 4PN in
-    * (5.11)-(5.12) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
-* at 3PN in
-    * (4.40a) of [https://arxiv.org/abs/1503.01374](https://arxiv.org/abs/1503.01374), but with the following typo: 3PN terms proportional to $\iota^{-2}$ and $\iota^{-3}$ have been omitted.
+* in the nonspinning sector
+    * at 4PN in
+        * (5.11)-(5.12) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
+    * at 3PN in
+        * (4.40a) of [https://arxiv.org/abs/1503.01374](https://arxiv.org/abs/1503.01374), but with the following typo: 3PN terms proportional to $\iota^{-2}$ and $\iota^{-3}$ have been omitted.
+* in the spinning sector
+   * in the spin-orbit sector in
+        * (4.6a) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+    * in the spin-spin sector in
+        * (4.6b) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+    * in the cubic-in-spin sector in
+        * (4.6c) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+    * in the quartic-in-spin sector (for black holes only) in
+        * (4.6d) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+    * in the spin induced deformability sector in
+        * the Supplemental Material of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
 
 The small $e$ expansion of $\lambda_0(e)$ was obtained
 * up to $\mathcal{O}(e^8)$ in
     * (4.41) and (4.43) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
+
+The Schott contributions (which enter at 4PN and need to be added to obtain the binding energy) are unknown.
 
 ## Endorsers
 
