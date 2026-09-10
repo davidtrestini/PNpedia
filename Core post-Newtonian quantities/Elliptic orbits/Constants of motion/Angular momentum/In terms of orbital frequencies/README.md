@@ -1,9 +1,9 @@
-# Angular momentum for nonspinning compact binaries on elliptic orbits
+# Angular momentum for compact binaries on elliptic orbits
 
 As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), there are two distinct notions of angular momentum. The conservative angular momentum $`\mathbf{J}_\mathrm{cons}`$ is a constant of motion under the conservative equations of motion. The binding angular momentum $`\mathbf{J}`$ enters the flux balance law $`\frac{\mathrm{d} \mathbf{J}}{\mathrm{d}t}  = - \mathcal{F}_{\mathbf{J}}`$. The difference between the two is called a Schott term, $`\mathbf{J}_\mathrm{Schott}`$, which is nonvanishing for elliptic orbits (after orbit averaging) starting at 4PN. The expression of the binding angular momentum in terms of the orbital (radial and azimuthal) frequencies depends on an arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the flux, and drops out of the balance law. For nonprecessing binaries, only the direction of the angular momentum is constant and orthogonal to the orbital plane: only the norm $`J = |\mathbf{J}|`$ is needed.
 
 For nonspinning compact binaries on elliptic orbits:
-* the file ``angular_momentum_conservative.txt`` contains the 3PN conservative angular momentum in terms of the Blanchet orbital parameters $(x,\iota)$, which are directly related to the radial and azimuthal frequencies (see below)
+* the file ``angular_momentum_conservative.txt`` contains the 3PN conservative angular momentum in terms of the Blanchet frequency parameters $(x,\iota)$, which are directly related to the radial and azimuthal frequencies (see below)
 * the file  ``lambda0_expansion.txt`` contains the small $e$ expansion  of the function $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
 
 At 3PN, the Schott term is vanishing and the binding angular momentum is thus identical to the conservative angular momentum.
@@ -32,10 +32,28 @@ The function $\lambda_0(e)$ is not known in closed form, but replacing it by its
 ## Sources
 
 The conservative angular momentum was obtained:
-* at 3PN in
-    * (5.11)-(5.12) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
-* at 2PN in
-    * (4.40b) of [https://arxiv.org/abs/1503.01374](https://arxiv.org/abs/1503.01374)
+* in the nonspinning sector
+    * at 3PN in
+        * (5.11)-(5.12) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
+    * at 3PN in
+        * (4.40b) of [https://arxiv.org/abs/1503.01374](https://arxiv.org/abs/1503.01374)
+* in the spinning sector
+   * in the spin-orbit sector in
+        * (4.7a) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
+    * in the spin-spin sector in
+        * (4.7b) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
+    * in the cubic-in-spin sector in
+        * (4.7c) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
+    * in the quartic-in-spin sector (for black holes only) in
+        * (4.7d) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
+    * in the $S^5$ sector (for black holes only) in
+        * (4.7e) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
+    * in the $S^6$ sector (for black holes only) in
+        * (4.7f) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
+    * in the spin induced deformability sector in
+        * the Supplemental Material of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
+
+ 
 
 The small $e$ expansion of $\lambda_0(e)$ was obtained
 * up to $\mathcal{O}(e^8)$ in
