@@ -75,15 +75,15 @@ This result was obtained:
         * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/arXiv:2410.23950v2)
 * in the spinning sector
    * in the spin-orbit sector in
-        * (6.2a) and (6.6a) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+        * (6.2a) and (6.6a) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
     * in the spin-spin sector in
-        * (6.2b) and (6.6b) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+        * (6.2b) and (6.6b) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
     * in the cubic-in-spin sector in
-        * (6.2c) and (6.6c) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+        * (6.2c) and (6.6c) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
     * in the quartic-in-spin sector (for black holes only) in
-        * (6.2d) and (6.6d) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1) [the 4PN contribution is vanishing]
+        * (6.2d) and (6.6d) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2) [the 4PN contribution is vanishing]
     * in the spin induced deformability sector in
-        * the Supplemental Material of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+        * the Supplemental Material of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
 * in the tidal sector:
     * at the $\text{N}^{2}\text{LO}$ in
         * (6.6b) of [arXiv:2005.13367v4](https://arxiv.org/abs/1912.01920)

@@ -1,4 +1,4 @@
-# Energy for nonspinning compact binaries on elliptic orbits
+# Energy for compact binaries on elliptic orbits
 
 As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), there are two distinct notions of energy. The conservative energy $`E_\mathrm{cons}`$ is a constant of motion under the conservative equations of motion. The binding energy $E$ enters the flux balance law $`\frac{\mathrm{d} E}{\mathrm{d}t}  = - \mathcal{F}_E`$. The difference between the two is called a Schott term, $`E_\mathrm{Schott}`$, which is nonvanishing for elliptic orbits (after orbit averaging) starting at 4PN. The expression of the binding energy in terms of the orbital (radial and azimuthal) frequencies depends on an arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the flux, and drops out of the balance law.
 
@@ -38,15 +38,15 @@ The conservative energy was obtained:
         * (4.40a) of [https://arxiv.org/abs/1503.01374](https://arxiv.org/abs/1503.01374), but with the following typo: 3PN terms proportional to $\iota^{-2}$ and $\iota^{-3}$ have been omitted.
 * in the spinning sector
    * in the spin-orbit sector in
-        * (4.6a) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+        * (4.6a) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
     * in the spin-spin sector in
-        * (4.6b) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+        * (4.6b) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
     * in the cubic-in-spin sector in
-        * (4.6c) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+        * (4.6c) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
     * in the quartic-in-spin sector (for black holes only) in
-        * (4.6d) of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+        * (4.6d) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
     * in the spin induced deformability sector in
-        * the Supplemental Material of [arXiv:2608.31072v1](https://arxiv.org/abs/2608.31072v1)
+        * the Supplemental Material of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
 
 The small $e$ expansion of $\lambda_0(e)$ was obtained
 * up to $\mathcal{O}(e^8)$ in
