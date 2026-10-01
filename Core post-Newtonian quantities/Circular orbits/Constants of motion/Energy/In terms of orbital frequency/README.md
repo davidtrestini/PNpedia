@@ -30,7 +30,7 @@ We use the following notations:
 * ``G`` is Newton's constant of gravitation
 * ``c`` is the speed of light
 * ``m`` is the total mass of the binary, $m = m_1+m_2$
-* ``x`` is the dimensionless orbital frequency $x = G m \omega /c^3$, where $\omega$ is the dimensionful orbital frequency
+* ``x`` is the dimensionless orbital frequency $x=(G m \omega/c^3)^{2/3}$, where $\omega$ is the dimensionful orbital frequency
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
 * ``\[Delta]`` is the relative mass difference, $\delta = \frac{m_1-m_2}{m}$ such that $\delta^2=1-4\nu$
 * ``b0`` is the arbitary constant $b_0$ linked to the choice of foliation
@@ -75,23 +75,21 @@ This result was obtained:
             * (5.6) of [arXiv:1711.00283v2](https://arxiv.org/abs/1711.00283v2)
         * for the Schott term in
             * (5.7a) of [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1)
-    * at 3.5PN in
-        * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/arXiv:2410.23950v2)
 * in the spinning sector
    * in the spin-orbit sector in
-        * (6.6a) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
-        * (12) of [arXiv:2201.05138v2](https://arxiv.org/abs/2201.05138v2)
+        * (6.6a) of [arXiv:2608.31072](https://arxiv.org/abs/2608.31072)
+        * (12) of [arXiv:2201.05138](https://arxiv.org/abs/2201.05138)
     * in the spin-spin sector in
-        * (6.6b) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
-        * (12) of [arXiv:2201.05138v2](https://arxiv.org/abs/2201.05138v2)
+        * (6.6b) of [arXiv:2608.31072](https://arxiv.org/abs/2608.31072)
+        * (12) of [arXiv:2201.05138](https://arxiv.org/abs/2201.05138)
     * in the cubic-in-spin sector in
-        * (6.6c) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
+        * (6.6c) of [arXiv:2608.31072](https://arxiv.org/abs/2608.31072)
         * (5.18) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
     * in the quartic-in-spin sector (for black holes only) in
-        * (6.6d) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2) [the 4PN contribution is vanishing]
+        * (6.6d) of [arXiv:2608.31072](https://arxiv.org/abs/2608.31072) [the 4PN contribution is vanishing]
         * (62) of [arXiv:1712.08603v2](https://arxiv.org/pdf/1712.08603v2) [the 4PN contribution is vanishing]
     * in the spin induced deformability sector in
-        * the Supplemental Material of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
+        * the Supplemental Material of [arXiv:2608.31072](https://arxiv.org/abs/2608.31072)
 * in the tidal sector:
     * at the $\text{N}^{2}\text{LO}$ in
         * (6.5b) of [arXiv:2005.13367v4](https://arxiv.org/abs/1912.01920)
@@ -102,3 +100,4 @@ This result was obtained:
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
 [Loïc Honet](https://github.com/honetloic) [[0009-0007-2863-6085](https://orcid.org/0009-0007-2863-6085)]
 [Eve Dones](https://github.com/evedones) [[0009-0003-0239-4584](https://orcid.org/0009-0003-0239-4584)] --- tidal sector only
+[Guillaume Lhost](https://github.com/G-Lhost)[[0009-0007-6024-6896](https://orcid.org/0009-0007-6024-6896)]
