@@ -2,7 +2,7 @@
 
 ## Orbital frequency vs waveform frequency
 
-There are also two notions of frequency: (i) the orbital frequency $\omega$, and (ii) the waveform frequency $\omega_{22}$, defined here as the half-frequency of the (2,2) mode. These frequencies typically enter expressions through the dimensionless variables $x=(G m \omega/c^3)^{2/3}$ and $x_{22}=(G m \omega_{22}/c^3)^{2/3}$, which also count PN order. There differ by small 4PN terms : $x_{22} = x (1+\mathcal{O}(x^4))$
+There are also two notions of frequency: (i) the orbital frequency $\omega$, and (ii) the waveform frequency $\omega_{22}$, defined here as the half-frequency of the (2,2) mode. These frequencies typically enter expressions through the dimensionless variables $x=(G m \omega/c^3)^{2/3}$ and $x_{22}=(G m \omega_{22}/c^3)^{2/3}$, which also count PN order. They differ by small 4PN terms : $x_{22} = x (1+\mathcal{O}(x^4))$
 
 ## Conservative energy versus binding energy
 
