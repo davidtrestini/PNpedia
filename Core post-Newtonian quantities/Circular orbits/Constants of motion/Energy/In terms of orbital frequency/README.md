@@ -78,10 +78,10 @@ This result was obtained:
 * in the spinning sector
    * in the spin-orbit sector in
         * (6.6a) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
-        * (12) of [arXiv:2201.05138](https://arxiv.org/abs/2201.05138)
+        * (12) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the spin-spin sector in
         * (6.6b) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
-        * (12) of [arXiv:2201.05138](https://arxiv.org/abs/2201.05138)
+        * (12) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the cubic-in-spin sector in
         * (6.6c) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
         * (5.18) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
