@@ -74,7 +74,7 @@ This result was obtained:
             * (5.4b) of [arXiv:1401.4548v2](https://arxiv.org/abs/1401.4548v2)
             * (5.8) of [arXiv:1711.00283v2](https://arxiv.org/abs/1711.00283v2)
         * for the Schott term in
-            * (5.7b) of [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1)
+            * (5.7b) of [arXiv:2504.13245v2](https://arxiv.org/abs/2504.13245v2)
 * in the spinning sector
    * in the spin-orbit sector in
         * (6.2a) and (6.6a) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
