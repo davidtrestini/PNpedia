@@ -5,14 +5,14 @@ The *orbit averaged* flux of angular momentum at $\mathcal{I}^+$ for nonspinning
 * in ``flux_infinity_x_iota.txt`` in terms of Blanchet frequency parameters $(x,\iota)$.
 * in ``flux_infinity_x_et.txt``  in terms of frequency parameter $x$ and the harmonic time eccentricity $e_t$.
 
-The *(modified) harmonic* time-eccentricity is expressed in terms of energy and angular momentum at 3PN in (25d); this translates to $e_t(\varepsilon,j)$ at 3PN as given in ``et.txt``.
+The *(modified) harmonic* time-eccentricity is expressed in terms of energy and angular momentum at 3PN in (25d) of [arXiv:gr-qc/0407049v1](https://arxiv.org/abs/gr-qc/0407049v1); this translates to $e_t(\varepsilon,j)$ at 3PN as given in ``et.txt``.
 
 The small eccentricity ($e \ll 1$) expansion  of the enhancement functions are contained in the following files
-* ``varphi_expanded.txt`` corresponds to  the expansion of $\varphi(e)$ up to $\mathcal{O}(e^6)$
-* ``psi_expanded.txt`` corresponds to  the expansion of $\psi(e)$ up to $\mathcal{O}(e^6)$
-* ``zeta_expanded.txt`` corresponds to  the expansion of $\zeta(e)$ up to $\mathcal{O}(e^6)$
-* ``kappa_expanded.txt`` corresponds to  the expansion of $\kappa(e)$ up to $\mathcal{O}(e^6)$
-* ``lambda_0.txt`` corresponds to  the expansion of $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
+* ``varphi_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\varphi}(e)$ up to $\mathcal{O}(e^6)$
+* ``psi_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\psi}(e)$ up to $\mathcal{O}(e^6)$
+* ``zeta_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\zeta}(e)$ up to $\mathcal{O}(e^6)$
+* ``kappa_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\kappa}(e)$ up to $\mathcal{O}(e^6)$
+* ``lambda0_expanded.txt`` corresponds to  the expansion of $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
 
 ## Notations
 
@@ -45,13 +45,13 @@ The derivatives of the various enhancement functions with respect to $e$ are den
 This result was obtained:
 * at 3PN
     * in terms of $(x,e_t)$ in
-        * (4.10) and (5.29) of [arXiv:0711.0302v2](https://arxiv.org/abs/0711.0302v2)
+        * (4.10) and (5.29) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2), with the instantaneous 2PN and 3PN coefficients in modified harmonic coordinates given in Appendix C
     * in terms of $(x,\iota)$ in
         * (8.2b) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
     * in terms of $(\varepsilon,j)$ in
         * (8.1b) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
 
-Note that the treatment of the memory contribution of [arXiv:0711.0302v2](https://arxiv.org/abs/0711.0302v2) is incomplete, and is completed in Appendix A of [arXiv:2410.12898v2](https://arxiv.org/abs/2410.12898v2)
+Note that the treatment of the memory contribution of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) is incomplete, and is completed in Appendix A of [arXiv:2410.12898v2](https://arxiv.org/abs/2410.12898v2)
 
 The small eccentricity expansions of the enhancement functions are given:
 * for $\tilde\varphi(e)$

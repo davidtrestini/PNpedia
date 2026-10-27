@@ -5,14 +5,14 @@ The *orbit averaged* flux of energy at $\mathcal{I}^+$ for nonspinning compact b
 * in ``flux_infinity_x_iota.txt`` in terms of Blanchet frequency parameters $(x,\iota)$.
 * in ``flux_infinity_x_et.txt``  in terms of frequency parameter $x$ and the harmonic time eccentricity $e_t$.
 
-The *(modified) harmonic* time-eccentricity is expressed in terms of energy and angular momentum at 3PN in (25d); this translates to $e_t(\varepsilon,j)$ at 3PN as given in ``et.txt``.
+The *(modified) harmonic* time-eccentricity is expressed in terms of energy and angular momentum at 3PN in (25d) of [arXiv:gr-qc/0407049v1](https://arxiv.org/abs/gr-qc/0407049v1); this translates to $e_t(\varepsilon,j)$ at 3PN as given in ``et.txt``.
 
 The small eccentricity ($e \ll 1$) expansion  of the enhancement functions are contained in the following files
 * ``varphi_expanded.txt`` corresponds to  the expansion of $\varphi(e)$ up to $\mathcal{O}(e^6)$
 * ``psi_expanded.txt`` corresponds to  the expansion of $\psi(e)$ up to $\mathcal{O}(e^6)$
 * ``zeta_expanded.txt`` corresponds to  the expansion of $\zeta(e)$ up to $\mathcal{O}(e^6)$
 * ``kappa_expanded.txt`` corresponds to  the expansion of $\kappa(e)$ up to $\mathcal{O}(e^6)$
-* ``lambda_0.txt`` corresponds to  the expansion of $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
+* ``lambda0_expanded.txt`` corresponds to  the expansion of $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
 
 ## Notations
 

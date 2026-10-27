@@ -36,7 +36,7 @@ We use the following notations:
     * ``s`` is one of the reduced spin parameters, $s = \frac{S}{G m^2} = \frac{m_1^2 \chi_1 + m_2^2 \chi_2}{m^2}$
     * ``\[Sigma]`` is the other reduced spin parameter, $\sigma = \frac{\Sigma}{G m^2} = \frac{m_2 \chi_2 - m_1 \chi_1}{m}$
 * for the spin-induced deformability sector:
-    * we introduce the following spin-induced deformability parameters: (i) quadrupolar $\kappa_1$ and $\kappa_2$; (ii) and octupolar $\lambda_1$ and $\lambda_2$. If body $A\in\{1,2\}$ is a black hole, then $\kappa_A=\lambda_A=1$.
+    * we introduce the following spin-induced deformability parameters: (i) quadrupolar $\kappa_1$ and $\kappa_2$; (ii) octupolar $\lambda_1$ and $\lambda_2$; and (iii) hexadecapolar $\mu_1$ and $\mu_2$. If body $A\in\{1,2\}$ is a black hole, then $\kappa_A=\lambda_A=\mu_A=1$.
     * ``\[CapitalDelta]\[Kappa]p`` is defined as $\Delta\kappa_+ = \frac{(\kappa_1-1) + (\kappa_2-1)}{2}$ (for black holes, $\Delta\kappa_+=0$)
     * ``\[CapitalDelta]\[Kappa]m`` is defined as $\Delta\kappa_- = \frac{(\kappa_1-1) - (\kappa_2-1)}{2}$ (for black holes, $\Delta\kappa_-=0$)
     * ``\[CapitalDelta]\[Lambda]p`` is defined as $\Delta\lambda_+ = \frac{(\lambda_1-1) + (\lambda_2-1)}{2}$ (for black holes, $\Delta\lambda_+=0$)

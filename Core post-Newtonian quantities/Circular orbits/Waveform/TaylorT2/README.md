@@ -4,7 +4,7 @@ We decompose the waveform into $(\ell,m)$ modes as follows:
 
 $$h = h_+ - i h_- = \frac{G m}{c^2 R}\sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell} h_{\ell m} e^{- i m \psi}\ \_{-2}Y_{\ell m}(\theta,\phi)$$
 
-The waveform phase $\psi = \mathrm{d} \omega_{22}/\mathrm{d} t$ and the amplitudes $h_{\ell m}$ are expressed in terms of the dimensionless waveform frequency $x_{22} = (G m \omega_{22}/c^3)^{2/3}$. We also introduce the ``chirp'' as the right-hand side of the evolution equation for the waveform frequency: $\dot{x}_{22} = \cdots$. 
+The waveform phase $\psi = \int \dd t \omega_{22}$ and the amplitudes $h_{\ell m}$ are expressed in terms of the dimensionless waveform frequency $x_{22} = (G m \omega_{22}/c^3)^{2/3}$. We also introduce the ``chirp'' as the right-hand side of the evolution equation for the waveform frequency: $\dot{x}_{22} = \cdots$. 
 
 The waveform phase $\psi(x_{22})$ is given in the ``Phase'' folder and is  decomposed as follows:
 * ``phase_NS.txt'' is the phase of two nonspinning black holes
