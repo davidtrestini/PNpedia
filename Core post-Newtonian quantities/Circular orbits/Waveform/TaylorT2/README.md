@@ -4,7 +4,7 @@ We decompose the waveform into $(\ell,m)$ modes as follows:
 
 $$h = h_+ - i h_- = \frac{G m}{c^2 R}\sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell} h_{\ell m} e^{- i m \psi}\ \_{-2}Y_{\ell m}(\theta,\phi)$$
 
-The waveform phase $\psi = \int \dd t \omega_{22}$ and the amplitudes $h_{\ell m}$ are expressed in terms of the dimensionless waveform frequency $x_{22} = (G m \omega_{22}/c^3)^{2/3}$. We also introduce the ``chirp'' as the right-hand side of the evolution equation for the waveform frequency: $\dot{x}_{22} = \cdots$. 
+The waveform phase $\psi = \int \mathrm{d} t \, \omega_{22}$ and the amplitudes $h_{\ell m}$ are expressed in terms of the dimensionless waveform frequency $x_{22} = (G m \omega_{22}/c^3)^{2/3}$.
 
 The waveform phase $\psi(x_{22})$ is given in the ``Phase'' folder and is  decomposed as follows:
 * ``phase_NS.txt'' is the phase of two nonspinning black holes
@@ -13,20 +13,18 @@ The waveform phase $\psi(x_{22})$ is given in the ``Phase'' folder and is  decom
 * ``phase_S3.txt'' is the cubic-in-spin contribution to the phase of two spinning black holes
 * ``phase_tidal.txt'' is the nonspinning tidal contribution to the phase of two compact objects
 
-The chirp $\dot{x}\_{22}(x\_{22})$ is given in the ``Chirp'' folder and is  decomposed as follows:
-* ``chirp_NS.txt'' is the phase of two nonspinning black holes
-* ``chirp_S1.txt'' is the linear-in-spin contribution to the chirp of two spinning black holes
-* ``chirp_S2.txt'' is the quadratic-in-spin contribution to the chirp of two spinning black holes
-* ``chirp_S3.txt'' is the cubic-in-spin contribution to the chirp of two spinning black holes
+The waveform amplitudes $h_{\ell m}$ are given in the ``Amplitudes`` folder. 
 
-The waveform amplitudes $h_{\ell m}$ are given in the ``Amplitudes'' folder. 
+Each mode is given in a subfolder ``h_l_m``. Within each of these folders:
+* ``h_l_m_NS.txt`` are the amplitudes for two nonspinning black holes
+* ``h_l_m_S1.txt`` are the linear-in-spin contributions to the amplitude for two spinning black holes
+* ``h_l_m_S2.txt`` are the quadratic-in-spin contributions to the amplitude for two spinning black holes
+* ``h_l_m_S3.txt`` are the cubic-in-spin contributions to the amplitude for two spinning black holes
+* ``h_l_m_tidal.txt`` are the nonspinning tidal contributions to the amplitude for two nonspinning compact objects
 
-Each mode is given in a subfolder ``h_l_m''. Within each of these folders:
-* ``h_l_m_NS.txt'' are the amplitudes for two nonspinning black holes
-* ``h_l_m_tidal.txt'' are the nonspinning tidal contributions to the amplitude for two nonspinning compact objects
+Not all contributions are provided for every mode: tidal contributions are only given for the modes with $\ell \leq 6$ and for the modes $(7,1)$, $(7,3)$, $(7,5)$ and $(7,7)$. The nonspinning modes $(3,0)$ and $(5,0)$ vanish, so ``h_3_0_NS.txt`` and ``h_5_0_NS.txt`` are set to 0.
+
 The $h_{\ell m}$ modes for $m<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $h_{\ell (-m)} = (-1)^\ell (h_{\ell m})^*$, where the star denotes a complex conjugate.
-
-The time evolution of the waveform frequency is itself given ``chirp.txt'', in which $x$ is expressed in terms of the dimensionless time variable $\tau =  \frac{\nu c^3(t-t_0)}{5 G m}$. 
 
 The expression for $h_{22}$ is given with 4PN accuracy. Expressions for the phase $\psi(x_{22})$, chirp $\dot{x}\_{22}(x\_{22})$ and the other $h_{lm}$ modes are presented with 3.5PN accuracy.
 
@@ -65,16 +63,6 @@ The phase $\psi(x_{22})$ was obtained:
     * at the $\text{N}^{2.5}\text{LO}$ in:
         * in (4.8) of [arXiv:2412.14249v2](https://arxiv.org/abs/2412.14249v2)
 
-The chirp $\dot{x}\_{22}(x\_{22})$ was obtained:
-* for nonspinning black holes:
-    * at 4.5PN
-        * by deduction from (8) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4) [ignoring horizon flux contributions]
-    * at 3.5PN
-        * in (3.19) of [arXiv:0812.0069v2](https://arxiv.org/abs/0812.0069v2)
-* in the spinning sector for black holes
-    * at 3.5PN
-        * in (45) of [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2) 
-        
 The $h_{\ell m}(x_{22})$ modes were obtained:
 * for nonspinning black holes:
     * for the $(2,2)$ mode
