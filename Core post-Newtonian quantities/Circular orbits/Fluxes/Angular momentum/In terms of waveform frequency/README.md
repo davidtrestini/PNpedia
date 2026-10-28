@@ -65,7 +65,7 @@ The angular momentum flux for circular orbits is explicitly given (in terms of t
     * in terms of the waveform frequency $x_{22}$ in
         * (20) of [arXiv:2410.16373](https://arxiv.org/abs/2410.16373)
 
-The flux of angular momentum for circular orbits is obtained by dividing the flux of energy by the frequency of the (2,2) mode, $\omega_{22} = \frac{c^3 x^{3/2}}{G m}$, see [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1). For references, see the [readme](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Circular%20orbits/Fluxes/Energy) for the flux of energy for nonspinning compact binaires of circular orbits. 
+The flux of angular momentum for circular orbits is obtained by dividing the flux of energy by the frequency of the (2,2) mode, $\omega_{22} = \frac{c^3 x_{22}^{3/2}}{G m}$, see [arXiv:2504.13245v2](https://arxiv.org/abs/2504.13245v2). For references, see the [readme](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Circular%20orbits/Fluxes/Energy) for the flux of energy for nonspinning compact binaires of circular orbits. 
 
 ## Endorsers
 
