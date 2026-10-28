@@ -19,8 +19,8 @@ We use the following notations:
 * ``EulerGamma`` is the Euler's constant $\gamma_\text{E} \approx 0.58$
 * ``G`` is Newton's constant of gravitation
 * ``c`` is the speed of light
-* ``x`` is the dimensionless orbital frequency $x = G m \omega /c^3$, where $\omega$ is the dimensionful orbital frequency
-* ``x22`` is the dimensionless waveform frequency $x_{22} = G m \omega_{22} /c^3$, where $\omega_{22}$ is the dimensionful (half-)frequency of the $(2,2)$ mode
+* ``x`` is the dimensionless orbital frequency $x = (G m \omega /c^3)^{2/3}$, where $\omega$ is the dimensionful orbital frequency
+* ``x22`` is the dimensionless waveform frequency $x_{22} = (G m \omega_{22} /c^3)^{2/3}$, where $\omega_{22}$ is the dimensionful (half-)frequency of the $(2,2)$ mode
 * ``\[Nu]`` is the symmetric mass ratio, $\nu = \frac{m_1 m_2}{(m_1 + m_2)^2}$
 * ``b0`` is an arbitary constant lengthscale $b_0$, which is linked to the choice of foliation. 
 
