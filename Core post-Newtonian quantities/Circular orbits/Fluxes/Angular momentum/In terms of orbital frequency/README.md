@@ -64,7 +64,7 @@ We use the following notations:
 The angular momentum flux for circular orbits is explicitly given (in terms of the orbital frequency $x$):
 * at 4.5PN
     * in terms of the orbital frequency $x$ in
-        * (7.1b) of [arXiv:2504.13245](https://arxiv.org/abs/2504.13245v2)
+        * (7.1b) of [arXiv:2504.13245v2](https://arxiv.org/abs/2504.13245v2)
 
 The flux of angular momentum for circular orbits is obtained by dividing the flux of energy by the frequency of the (2,2) mode, $\omega_{22} = \frac{c^3 x_{22}^{3/2}}{G m}$, where $x_{22}(x)$ is given in the [Waveform frequencies](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Circular%20orbits/Waveform%20frequencies) folder, see [arXiv:2504.13245v2](https://arxiv.org/abs/2504.13245v2). For references, see the [readme](https://github.com/davidtrestini/PNpedia/tree/main/Core%20post-Newtonian%20quantities/Circular%20orbits/Fluxes/Energy) for the flux of energy for nonspinning compact binaires of circular orbits. 
 

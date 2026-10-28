@@ -6,7 +6,7 @@ There are also two notions of frequency: (i) the orbital frequency $\omega$, and
 
 ## Conservative angular momentum versus binding angular momentum
 
-As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), there are also two distinct notions of angular momentum. The conservative angular momentum $J_\mathrm{cons}$ is a constant of motion under the conservative equations of motion. The binding angular momentum $J$ enters the flux balance law $d J/d t = - F_J$. The difference between the two is called a Schott term, $J_\mathrm{Schott}$, which is nonvanishing for circular orbits starting at 4PN.
+As pointed out in [arXiv:2504.13245v2](https://arxiv.org/abs/2504.13245v2), there are also two distinct notions of angular momentum. The conservative angular momentum $J_\mathrm{cons}$ is a constant of motion under the conservative equations of motion. The binding angular momentum $J$ enters the flux balance law $d J/d t = - F_J$. The difference between the two is called a Schott term, $J_\mathrm{Schott}$, which is nonvanishing for circular orbits starting at 4PN.
 
 The expression of the binding angular momentum $J$ in terms of the orbital frequency $x$ depends on an arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. Conversely, the expression of the binding angular momentum $J$ in terms of the waveform frequency $x_{22}$ does not depend on the scale $b_0$.
 
