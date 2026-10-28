@@ -31,8 +31,8 @@ If you have used this repository for your academic work, please acknowledge it b
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15002834.svg)](https://doi.org/10.5281/zenodo.15002834)
 
 
-## Tree structure
+## Directory structure
 
-Directories that do not contain any information yet are flagged as ``[empty]``.
+Directories that do not contain any information yet are flagged as ``[empty]``. Each of them contains an empty README.md file, so that the directory is visible on GitHub.
 Windows users might encounter problems due to long pathnames. A hack is to run the following command in the git bash:
 ```git config --global core.longpaths true```
