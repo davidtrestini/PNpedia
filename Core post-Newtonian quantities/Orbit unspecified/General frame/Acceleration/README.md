@@ -34,7 +34,9 @@ We have also introduced the functions defining the hereditary contributions :
 ## Sources
 
 The equations of motion were obtained in harmonic coordinates :
+* at 2.5PN in
+(5.3) of [arXiv:gr-qc/0412018v2](https://arxiv.org/abs/gr-qc/0412018v2)
 * at 3.5PN in 
-(5.4) of [https://arxiv.org/abs/gr-qc/0201001](https://arxiv.org/pdf/gr-qc/0412018)
+(5.4) of [arXiv:gr-qc/0412018v2](https://arxiv.org/abs/gr-qc/0412018v2), but with the following typo: inside the curly brackets, the terms proportional to $G^2 m_1 m_2$ and $G^2 m_2^2$ should be divided by $r_{12}^2$ instead of $r_{12}^3$
 * at 4.5PN in
-(5.5)-(5.6) of [arXiv:2601.06743](https://arxiv.org/abs/2601.06743)
+(5.5)-(5.6) of [arXiv:2601.06743v3](https://arxiv.org/abs/2601.06743v3)
