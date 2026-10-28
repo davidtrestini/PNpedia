@@ -93,6 +93,9 @@ This result was obtained:
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
+
 [Loïc Honet](https://github.com/honetloic) [[0009-0007-2863-6085](https://orcid.org/0009-0007-2863-6085)]
+
 [Eve Dones](https://github.com/evedones) [[0009-0003-0239-4584](https://orcid.org/0009-0003-0239-4584)] --- tidal sector only
+
 [Guillaume Lhost](https://github.com/G-Lhost)[[0009-0007-6024-6896](https://orcid.org/0009-0007-6024-6896)]
