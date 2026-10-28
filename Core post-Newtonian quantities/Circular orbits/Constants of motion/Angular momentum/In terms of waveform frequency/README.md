@@ -84,7 +84,7 @@ This result was obtained:
         * the Supplemental Material of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
 * in the tidal sector:
     * at the $\text{N}^{2}\text{LO}$ in
-        * (6.6b) of [arXiv:2005.13367v4](https://arxiv.org/abs/1912.01920)
+        * (6.6b) of [arXiv:1912.01920v2](https://arxiv.org/abs/1912.01920v2)
 
 ## Endorsers
 
