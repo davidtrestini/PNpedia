@@ -6,5 +6,5 @@ As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), ther
 
 ## What is presented
 
-In the section ``In terms of orbital frequencies'', we provide:
+In the section ``In terms of orbital frequencies``, we provide:
 * the *conservative* energy in terms of orbital frequencies, $E_\text{cons}(x)$ [does not depend on $b_0$]

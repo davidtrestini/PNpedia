@@ -12,9 +12,9 @@ The expression of the binding angular momentum $J$ in terms of the orbital frequ
 
 ## What is presented
 
-In the section ``In terms of orbital frequency'', we provide:
+In the section ``In terms of orbital frequency``, we provide:
 * the *conservative* angular momentum in terms of orbital frequency, $J_\text{cons}(x)$ [does not depend on $b_0$]
 * the Schott term in terms of orbital frequency, $J_\text{Schott}(x)$ [depends on $b_0$]
 * the binding angular momentum in terms of orbital frequency is simply obtained by summing these two contributions: $J(x) = J_\text{cons}(x)+J_\text{Schott}(x)$
-In the section ``In terms of waveform frequency'', we provide:
+In the section ``In terms of waveform frequency``, we provide:
 * the *binding* angular momentum in terms of waveform frequency, $J(x_{22})$ [does not depend on $b_0$]

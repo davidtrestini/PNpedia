@@ -4,17 +4,17 @@ The energy associated to compact binaries on circular orbits is expressed in ter
 orbital frequency $\omega$ through the dimensionless variable $x=(G m \omega/c^3)^{2/3}$. 
 
 The conservative energy is decomposed as follows:
-* ``energy_NS_conservative.txt'' is the conservative energy for two nonspinning black holes
-* ``energy_S1.txt'' is the linear-in-spin contribution to the energy for spinning black holes
-* ``energy_S2.txt'' is the quadratic-in-spin contribution to the energy for two spinning black holes
-* ``energy_S3.txt'' is the cubic-in-spin contribution  to the energy for two spinning black holes
-* ``energy_S4.txt'' is the quartic-in-spin contribution  to the energy for two spinning black holes
-* ``energy_tidal.txt'' is the extra contribution due to tidal effects for nonspinning finite-size compact objects
-* ``energy_SID.txt'' is the extra contribution due spin-induced deformability effects for spinning finite-size compact objects
+* ``energy_NS_conservative.txt`` is the conservative energy for two nonspinning black holes
+* ``energy_S1.txt`` is the linear-in-spin contribution to the energy for spinning black holes
+* ``energy_S2.txt`` is the quadratic-in-spin contribution to the energy for two spinning black holes
+* ``energy_S3.txt`` is the cubic-in-spin contribution  to the energy for two spinning black holes
+* ``energy_S4.txt`` is the quartic-in-spin contribution  to the energy for two spinning black holes
+* ``energy_tidal.txt`` is the extra contribution due to tidal effects for nonspinning finite-size compact objects
+* ``energy_SID.txt`` is the extra contribution due spin-induced deformability effects for spinning finite-size compact objects
 
 
 To obtain the binding energy, one should add the following contribution to the conservative energy:
-* ``energy_Schott.txt'' is the Schott term
+* ``energy_Schott.txt`` is the Schott term
 
 The result is given:
 * at 4.5PN for the nonspinning sector (in the case of black holes) --- notice that the 4.5PN coefficient is in fact vanishing

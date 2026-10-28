@@ -12,9 +12,9 @@ The expression of the binding energy $E$ in terms of the orbital frequency $x$ d
 
 ## What is presented
 
-In the section ``In terms of orbital frequency'', we provide:
+In the section ``In terms of orbital frequency``, we provide:
 * the *conservative* energy in terms of orbital frequency, $E_\text{cons}(x)$ [does not depend on $b_0$]
 * the Schott term in terms of orbital frequency, $E_\text{Schott}(x)$ [depends on $b_0$]
 * the binding energy in terms of orbital frequency is simply obtained by summing these two contributions: $E(x) = E_\text{cons}(x)+E_\text{Schott}(x)$
-In the section ``In terms of waveform frequency'', we provide:
+In the section ``In terms of waveform frequency``, we provide:
 * the *binding* energy in terms of waveform frequency, $E(x_{22})$ [does not depend on $b_0$]
