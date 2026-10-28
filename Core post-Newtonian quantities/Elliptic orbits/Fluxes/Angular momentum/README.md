@@ -47,7 +47,7 @@ The derivatives of the various enhancement functions with respect to $e$ are den
 This result was obtained:
 * at 3PN
     * in terms of $(x,e_t)$ in
-        * (4.10) and (5.29) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2), with the instantaneous 2PN and 3PN coefficients in modified harmonic coordinates given in Appendix C
+        * (4.10), (4.11a), (4.11b), (C2), (C3) and (5.29) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2), i.e., with the instantaneous 2PN and 3PN coefficients in modified harmonic coordinates given by (C2) and (C3) instead of (4.11c) and (4.11d)
     * in terms of $(x,\iota)$ in
         * (8.2b) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
     * in terms of $(\varepsilon,j)$ in
