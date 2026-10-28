@@ -4,13 +4,13 @@
 The angular momentum associated to compact binaries on circular orbits is expressed in terms of the waveform frequency $\omega_{22}$, defined here as the half-frequency of the (2,2) mode, through the dimensionless variable $x_{22}=(G m \omega_{22}/c^3)^{2/3}$.
 
 The binding angular momentum is decomposed as follows:
-* ``angular_momentum_NS_binding.txt'' is the binding angular momentum for two nonspinning black holes
-* ``angular_momentum_S1.txt'' is the linear-in-spin contribution to the angular momentum for spinning black holes
-* ``angular_momentum_S2.txt'' is the quadratic-in-spin contribution to the angular momentum for two spinning black holes
-* ``angular_momentum_S3.txt'' is the cubic-in-spin contribution  to the angular momentum for two spinning black holes
-* ``angular_momentum_S4.txt'' is the quartic-in-spin contribution  to the angular momentum for two spinning black holes
-* ``angular_momentum_tidal.txt'' is the extra contribution due to tidal effects for nonspinning finite-size compact objects
-* ``angular_momentum_SID.txt'' is the extra contribution due spin-induced deformability effects for spinning finite-size compact objects
+* ``angular_momentum_NS_binding.txt`` is the binding angular momentum for two nonspinning black holes
+* ``angular_momentum_S1.txt`` is the linear-in-spin contribution to the angular momentum for spinning black holes
+* ``angular_momentum_S2.txt`` is the quadratic-in-spin contribution to the angular momentum for two spinning black holes
+* ``angular_momentum_S3.txt`` is the cubic-in-spin contribution  to the angular momentum for two spinning black holes
+* ``angular_momentum_S4.txt`` is the quartic-in-spin contribution  to the angular momentum for two spinning black holes
+* ``angular_momentum_tidal.txt`` is the extra contribution due to tidal effects for nonspinning finite-size compact objects
+* ``angular_momentum_SID.txt`` is the extra contribution due spin-induced deformability effects for spinning finite-size compact objects
 
 The result is given:
 * at 4.5PN for the nonspinning sector (in the case of black holes) --- notice that the 4.5PN coefficient is in fact vanishing
@@ -37,7 +37,7 @@ We use the following notations:
     * ``s`` is one of the reduced spin parameters, $s = \frac{S}{G m^2} = \frac{m_1^2 \chi_1 + m_2^2 \chi_2}{m^2}$
     * ``\[Sigma]`` is the other reduced spin parameter, $\sigma = \frac{\Sigma}{G m^2} = \frac{m_2 \chi_2 - m_1 \chi_1}{m}$
 * for the spin-induced deformability sector:
-    * we introduce the following spin-induced deformability parameters: (i) quadrupolar $\kappa_1$ and $\kappa_2$; (ii) and octupolar $\lambda_1$ and $\lambda_2$. If body $A\in\{1,2\}$ is a black hole, then $\kappa_A=\lambda_A=1$.
+    * we introduce the following spin-induced deformability parameters: (i) quadrupolar $\kappa_1$ and $\kappa_2$; (ii) octupolar $\lambda_1$ and $\lambda_2$; and (iii) hexadecapolar $\mu_1$ and $\mu_2$. If body $A\in\{1,2\}$ is a black hole, then $\kappa_A=\lambda_A=\mu_A=1$.
     * ``\[CapitalDelta]\[Kappa]p`` is defined as $\Delta\kappa_+ = \frac{(\kappa_1-1) + (\kappa_2-1)}{2}$ (for black holes, $\Delta\kappa_+=0$)
     * ``\[CapitalDelta]\[Kappa]m`` is defined as $\Delta\kappa_- = \frac{(\kappa_1-1) - (\kappa_2-1)}{2}$ (for black holes, $\Delta\kappa_-=0$)
     * ``\[CapitalDelta]\[Lambda]p`` is defined as $\Delta\lambda_+ = \frac{(\lambda_1-1) + (\lambda_2-1)}{2}$ (for black holes, $\Delta\lambda_+=0$)
@@ -84,11 +84,14 @@ This result was obtained:
         * the Supplemental Material of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
 * in the tidal sector:
     * at the $\text{N}^{2}\text{LO}$ in
-        * (6.6b) of [arXiv:2005.13367v4](https://arxiv.org/abs/1912.01920)
+        * (6.6b) of [arXiv:1912.01920v2](https://arxiv.org/abs/1912.01920v2)
 
 ## Endorsers
 
 [David Trestini](https://github.com/davidtrestini) [[0000-0002-4140-0591](https://orcid.org/0000-0002-4140-0591)]
+
 [Loïc Honet](https://github.com/honetloic) [[0009-0007-2863-6085](https://orcid.org/0009-0007-2863-6085)]
+
 [Eve Dones](https://github.com/evedones) [[0009-0003-0239-4584](https://orcid.org/0009-0003-0239-4584)] --- tidal sector only
+
 [Guillaume Lhost](https://github.com/G-Lhost)[[0009-0007-6024-6896](https://orcid.org/0009-0007-6024-6896)]
