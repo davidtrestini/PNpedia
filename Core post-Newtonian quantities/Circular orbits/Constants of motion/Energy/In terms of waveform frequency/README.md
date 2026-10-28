@@ -80,7 +80,7 @@ This result was obtained:
         * (12) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1)
     * in the cubic-in-spin sector in
         * (6.6c) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2)
-        * (5.18) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
+        * (6.16)-(6.17) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2)
     * in the quartic-in-spin sector (for black holes only) in
         * (6.6d) of [arXiv:2608.31072v2](https://arxiv.org/abs/2608.31072v2) [the 4PN contribution is vanishing]
         * (62) of [arXiv:1712.08603v2](https://arxiv.org/abs/1712.08603v2) [the 4PN contribution is vanishing]
