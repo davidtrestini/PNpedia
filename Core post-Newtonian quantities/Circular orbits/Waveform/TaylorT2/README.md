@@ -7,11 +7,10 @@ $$h = h_+ - i h_- = \frac{G m}{c^2 R}\sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell
 The waveform phase $\psi = \int \mathrm{d} t \, \omega_{22}$ and the amplitudes $h_{\ell m}$ are expressed in terms of the dimensionless waveform frequency $x_{22} = (G m \omega_{22}/c^3)^{2/3}$.
 
 The waveform phase $\psi(x_{22})$ is given in the ``Phase`` folder and is  decomposed as follows:
-* ``phase_NS.txt`` is the phase of two nonspinning black holes
+* ``phase_NS_ignoring_horizon_absorption.txt`` is the phase of two nonspinning black holes, ignoring horizon flux contributions
 * ``phase_S1.txt`` is the linear-in-spin contribution to the phase of two spinning black holes
 * ``phase_S2.txt`` is the quadratic-in-spin contribution to the phase of two spinning black holes
 * ``phase_S3.txt`` is the cubic-in-spin contribution to the phase of two spinning black holes
-* ``phase_infinity_S1.txt``, ``phase_infinity_S2.txt``, ``phase_infinity_S3.txt`` and ``phase_infinity_S4.txt`` are the linear-, quadratic-, cubic- and quartic-in-spin contributions to the phase of two spinning black holes, computed from the flux at infinity only (i.e., ignoring horizon flux contributions)
 * ``phase_tidal.txt`` is the nonspinning tidal contribution to the phase of two compact objects
 
 The waveform amplitudes $h_{\ell m}$ are given in the ``Amplitudes`` folder. 
@@ -27,7 +26,7 @@ Not all contributions are provided for every mode: tidal contributions are only 
 
 The $h_{\ell m}$ modes for $m<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $h_{\ell (-m)} = (-1)^\ell (h_{\ell m})^*$, where the star denotes a complex conjugate.
 
-The expression for $h_{22}$ is given with 4PN accuracy and the nonspinning phase $\psi(x_{22})$ with 4.5PN accuracy. The spinning phase is presented with 3.5PN accuracy in ``phase_S1.txt``, ``phase_S2.txt`` and ``phase_S3.txt`` (including horizon flux contributions), and with 4PN accuracy in ``phase_infinity_S1.txt``, ``phase_infinity_S2.txt``, ``phase_infinity_S3.txt`` and ``phase_infinity_S4.txt`` (ignoring horizon flux contributions). The other $h_{lm}$ modes are presented with 3.5PN accuracy.
+The expression for $h_{22}$ is given with 4PN accuracy and the nonspinning phase $\psi(x_{22})$ with 4.5PN accuracy (ignoring horizon flux contributions). The spinning phase is presented with 3.5PN accuracy (including horizon flux contributions). The other $h_{lm}$ modes are presented with 3.5PN accuracy.
 
 ## Notations
 
@@ -55,11 +54,7 @@ The phase $\psi(x_{22})$ was obtained:
     * at 4.5PN
         * in (8) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4) [ignoring horizon flux contributions]
 * in the spinning sector for black holes
-    * at 4PN [ignoring horizon flux contributions] for ``phase_infinity_S1.txt``, ``phase_infinity_S2.txt``, ``phase_infinity_S3.txt`` and ``phase_infinity_S4.txt``
-        * in (14) of [arXiv:2201.05138v1](https://arxiv.org/abs/2201.05138v1) for the linear-in-spin and quadratic-in-spin sectors
-        * in (6.20)-(6.21) of [arXiv:1411.4118v2](https://arxiv.org/abs/1411.4118v2) for the cubic-in-spin sector
-        * by deduction from the energy and the flux at infinity given in this repository for the quartic-in-spin sector
-    * at 3.5PN [including horizon flux contributions] for ``phase_S1.txt``, ``phase_S2.txt`` and ``phase_S3.txt``
+    * at 3.5PN [including horizon flux contributions]
         * in (49) of [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2) 
 * in the tidal sector
     * at the $\text{N}^{2.5}\text{LO}$ in:
