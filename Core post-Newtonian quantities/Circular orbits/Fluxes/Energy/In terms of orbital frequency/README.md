@@ -67,8 +67,8 @@ This result was obtained:
             * (6.11) of [arXiv:2304.11186v4](https://arxiv.org/abs/2304.11186v4)
             * (4) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4)
         * in terms of the orbital frequency $x$ in
-            * (VI.61) of [hal:/tel-04224762v1](https://theses.hal.science/tel-04224762v1)
-            * (7.1a) of [arXiv:2504.13245](https://arxiv.org/abs/2504.13245v2)
+            * (VI.61) of [HAL:tel-04224762v1](https://theses.hal.science/tel-04224762v1)
+            * (7.1a) of [arXiv:2504.13245v2](https://arxiv.org/abs/2504.13245v2)
     * at 3.5PN in
         * (41) of [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2)
     * at 3PN in
