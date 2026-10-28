@@ -8,15 +8,17 @@ The *orbit averaged* flux of angular momentum at $\mathcal{I}^+$ for nonspinning
 The *(modified) harmonic* time-eccentricity is expressed in terms of energy and angular momentum at 3PN in (25d) of [arXiv:gr-qc/0407049v1](https://arxiv.org/abs/gr-qc/0407049v1); this translates to $e_t(\varepsilon,j)$ at 3PN as given in ``et.txt``.
 
 The small eccentricity ($e \ll 1$) expansion  of the enhancement functions are contained in the following files
-* ``varphi_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\varphi}(e)$ up to $\mathcal{O}(e^6)$
-* ``psi_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\psi}(e)$ up to $\mathcal{O}(e^6)$
-* ``zeta_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\zeta}(e)$ up to $\mathcal{O}(e^6)$
-* ``kappa_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\kappa}(e)$ up to $\mathcal{O}(e^6)$
+* ``varphi_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\varphi}(e)$ up to $\mathcal{O}(e^{10})$
+* ``psi_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\psi}(e)$ up to $\mathcal{O}(e^{10})$
+* ``zeta_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\zeta}(e)$ up to $\mathcal{O}(e^{10})$
+* ``kappa_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\kappa}(e)$ up to $\mathcal{O}(e^{10})$
 * ``lambda0_expanded.txt`` corresponds to  the expansion of $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
 
 ## Notations
 
 We use the following notations:
+* ``Pi`` is $\pi \approx 3.14$
+* ``EulerGamma`` is the Euler's constant $\gamma_\text{E} \approx 0.58$
 * ``G`` is Newton's constant of gravitation
 * ``c`` is the speed of light
 * ``m`` is the total mass of the binary, $m = m_1 + m_2$
