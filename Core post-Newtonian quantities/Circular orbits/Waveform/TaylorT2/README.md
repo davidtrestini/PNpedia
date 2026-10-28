@@ -7,7 +7,7 @@ $$h = h_+ - i h_- = \frac{G m}{c^2 R}\sum_{\ell=0}^{\infty} \sum_{m=-\ell}^{\ell
 The waveform phase $\psi = \int \mathrm{d} t \, \omega_{22}$ and the amplitudes $h_{\ell m}$ are expressed in terms of the dimensionless waveform frequency $x_{22} = (G m \omega_{22}/c^3)^{2/3}$.
 
 The waveform phase $\psi(x_{22})$ is given in the ``Phase`` folder and is  decomposed as follows:
-* ``phase_NS_ignoring_horizon_absorption.txt`` is the phase of two nonspinning black holes, ignoring horizon flux contributions
+* ``phase_NS_ignoring_horizon_absorption.txt`` is the phase of two nonspinning black holes, ignoring horizon absorption
 * ``phase_S1.txt`` is the linear-in-spin contribution to the phase of two spinning black holes
 * ``phase_S2.txt`` is the quadratic-in-spin contribution to the phase of two spinning black holes
 * ``phase_S3.txt`` is the cubic-in-spin contribution to the phase of two spinning black holes
@@ -26,7 +26,7 @@ Not all contributions are provided for every mode: tidal contributions are only 
 
 The $h_{\ell m}$ modes for $m<0$ are not presented, because they are trivially related to the $m>0$ modes through the relation $h_{\ell (-m)} = (-1)^\ell (h_{\ell m})^*$, where the star denotes a complex conjugate.
 
-The expression for $h_{22}$ is given with 4PN accuracy and the nonspinning phase $\psi(x_{22})$ with 4.5PN accuracy (ignoring horizon flux contributions). The spinning phase is presented with 3.5PN accuracy (including horizon flux contributions). The other $h_{lm}$ modes are presented with 3.5PN accuracy.
+The expression for $h_{22}$ is given with 4PN accuracy and the nonspinning phase $\psi(x_{22})$ with 4.5PN accuracy (ignoring horizon absorption). The spinning phase is presented with 3.5PN accuracy (including horizon absorption). The other $h_{lm}$ modes are presented with 3.5PN accuracy.
 
 ## Notations
 
@@ -52,9 +52,9 @@ We use the following notations:
 The phase $\psi(x_{22})$ was obtained:
 * for nonspinning black holes:
     * at 4.5PN
-        * in (8) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4) [ignoring horizon flux contributions]
+        * in (8) of [arXiv:2304.11185v4](https://arxiv.org/abs/2304.11185v4) [ignoring horizon absorption]
 * in the spinning sector for black holes
-    * at 3.5PN [including horizon flux contributions]
+    * at 3.5PN [including horizon absorption]
         * in (49) of [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2) 
 * in the tidal sector
     * at the $\text{N}^{2.5}\text{LO}$ in:
