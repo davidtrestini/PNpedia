@@ -1,6 +1,6 @@
 # Angular momentum for compact binaries on elliptic orbits
 
-As pointed out in [arXiv:2504.13245v1](https://arxiv.org/abs/2504.13245v1), there are two distinct notions of angular momentum. The conservative angular momentum $`\mathbf{J}_\mathrm{cons}`$ is a constant of motion under the conservative equations of motion. The binding angular momentum $`\mathbf{J}`$ enters the flux balance law $`\frac{\mathrm{d} \mathbf{J}}{\mathrm{d}t}  = - \mathcal{F}_{\mathbf{J}}`$. The difference between the two is called a Schott term, $`\mathbf{J}_\mathrm{Schott}`$, which is nonvanishing for elliptic orbits (after orbit averaging) starting at 4PN. The expression of the binding angular momentum in terms of the orbital (radial and azimuthal) frequencies depends on an arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the flux, and drops out of the balance law. For nonprecessing binaries, only the direction of the angular momentum is constant and orthogonal to the orbital plane: only the norm $`J = |\mathbf{J}|`$ is needed.
+As pointed out in [arXiv:2504.13245v2](https://arxiv.org/abs/2504.13245v2), there are two distinct notions of angular momentum. The conservative angular momentum $`\mathbf{J}_\mathrm{cons}`$ is a constant of motion under the conservative equations of motion. The binding angular momentum $`\mathbf{J}`$ enters the flux balance law $`\frac{\mathrm{d} \mathbf{J}}{\mathrm{d}t}  = - \mathcal{F}_{\mathbf{J}}`$. The difference between the two is called a Schott term, $`\mathbf{J}_\mathrm{Schott}`$, which is nonvanishing for elliptic orbits (after orbit averaging) starting at 4PN. The expression of the binding angular momentum in terms of the orbital (radial and azimuthal) frequencies depends on an arbitrary scale $b_0$, which is related to the choice of slicing in relating near-zone and far zone quantities. This arbitrary constant also appears in the flux, and drops out of the balance law. For nonprecessing binaries, the direction of the angular momentum is constant and orthogonal to the orbital plane: only the norm $`J = |\mathbf{J}|`$ is needed.
 
 For nonprecessing compact binaries on elliptic orbits:
 * the file ``angular_momentum_NS_conservative.txt`` contains the conservative, nonspinning contributions to the 4PN angular momentum in terms of the Blanchet frequency parameters $(x,\iota)$, which are directly related to the radial and azimuthal frequencies (see below)
@@ -13,7 +13,7 @@ For nonprecessing compact binaries on elliptic orbits:
 * the file ``angular_momentum_SID.txt`` contains the spin-induced deformability contributions to the 4PN angular momentum in terms of the Blanchet frequency parameters $(x,\iota)$ 
 * the file  ``lambda0_expanded.txt`` contains the small $e$ expansion  of the function $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
 
-At 3PN, the Schott term is vanishing and the binding angular momentum is thus identical to the conservative angular momentum.
+The Schott term, and thus the binding angular momentum, are not known at 4PN. At 3PN, the Schott term is vanishing and the binding angular momentum is thus identical to the conservative angular momentum.
 
 
 ## Notations
@@ -86,6 +86,8 @@ The conservative angular momentum was obtained:
 The small $e$ expansion of $\lambda_0(e)$ was obtained
 * up to $\mathcal{O}(e^8)$ in
     * (4.41) and (4.43) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
+
+The Schott contributions (which enter at 4PN and need to be added to obtain the binding angular momentum) are unknown.
 
 ## Endorsers
 
