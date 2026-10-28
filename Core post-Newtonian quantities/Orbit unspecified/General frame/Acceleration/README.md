@@ -28,13 +28,15 @@ We use the following notations:
 * ``l0`` is an arbitrary length associated with dimensional regularization
 
 We have also introduced the functions defining the hereditary contributions :
-* $I_{\text{4PN}}$, such that the 4PN contribution to the equations of motion reads $a^i_{\text{4PN}}=\frac{4 G^2 (m1+m2)}{5 c^8} y_1^j \int_0^{+\infty} d\tau ~ \ln\left(\frac{c \tau}{2 b0}\right) \Big[ I_{\text{4PN}}\[i,j\](t-\tau)+I_{\text{4PN}}\[i,j\](t+\tau)\Big]$, where $I_{\text{4PN}}\[i,j\]=\frac{d^7}{dt^7}(m_1 y_1^i y_1^j + m_2 y_2^i y_2^j -\frac{1}{3} \delta^{ij}(m_2 y_{2}^k y_{2}^k + m_{1} y_{1}^k y_{1}^k))$ is the time derivative of the quadrupole at Newtonian order with $\delta^{ij}$ the Kronecker delta.
-* $I_{\text{4.5PN}}$, such that the hereditary 4.5PN contribution to the equations of motion reads $a^i_{\text{4.5PN}} = \frac{2 G }{c^9} \int_0^{+\infty} d\tau ~ \ln\left(\frac{c \tau \sqrt{\pi}}{l0}\right) \Big[I_{\text{4.5PN}}\[i\](t-\tau)-I_{\text{4.5PN}}\[i\](t+\tau)\Big]$, where $I_{\text{4.5PN}}\[i\]=\frac{d^4}{dt^4}(\frac{G^3 n_{12}^{i}}{r_{12}}(m_2^3 m_1 - m_1^3 m_2))$
+* $I_{\text{4PN}}$, such that the 4PN contribution to the equations of motion reads $`a^i_{\text{4PN}}=\frac{4 G^2 (m1+m2)}{5 c^8} y_1^j \int_0^{+\infty} d\tau ~ \ln\left(\frac{c \tau}{2 b0}\right) \Big[ I_{\text{4PN}}[i,j](t-\tau)+I_{\text{4PN}}[i,j](t+\tau)\Big]`$, where $`I_{\text{4PN}}[i,j]=\frac{d^7}{dt^7}(m_1 y_1^i y_1^j + m_2 y_2^i y_2^j -\frac{1}{3} \delta^{ij}(m_2 y_{2}^k y_{2}^k + m_{1} y_{1}^k y_{1}^k))`$ is the time derivative of the quadrupole at Newtonian order with $\delta^{ij}$ the Kronecker delta.
+* $I_{\text{4.5PN}}$, such that the hereditary 4.5PN contribution to the equations of motion reads $`a^i_{\text{4.5PN}} = \frac{2 G }{c^9} \int_0^{+\infty} d\tau ~ \ln\left(\frac{c \tau \sqrt{\pi}}{l0}\right) \Big[I_{\text{4.5PN}}[i](t-\tau)-I_{\text{4.5PN}}[i](t+\tau)\Big]`$, where $`I_{\text{4.5PN}}[i]=\frac{d^4}{dt^4}(\frac{G^3 n_{12}^{i}}{r_{12}}(m_2^3 m_1 - m_1^3 m_2))`$
 
 ## Sources
 
 The equations of motion were obtained in harmonic coordinates :
+* at 2.5PN in
+(5.3) of [arXiv:gr-qc/0412018v2](https://arxiv.org/abs/gr-qc/0412018v2)
 * at 3.5PN in 
-(5.4) of [https://arxiv.org/abs/gr-qc/0201001](https://arxiv.org/pdf/gr-qc/0412018)
+(5.4) of [arXiv:gr-qc/0412018v2](https://arxiv.org/abs/gr-qc/0412018v2), but with the following typo: inside the curly brackets, the terms proportional to $G^2 m_1 m_2$ and $G^2 m_2^2$ should be divided by $r_{12}^2$ instead of $r_{12}^3$
 * at 4.5PN in
-(5.5)-(5.6) of [arXiv:2601.06743](https://arxiv.org/abs/2601.06743)
+(5.5)-(5.6) of [arXiv:2601.06743v3](https://arxiv.org/abs/2601.06743v3)

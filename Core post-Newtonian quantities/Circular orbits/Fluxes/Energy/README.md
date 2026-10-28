@@ -10,7 +10,7 @@ When expressed in terms of the orbital frequency $x$, the fluxes depend on an ar
 
 ## What is presented
 
-In the section ``In terms of orbital frequency'', we provide:
+In the section ``In terms of orbital frequency``, we provide:
 * the fluxes of energy through future null infinity and the horizons in terms of orbital frequency, $F_\text{E}^\infty(x)$ and $F_\text{E}^{\mathcal{H}_{12}}(x)$ [depends on $b_0$]
-In the section ``In terms of waveform frequency'', we provide:
+In the section ``In terms of waveform frequency``, we provide:
 * the fluxes of energy through future null infinity and the horizons in terms of waveform frequency, $F_\text{E}^\infty(x_{22})$ and $F_\text{E}^{\mathcal{H}_{12}}(x_{22})$ [does not depend on $b_0$]

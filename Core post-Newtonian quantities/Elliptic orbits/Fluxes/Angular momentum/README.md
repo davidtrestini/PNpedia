@@ -5,18 +5,20 @@ The *orbit averaged* flux of angular momentum at $\mathcal{I}^+$ for nonspinning
 * in ``flux_infinity_x_iota.txt`` in terms of Blanchet frequency parameters $(x,\iota)$.
 * in ``flux_infinity_x_et.txt``  in terms of frequency parameter $x$ and the harmonic time eccentricity $e_t$.
 
-The *(modified) harmonic* time-eccentricity is expressed in terms of energy and angular momentum at 3PN in (25d); this translates to $e_t(\varepsilon,j)$ at 3PN as given in ``et.txt``.
+The *(modified) harmonic* time-eccentricity is expressed in terms of energy and angular momentum at 3PN in (25d) of [arXiv:gr-qc/0407049v1](https://arxiv.org/abs/gr-qc/0407049v1); this translates to $e_t(\varepsilon,j)$ at 3PN as given in ``et.txt``.
 
 The small eccentricity ($e \ll 1$) expansion  of the enhancement functions are contained in the following files
-* ``varphi_expanded.txt`` corresponds to  the expansion of $\varphi(e)$ up to $\mathcal{O}(e^6)$
-* ``psi_expanded.txt`` corresponds to  the expansion of $\psi(e)$ up to $\mathcal{O}(e^6)$
-* ``zeta_expanded.txt`` corresponds to  the expansion of $\zeta(e)$ up to $\mathcal{O}(e^6)$
-* ``kappa_expanded.txt`` corresponds to  the expansion of $\kappa(e)$ up to $\mathcal{O}(e^6)$
-* ``lambda_0.txt`` corresponds to  the expansion of $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
+* ``varphi_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\varphi}(e)$ up to $\mathcal{O}(e^{10})$
+* ``psi_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\psi}(e)$ up to $\mathcal{O}(e^{10})$
+* ``zeta_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\zeta}(e)$ up to $\mathcal{O}(e^{10})$
+* ``kappa_tilde_expanded.txt`` corresponds to  the expansion of $\widetilde{\kappa}(e)$ up to $\mathcal{O}(e^{10})$
+* ``lambda0_expanded.txt`` corresponds to  the expansion of $\lambda_0(e)$ up to $\mathcal{O}(e^8)$
 
 ## Notations
 
 We use the following notations:
+* ``Pi`` is $\pi \approx 3.14$
+* ``EulerGamma`` is the Euler's constant $\gamma_\text{E} \approx 0.58$
 * ``G`` is Newton's constant of gravitation
 * ``c`` is the speed of light
 * ``m`` is the total mass of the binary, $m = m_1 + m_2$
@@ -33,7 +35,7 @@ We also introduce the following *enhancement functions* defined in (5.28) of [ar
 *  ``\[Zeta]$tilde[e]`` is defined as $\tilde\zeta(e) = -\frac{1424}{4081}\tilde\theta(e) + \frac{16403}{12243}\tilde\beta(e) + \frac{16}{1749}\tilde\gamma(e)$
 *  ``\[Kappa]$tilde[e]`` is defined as $\tilde\kappa(e) = \frac{1 + \frac{229}{32}e^2 + \frac{327}{64} e^4 + \frac{69}{256}e^6}{(1-e^2)^{5}} + \frac{59920}{116761} \tilde\chi(e)$
 
-where $e$ is a dummy (eccentricity-like) variable. The intermediate enhancement functions $\tilde\varphi(e_t)$, $\tilde\alpha(e_t)$, $\tilde\beta(e_t)$, $\tilde\gamma(e_t)$, $\tilde\theta(e_t)$, $\tilde\chi(e_t)$ are defined in (92)-(102) of [arXiv:1607.05409v3](https://arxiv.org/abs/1607.05409v3) in terms of the Fourier decomposition of the multipolar moments, which are given in (65)-(70) and (A1)-(A8) of [arXiv:1607.05409v3](https://arxiv.org/abs/1607.05409v3) [note that there is a typo in (A8), which should acquire a global minus sign]. Another equivalent formulation of the Fourier decomposition of the multipolar moments at Newtonian order is given by (A3)-(A5) of [arXiv:0711.0250v1](https://arxiv.org/abs/0711.0250v1) [note however the typo in (A5a)]. The previous typos are flagged and corrected in Footnote 12 of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1).
+where $e$ is a dummy (eccentricity-like) variable. The intermediate enhancement functions $\tilde\varphi(e_t)$, $\tilde\alpha(e_t)$, $\tilde\beta(e_t)$, $\tilde\gamma(e_t)$, $\tilde\theta(e_t)$, $\tilde\chi(e_t)$ are defined in (92)-(102) of [arXiv:1607.05409v3](https://arxiv.org/abs/1607.05409v3) in terms of the Fourier decomposition of the multipolar moments, which are given in (65)-(70) and (A.1)-(A.8) of [arXiv:1607.05409v3](https://arxiv.org/abs/1607.05409v3) [note that there is a typo in (A.8), which should acquire a global minus sign]. Another equivalent formulation of the Fourier decomposition of the multipolar moments at Newtonian order is given by (A3)-(A5) of [arXiv:0711.0250v2](https://arxiv.org/abs/0711.0250v2) [note however the typo in (A5a)]. The previous typos are flagged and corrected in Footnote 12 of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1).
 
 We introduce yet another enhancement function defined in (4.15), (4.28), and (4.40) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1):
 * ``\[Lambda]0[e]`` corresponds to $\lambda_0(e)$
@@ -45,13 +47,13 @@ The derivatives of the various enhancement functions with respect to $e$ are den
 This result was obtained:
 * at 3PN
     * in terms of $(x,e_t)$ in
-        * (4.10) and (5.29) of [arXiv:0711.0302v2](https://arxiv.org/abs/0711.0302v2)
+        * (4.10) and (5.29) of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2)
     * in terms of $(x,\iota)$ in
         * (8.2b) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
     * in terms of $(\varepsilon,j)$ in
         * (8.1b) of [arXiv:2511.10735v1](https://arxiv.org/abs/2511.10735v1)
 
-Note that the treatment of the memory contribution of [arXiv:0711.0302v2](https://arxiv.org/abs/0711.0302v2) is incomplete, and is completed in Appendix A of [arXiv:2410.12898v2](https://arxiv.org/abs/2410.12898v2)
+Note that the treatment of the memory contribution of [arXiv:0908.3854v2](https://arxiv.org/abs/0908.3854v2) is incomplete, and is completed in Appendix A of [arXiv:2410.12898v2](https://arxiv.org/abs/2410.12898v2)
 
 The small eccentricity expansions of the enhancement functions are given:
 * for $\tilde\varphi(e)$
