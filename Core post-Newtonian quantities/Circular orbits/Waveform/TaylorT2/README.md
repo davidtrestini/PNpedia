@@ -73,12 +73,14 @@ The $h_{\ell m}(x_{22})$ modes were obtained:
             * in (38) of [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2)
         * at 3PN
             * in (4.3) of [arXiv:0812.0069v2](https://arxiv.org/abs/0812.0069v2)
+        * the modes with odd $\ell$ vanish by up-down symmetry, see [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2)
 * in the spinning sector for black holes
     * for the oscillatory ($m>0$) modes      
         * at 3.5PN in:
             * the ancillary file ``modes_PNexp_full_35PN.dat.m`` of [arXiv:2210.15602v2](https://arxiv.org/abs/2210.15602v2)  
     * for the nonoscillatory ($m=0$) modes
         * in (50) and the Supplemental Material of [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2)
+        * the modes with odd $\ell$ vanish by up-down symmetry, see [arXiv:2410.23950v2](https://arxiv.org/abs/2410.23950v2)
 * in the tidal sector
     * at the $\text{N}^{2.5}\text{LO}$ in:
 	    * (4.13) of [arXiv:2412.14249v2](https://arxiv.org/abs/2412.14249v2) 
